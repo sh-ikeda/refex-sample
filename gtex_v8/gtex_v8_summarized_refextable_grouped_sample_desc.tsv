@@ -1,56 +1,56 @@
-RefEx_Sample_ID	Description	#_of_samples	category
-RES00003651	Brain - Cortex	325	tissues
-RES00003652	Prostate	262	tissues
-RES00003653	Minor Salivary Gland	181	tissues
-RES00003654	Lung	867	tissues
-RES00003655	Brain - Spinal cord (cervical c-1)	182	tissues
-RES00003656	Heart - Left Ventricle	689	tissues
-RES00003657	Kidney - Medulla	4	tissues
-RES00003658	Esophagus - Muscularis	559	tissues
-RES00003659	Cells - EBV-transformed lymphocytes	192	primary cells
-RES00003660	Nerve - Tibial	722	tissues
-RES00003661	Uterus	166	tissues
-RES00003662	Artery - Tibial	770	tissues
-RES00003663	Brain - Substantia nigra	164	tissues
-RES00003664	Small Intestine - Terminal Ileum	193	tissues
-RES00003665	Cervix - Endocervix	10	tissues
-RES00003666	Kidney - Cortex	100	tissues
-RES00003667	Colon - Sigmoid	389	tissues
-RES00003668	Brain - Anterior cingulate cortex (BA24)	213	tissues
-RES00003669	Artery - Aorta	450	tissues
-RES00003670	Brain - Nucleus accumbens (basal ganglia)	277	tissues
-RES00003671	Brain - Hippocampus	243	tissues
-RES00003672	Esophagus - Gastroesophageal Junction	401	tissues
-RES00003673	Brain - Cerebellar Hemisphere	263	tissues
-RES00003674	Cells - Leukemia cell line (CML)	217	primary cells
-RES00003675	Liver	251	tissues
-RES00003676	Vagina	173	tissues
-RES00003677	Ovary	195	tissues
-RES00003678	Brain - Frontal Cortex (BA9)	425	tissues
-RES00003679	Pancreas	360	tissues
-RES00003680	Muscle - Skeletal	1132	tissues
-RES00003681	Brain - Cerebellum	298	tissues
-RES00003682	Adipose - Visceral (Omentum)	564	tissues
-RES00003683	Brain - Caudate (basal ganglia)	291	tissues
-RES00003684	Skin - Not Sun Exposed (Suprapubic)	638	tissues
-RES00003685	Breast - Mammary Tissue	480	tissues
-RES00003686	Thyroid	812	tissues
-RES00003687	Brain - Putamen (basal ganglia)	232	tissues
-RES00003688	Pituitary	301	tissues
-RES00003689	Cervix - Ectocervix	9	tissues
-RES00003690	Cells - Cultured fibroblasts	527	primary cells
-RES00003691	Heart - Atrial Appendage	452	tissues
-RES00003692	Whole Blood	3288	tissues
-RES00003693	Artery - Coronary	253	tissues
-RES00003694	Brain - Amygdala	177	tissues
-RES00003695	Brain - Hypothalamus	236	tissues
-RES00003696	Testis	406	tissues
-RES00003697	Stomach	381	tissues
-RES00003698	Adrenal Gland	275	tissues
-RES00003699	Skin - Sun Exposed (Lower leg)	849	tissues
-RES00003700	Spleen	260	tissues
-RES00003701	Adipose - Subcutaneous	763	tissues
-RES00003702	Bladder	21	tissues
-RES00003703	Esophagus - Mucosa	622	tissues
-RES00003704	Colon - Transverse	432	tissues
-RES00003705	Fallopian Tube	9	tissues
+RefEx_Sample_ID	Description	#_of_samples	category		
+RES00003651	Brain - Cortex	325	tissues	Brain	Cortex	Mixed	20-79	UBERON_0001870	frontal cortex
+RES00003652	Prostate	262	tissues	Prostate		Mixed	20-79	UBERON_0002367	prostate gland
+RES00003653	Minor Salivary Gland	181	tissues	Minor Salivary Gland		Mixed	20-79	UBERON_0006330	anterior lingual gland
+RES00003654	Lung	867	tissues	Lung		Mixed	20-79	UBERON_0008952	upper lobe of left lung
+RES00003655	Brain - Spinal cord (cervical c-1)	182	tissues	Brain	Spinal cord (cervical c-1)	Mixed	20-79	UBERON_0006469	C1 segment of cervical spinal cord
+RES00003656	Heart - Left Ventricle	689	tissues	Heart	Left Ventricle	Mixed	20-79	UBERON_0006566	left ventricle myocardium
+RES00003657	Kidney - Medulla	4	tissues	Kidney	Medulla	Mixed	20-79	UBERON_0001293	outer medulla of kidney
+RES00003658	Esophagus - Muscularis	559	tissues	Esophagus	Muscularis	Mixed	20-79	UBERON_0004648	esophagus muscularis mucosa
+RES00003659	Cells - EBV-transformed lymphocytes	192	primary cells	Cells	EBV-transformed lymphocytes	Mixed	20-79	EFO_0000572	lymphoblast
+RES00003660	Nerve - Tibial	722	tissues	Nerve	Tibial	Mixed	20-79	UBERON_0001323	tibial nerve
+RES00003661	Uterus	166	tissues	Uterus		Mixed	20-79	UBERON_0000995	uterus
+RES00003662	Artery - Tibial	770	tissues	Artery	Tibial	Mixed	20-79	UBERON_0007610	tibial artery
+RES00003663	Brain - Substantia nigra	164	tissues	Brain	Substantia nigra	Mixed	20-79	UBERON_0002038	substantia nigra
+RES00003664	Small Intestine - Terminal Ileum	193	tissues	Small Intestine	Terminal Ileum	Mixed	20-79	UBERON_0001211	Peyer's patch
+RES00003665	Cervix - Endocervix	10	tissues	Cervix	Endocervix	Mixed	20-79	UBERON_0000458	endocervix
+RES00003666	Kidney - Cortex	100	tissues	Kidney	Cortex	Mixed	20-79	UBERON_0001225	cortex of kidney
+RES00003667	Colon - Sigmoid	389	tissues	Colon	Sigmoid	Mixed	20-79	UBERON_0001159	sigmoid colon
+RES00003668	Brain - Anterior cingulate cortex (BA24)	213	tissues	Brain	Anterior cingulate cortex (BA24)	Mixed	20-79	UBERON_0009835	anterior cingulate cortex
+RES00003669	Artery - Aorta	450	tissues	Artery	Aorta	Mixed	20-79	UBERON_0001496	ascending aorta
+RES00003670	Brain - Nucleus accumbens (basal ganglia)	277	tissues	Brain	Nucleus accumbens (basal ganglia)	Mixed	20-79	UBERON_0001882	nucleus accumbens
+RES00003671	Brain - Hippocampus	243	tissues	Brain	Hippocampus	Mixed	20-79	UBERON_0001954	Ammon's horn
+RES00003672	Esophagus - Gastroesophageal Junction	401	tissues	Esophagus	Gastroesophageal Junction	Mixed	20-79	UBERON_0004550	gastroesophageal sphincter
+RES00003673	Brain - Cerebellar Hemisphere	263	tissues	Brain	Cerebellar Hemisphere	Mixed	20-79	UBERON_0002037	cerebellum
+RES00003674	Cells - Leukemia cell line (CML)	217	primary cells	Cells	Leukemia cell line (CML)	Mixed	20-79		
+RES00003675	Liver	251	tissues	Liver		Mixed	20-79	UBERON_0001114	right lobe of liver
+RES00003676	Vagina	173	tissues	Vagina		Mixed	20-79	UBERON_0000996	vagina
+RES00003677	Ovary	195	tissues	Ovary		Mixed	20-79	UBERON_0000992	ovary
+RES00003678	Brain - Frontal Cortex (BA9)	425	tissues	Brain	Frontal Cortex (BA9)	Mixed	20-79	UBERON_0009834	dorsolateral prefrontal cortex
+RES00003679	Pancreas	360	tissues	Pancreas		Mixed	20-79	UBERON_0001150	body of pancreas
+RES00003680	Muscle - Skeletal	1132	tissues	Muscle	Skeletal	Mixed	20-79	UBERON_0011907	gastrocnemius medialis
+RES00003681	Brain - Cerebellum	298	tissues	Brain	Cerebellum	Mixed	20-79	UBERON_0002037	cerebellum
+RES00003682	Adipose - Visceral (Omentum)	564	tissues	Adipose	Visceral (Omentum)	Mixed	20-79	UBERON_0010414	omental fat pad
+RES00003683	Brain - Caudate (basal ganglia)	291	tissues	Brain	Caudate (basal ganglia)	Mixed	20-79	UBERON_0001873	caudate nucleus
+RES00003684	Skin - Not Sun Exposed (Suprapubic)	638	tissues	Skin	Not Sun Exposed (Suprapubic)	Mixed	20-79	UBERON_0036149	suprapubic skin
+RES00003685	Breast - Mammary Tissue	480	tissues	Breast	Mammary Tissue	Mixed	20-79	UBERON_0008367	breast epithelium
+RES00003686	Thyroid	812	tissues	Thyroid		Mixed	20-79	UBERON_0002046	thyroid gland
+RES00003687	Brain - Putamen (basal ganglia)	232	tissues	Brain	Putamen (basal ganglia)	Mixed	20-79	UBERON_0001874	putamen
+RES00003688	Pituitary	301	tissues	Pituitary		Mixed	20-79	UBERON_0000007	pituitary gland
+RES00003689	Cervix - Ectocervix	9	tissues	Cervix	Ectocervix	Mixed	20-79	UBERON_0012249	ectocervix
+RES00003690	Cells - Cultured fibroblasts	527	primary cells	Cells	Cultured fibroblasts	Mixed	20-79	EFO_0002009	fibroblast derived cell line
+RES00003691	Heart - Atrial Appendage	452	tissues	Heart	Atrial Appendage	Mixed	20-79	UBERON_0006631	right atrium auricular region
+RES00003692	Whole Blood	3288	tissues	Whole Blood		Mixed	20-79	UBERON_0013756	venous blood
+RES00003693	Artery - Coronary	253	tissues	Artery	Coronary	Mixed	20-79	UBERON_0001621	coronary artery
+RES00003694	Brain - Amygdala	177	tissues	Brain	Amygdala	Mixed	20-79	UBERON_0001876	amygdala
+RES00003695	Brain - Hypothalamus	236	tissues	Brain	Hypothalamus	Mixed	20-79	UBERON_0001898	hypothalamus
+RES00003696	Testis	406	tissues	Testis		Mixed	20-79	UBERON_0000473	testis
+RES00003697	Stomach	381	tissues	Stomach		Mixed	20-79	UBERON_0000945	stomach
+RES00003698	Adrenal Gland	275	tissues	Adrenal Gland		Mixed	20-79	UBERON_0002369	adrenal gland
+RES00003699	Skin - Sun Exposed (Lower leg)	849	tissues	Skin	Sun Exposed (Lower leg)	Mixed	20-79	UBERON_0004264	lower leg skin
+RES00003700	Spleen	260	tissues	Spleen		Mixed	20-79	UBERON_0002106	spleen
+RES00003701	Adipose - Subcutaneous	763	tissues	Adipose	Subcutaneous	Mixed	20-79	UBERON_0002190	subcutaneous adipose tissue
+RES00003702	Bladder	21	tissues	Bladder		Mixed	20-79	UBERON_0001255	urinary bladder
+RES00003703	Esophagus - Mucosa	622	tissues	Esophagus	Mucosa	Mixed	20-79	UBERON_0006920	esophagus squamous epithelium
+RES00003704	Colon - Transverse	432	tissues	Colon	Transverse	Mixed	20-79	UBERON_0001157	transverse colon
+RES00003705	Fallopian Tube	9	tissues	Fallopian Tube		Mixed	20-79	UBERON_0003889	fallopian tube
