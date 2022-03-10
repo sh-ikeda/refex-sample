@@ -1,4 +1,4 @@
-RefEx Sample ID	Description	Number of samples	Sample type category	Tissue 1	Tissue 2	Sex	Age	UBERON ID	UBERON label
+RefEx Sample ID	Description	Number of samples	Sample type category	Tissue	Sub-region	Sex	Age	UBERON ID	UBERON label
 RES00002522	Whole Blood, F, 60-69	347	tissues	Whole Blood		F	60-69	UBERON_0013756	venous blood
 RES00002523	Brain - Frontal Cortex (BA9), F, 60-69	54	tissues	Brain	Frontal Cortex (BA9)	F	60-69	UBERON_0009834	dorsolateral prefrontal cortex
 RES00002524	Adipose - Subcutaneous, F, 60-69	77	tissues	Adipose	Subcutaneous	F	60-69	UBERON_0002190	subcutaneous adipose tissue
