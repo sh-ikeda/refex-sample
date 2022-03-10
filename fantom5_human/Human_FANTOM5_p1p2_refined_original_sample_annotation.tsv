@@ -860,7 +860,7 @@ FANTOM5_Sample_ID	Characteristics [description]	Sample types category	Experiment
 11838-124H2	mesenchymal precursor cell - ovarian cancer metastasis, donor4	primary cells	snapshot	Human (Homo sapiens)	NA	NA	NA	NA	UBERON:0000992	ovary	CL:0000134	mesenchymal stem cell	NCIT:C4908	Ovarian Carcinoma
 11840-124H4	mesenchymal precursor cell - bone marrow, donor3	primary cells	snapshot	Human (Homo sapiens)	NA	NA	NA	NA	UBERON:0002371	bone marrow	CL:0002540	mesenchymal stem cell of the bone marrow	NA	NA
 11841-124H5	serous adenocarcinoma cell line:SK-OV-3-R, biol_rep1	cell lines	snapshot	Human (Homo sapiens)	NA	NA	NA	NA	UBERON:0000992	ovary	CL:2000064	ovarian surface epithelial cell	NCIT:C7978	Ovarian serous cystadenocarcinoma
-11842-124H6	mesenchymal precursor cell - ovarian cancer right ovary, donor3 (SOC-57-02-G)	primary cells	snapshot	Human (Homo sapiens)	NA	NA	NA	NA	UBERON:0002371	bone marrow	CL:0000134	mesenchymal stem cell	NCIT:C4908	Ovarian Carcinoma
+11842-124H6	mesenchymal precursor cell - ovarian cancer right ovary, donor3 (SOC-57-02-G)	primary cells	snapshot	Human (Homo sapiens)	NA	NA	NA	NA	UBERON:0000992	ovary	CL:0000134	mesenchymal stem cell	NCIT:C4908	Ovarian Carcinoma
 11843-124H7	serous adenocarcinoma cell line:SK-OV-3-R after co-culture with SOC-57-02-G, biol_rep1	cell lines	snapshot	Human (Homo sapiens)	NA	NA	NA	NA	UBERON:0000992	ovary	CL:2000064	ovarian surface epithelial cell	NCIT:C7978	Ovarian serous cystadenocarcinoma
 11860-125A6	CD14+ monocytes - treated with BCG, donor1	primary cells	snapshot	Human (Homo sapiens)	female	69	year	adult	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
 11861-125A7	CD14+ monocytes - treated with IFN + N-hexane, donor1	primary cells	snapshot	Human (Homo sapiens)	female	69	year	adult	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
@@ -1601,7 +1601,7 @@ FANTOM5_Sample_ID	Characteristics [description]	Sample types category	Experiment
 13442-144F4	iPS differentiation to neuron, control donor C32-CRL1502, day06, rep3	stem cells	time courses	Human (Homo sapiens)	female	10	week	fetus	NA	NA	CL:0000031	neuroblast	NA	NA
 13443-144F5	iPS differentiation to neuron, control donor C32-CRL1502, day12, rep3	stem cells	time courses	Human (Homo sapiens)	female	10	week	fetus	NA	NA	CL:0000031	neuroblast	NA	NA
 13444-144F6	iPS differentiation to neuron, control donor C32-CRL1502, day18, rep3	stem cells	time courses	Human (Homo sapiens)	female	10	week	fetus	NA	NA	CL:0000031	neuroblast	NA	NA
-13445-144F7	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day00, rep1	stem cells	time courses	Human (Homo sapiens)	male	NA	NA	NA	NA	NA	CL:0002248	pluripotent stem cell	NA	NA
+13445-144F7	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day00, rep1	stem cells	time courses	Human (Homo sapiens)	male	NA	NA	NA	NA	NA	CL:0002248	pluripotent stem cell	NCIT:C2993	Down Syndrome
 13446-144F8	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day06, rep1	stem cells	time courses	Human (Homo sapiens)	male	NA	NA	NA	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
 13447-144F9	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day12, rep1	stem cells	time courses	Human (Homo sapiens)	male	NA	NA	NA	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
 13448-144G1	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day18, rep1	stem cells	time courses	Human (Homo sapiens)	male	NA	NA	NA	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
