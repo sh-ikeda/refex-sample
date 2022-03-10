@@ -1,868 +1,868 @@
-RefEx_Sample_ID	Description	#_of_sample	category
-RES00001647	293SLAM rinderpest infection, 00hr	3	cell lines
-RES00001648	293SLAM rinderpest infection, 06hr	3	cell lines
-RES00001649	293SLAM rinderpest infection, 12hr	3	cell lines
-RES00001650	293SLAM rinderpest infection, 24hr	3	cell lines
-RES00001651	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 00hr00min	3	cell lines
-RES00001652	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 00hr15min	3	cell lines
-RES00001653	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 00hr30min	3	cell lines
-RES00001654	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 00hr45min	3	cell lines
-RES00001655	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 01hr00min	3	cell lines
-RES00001656	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 01hr20min	3	cell lines
-RES00001657	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 01hr40min	3	cell lines
-RES00001658	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 02hr00min	3	cell lines
-RES00001659	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 02hr30min	3	cell lines
-RES00001660	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 03hr00min	3	cell lines
-RES00001661	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 03hr30min	3	cell lines
-RES00001662	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 04hr00min	3	cell lines
-RES00001663	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 05hr00min	3	cell lines
-RES00001664	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 06hr00min	3	cell lines
-RES00001665	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 07hr00min	3	cell lines
-RES00001666	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 08hr00min	3	cell lines
-RES00001667	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 12hr00min	2	cell lines
-RES00001668	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 16hr00min	3	cell lines
-RES00001669	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 24hr00min	3	cell lines
-RES00001670	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 42hr00min	3	cell lines
-RES00001671	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 60hr00min	3	cell lines
-RES00001672	Adipocyte - breast	2	primary cells
-RES00001673	Adipocyte - omental	3	primary cells
-RES00001674	Adipocyte - perirenal	1	primary cells
-RES00001675	Adipocyte - subcutaneous	3	primary cells
-RES00001676	Adipocyte differentiation, day04	4	primary cells
-RES00001677	Adipocyte differentiation, day08	4	primary cells
-RES00001678	Adipocyte differentiation, day12	4	primary cells
-RES00001679	Alveolar Epithelial Cells	3	primary cells
-RES00001680	Amniotic Epithelial Cells	3	primary cells
-RES00001681	Anulus Pulposus Cell	2	primary cells
-RES00001682	Aortic smooth muscle cell response to FGF2, 00hr00min	3	primary cells
-RES00001683	Aortic smooth muscle cell response to FGF2, 00hr15min	3	primary cells
-RES00001684	Aortic smooth muscle cell response to FGF2, 00hr30min	3	primary cells
-RES00001685	Aortic smooth muscle cell response to FGF2, 00hr45min	3	primary cells
-RES00001686	Aortic smooth muscle cell response to FGF2, 01hr	3	primary cells
-RES00001687	Aortic smooth muscle cell response to FGF2, 02hr	3	primary cells
-RES00001688	Aortic smooth muscle cell response to FGF2, 03hr	3	primary cells
-RES00001689	Aortic smooth muscle cell response to FGF2, 04hr	3	primary cells
-RES00001690	Aortic smooth muscle cell response to FGF2, 05hr	3	primary cells
-RES00001691	Aortic smooth muscle cell response to FGF2, 06hr	3	primary cells
-RES00001692	Aortic smooth muscle cell response to IL1b, 00hr00min	3	primary cells
-RES00001693	Aortic smooth muscle cell response to IL1b, 00hr15min	3	primary cells
-RES00001694	Aortic smooth muscle cell response to IL1b, 00hr30min	3	primary cells
-RES00001695	Aortic smooth muscle cell response to IL1b, 00hr45min	3	primary cells
-RES00001696	Aortic smooth muscle cell response to IL1b, 01hr	3	primary cells
-RES00001697	Aortic smooth muscle cell response to IL1b, 02hr	3	primary cells
-RES00001698	Aortic smooth muscle cell response to IL1b, 03hr	3	primary cells
-RES00001699	Aortic smooth muscle cell response to IL1b, 04hr	3	primary cells
-RES00001700	Aortic smooth muscle cell response to IL1b, 05hr	3	primary cells
-RES00001701	Aortic smooth muscle cell response to IL1b, 06hr	3	primary cells
-RES00001702	Astrocyte - cerebellum	3	primary cells
-RES00001703	Astrocyte - cerebral cortex	3	primary cells
-RES00001704	B lymphoblastoid cell line: GM12878 ENCODE	3	cell lines
-RES00001705	Basophils	3	primary cells
-RES00001706	Bronchial Epithelial Cell	7	primary cells
-RES00001707	Burkitt's lymphoma cell line:DAUDI	1	cell lines
-RES00001708	Burkitt's lymphoma cell line:RAJI	1	cell lines
-RES00001709	CD133+ stem cells - adult bone marrow derived	1	primary cells
-RES00001710	CD133+ stem cells - cord blood derived	1	primary cells
-RES00001711	CD14+ Monocytes	3	primary cells
-RES00001712	CD14+ monocyte derived endothelial progenitor cells	3	primary cells
-RES00001713	CD14+ monocytes - mock treated	3	primary cells
-RES00001714	CD14+ monocytes - treated with B-glucan	3	primary cells
-RES00001715	CD14+ monocytes - treated with BCG	3	primary cells
-RES00001716	CD14+ monocytes - treated with Candida	3	primary cells
-RES00001717	CD14+ monocytes - treated with Cryptococcus	3	primary cells
-RES00001718	CD14+ monocytes - treated with Group A streptococci	3	primary cells
-RES00001719	CD14+ monocytes - treated with IFN + N-hexane	3	primary cells
-RES00001720	CD14+ monocytes - treated with Salmonella	3	primary cells
-RES00001721	CD14+ monocytes - treated with Trehalose dimycolate (TDM)	3	primary cells
-RES00001722	CD14+ monocytes - treated with lipopolysaccharide	3	primary cells
-RES00001723	CD14+CD16+ Monocytes	3	primary cells
-RES00001724	CD14+CD16- Monocytes	3	primary cells
-RES00001725	CD14-CD16+ Monocytes	3	primary cells
-RES00001726	CD19+ B Cells (pluriselect)	8	primary cells
-RES00001727	CD19+ B Cells	3	primary cells
-RES00001728	CD34 cells differentiated to erythrocyte lineage	2	primary cells
-RES00001729	CD34+ Progenitors	2	primary cells
-RES00001730	CD34+ stem cells - adult bone marrow derived	2	primary cells
-RES00001731	CD4+ T Cells	3	primary cells
-RES00001732	CD4+CD25+CD45RA+ naive regulatory T cells expanded	3	primary cells
-RES00001733	CD4+CD25+CD45RA+ naive regulatory T cells	3	primary cells
-RES00001734	CD4+CD25+CD45RA- memory regulatory T cells expanded	3	primary cells
-RES00001735	CD4+CD25+CD45RA- memory regulatory T cells	3	primary cells
-RES00001736	CD4+CD25-CD45RA+ naive conventional T cells expanded	3	primary cells
-RES00001737	CD4+CD25-CD45RA+ naive conventional T cells	3	primary cells
-RES00001738	CD4+CD25-CD45RA- memory conventional T cells expanded	3	primary cells
-RES00001739	CD4+CD25-CD45RA- memory conventional T cells	3	primary cells
-RES00001740	CD8+ T Cells (pluriselect)	8	primary cells
-RES00001741	CD8+ T Cells	3	primary cells
-RES00001742	COBL-a rinderpest infection, 00hr	3	cell lines
-RES00001743	COBL-a rinderpest infection, 06hr	3	cell lines
-RES00001744	COBL-a rinderpest infection, 12hr	3	cell lines
-RES00001745	COBL-a rinderpest infection, 24hr	3	cell lines
-RES00001746	COBL-a rinderpest infection, 48hr	3	cell lines
-RES00001747	COBL-a rinderpest(-C) infection, 06hr	3	cell lines
-RES00001748	COBL-a rinderpest(-C) infection, 12hr	3	cell lines
-RES00001749	COBL-a rinderpest(-C) infection, 24hr	3	cell lines
-RES00001750	COBL-a rinderpest(-C) infection, 48hr	3	cell lines
-RES00001751	Cardiac Myocyte	3	primary cells
-RES00001752	Chondrocyte - de diff	3	primary cells
-RES00001753	Chondrocyte - re diff	2	primary cells
-RES00001754	Ciliary Epithelial Cells	3	primary cells
-RES00001755	Clontech Human Universal Reference Total RNA	1	tissues
-RES00001756	Corneal Epithelial Cells	3	primary cells
-RES00001757	Dendritic Cells - monocyte immature derived	4	primary cells
-RES00001758	Dendritic Cells - plasmacytoid	3	primary cells
-RES00001759	Endothelial Cells - Aortic	4	primary cells
-RES00001760	Endothelial Cells - Artery	3	primary cells
-RES00001761	Endothelial Cells - Lymphatic	3	primary cells
-RES00001762	Endothelial Cells - Microvascular	3	primary cells
-RES00001763	Endothelial Cells - Thoracic	2	primary cells
-RES00001764	Endothelial Cells - Umbilical vein	3	primary cells
-RES00001765	Endothelial Cells - Vein	3	primary cells
-RES00001766	Eosinophils	3	primary cells
-RES00001767	Esophageal Epithelial Cells	3	primary cells
-RES00001768	Ewing's sarcoma cell line:Hs 863.T	1	cell lines
-RES00001769	Fibroblast - Aortic Adventitial, cytoplasmic fraction	2	primary cells
-RES00001770	Fibroblast - Aortic Adventitial	3	primary cells
-RES00001771	Fibroblast - Aortic Adventitial, nuclear fraction	2	primary cells
-RES00001772	Fibroblast - Cardiac	6	primary cells
-RES00001773	Fibroblast - Choroid Plexus	3	primary cells
-RES00001774	Fibroblast - Conjunctival	2	primary cells
-RES00001775	Fibroblast - Dermal	6	primary cells
-RES00001776	Fibroblast - Gingival, control	7	primary cells
-RES00001777	Fibroblast - Gingival, periodontitis	1	primary cells
-RES00001778	Fibroblast - Gingival, GFH2	1	primary cells
-RES00001779	Fibroblast - Gingival, GFH3	1	primary cells
-RES00001780	Fibroblast - Gingival, aggressive periodontitis	2	primary cells
-RES00001781	Fibroblast - Gingival, chronic periodontitis	1	primary cells
-RES00001782	Fibroblast - Lung	3	primary cells
-RES00001783	Fibroblast - Lymphatic	3	primary cells
-RES00001784	Fibroblast - Mammary	3	primary cells
-RES00001785	Fibroblast - Periodontal Ligament	6	primary cells
-RES00001786	Fibroblast - Pulmonary Artery	1	primary cells
-RES00001787	Fibroblast - Villous Mesenchymal	3	primary cells
-RES00001788	Fibroblast - skin dystrophia myotonica, nuclear fraction	2	primary cells
-RES00001789	Fibroblast - skin dystrophia myotonica	3	primary cells
-RES00001790	Fibroblast - skin normal, nuclear fraction	2	primary cells
-RES00001791	Fibroblast - skin normal	2	primary cells
-RES00001792	Fibroblast - skin spinal muscular atrophy, nuclear fraction	2	primary cells
-RES00001793	Fibroblast - skin spinal muscular atrophy	3	primary cells
-RES00001794	Fibroblast - skin walker warburg	1	primary cells
-RES00001795	Fibroblast - skin normal, cytoplasmic fraction	2	primary cells
-RES00001796	Fingernail (including nail plate, eponychium and hyponychium)	1	tissues
-RES00001797	Gingival epithelial cells	3	primary cells
-RES00001798	H1 embryonic stem cells differentiation to CD34+ HSC, day00	3	stem cells
-RES00001799	H1 embryonic stem cells differentiation to CD34+ HSC, day03	3	stem cells
-RES00001800	H1 embryonic stem cells differentiation to CD34+ HSC, day09	3	stem cells
-RES00001801	H9 Embryoid body cells, melanocytic induction, day00	3	stem cells
-RES00001802	H9 Embryoid body cells, melanocytic induction, day01	3	stem cells
-RES00001803	H9 Embryoid body cells, melanocytic induction, day03	3	stem cells
-RES00001804	H9 Embryoid body cells, melanocytic induction, day06	3	stem cells
-RES00001805	H9 Embryoid body cells, melanocytic induction, day09	3	stem cells
-RES00001806	H9 Embryoid body cells, melanocytic induction, day12	5	stem cells
-RES00001807	H9 Embryoid body cells, melanocytic induction, day15	3	stem cells
-RES00001808	H9 Embryoid body cells, melanocytic induction, day18	3	stem cells
-RES00001809	H9 Embryoid body cells, melanocytic induction, day21	3	stem cells
-RES00001810	H9 Embryoid body cells, melanocytic induction, day24	3	stem cells
-RES00001811	H9 Embryoid body cells, melanocytic induction, day27	3	stem cells
-RES00001812	H9 Embryoid body cells, melanocytic induction, day30	3	stem cells
-RES00001813	H9 Embryoid body cells, melanocytic induction, day34	3	stem cells
-RES00001814	H9 Embryoid body cells, melanocytic induction, day41	3	stem cells
-RES00001815	H9 Embryonic Stem cells	3	stem cells
-RES00001816	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day00	3	stem cells
-RES00001817	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day01	3	stem cells
-RES00001818	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day02	3	stem cells
-RES00001819	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day03	3	stem cells
-RES00001820	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day04	3	stem cells
-RES00001821	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day05	3	stem cells
-RES00001822	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day06	3	stem cells
-RES00001823	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day07	3	stem cells
-RES00001824	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day08	3	stem cells
-RES00001825	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day09	3	stem cells
-RES00001826	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day10	3	stem cells
-RES00001827	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day11	3	stem cells
-RES00001828	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day12	3	stem cells
-RES00001829	Hair Follicle Dermal Papilla Cells	3	primary cells
-RES00001830	Hair Follicle Outer Root Sheath Cells	2	primary cells
-RES00001831	Hep-2 cells mock treated	3	cell lines
-RES00001832	Hep-2 cells treated with Streptococci strain 5448	3	cell lines
-RES00001833	Hep-2 cells treated with Streptococci strain JRS4	3	cell lines
-RES00001834	Hepatic Sinusoidal Endothelial Cells	3	primary cells
-RES00001835	Hepatic Stellate Cells (lipocyte)	3	primary cells
-RES00001836	Hepatocyte	3	primary cells
-RES00001837	Hodgkin's lymphoma cell line:HD-Mar2	1	cell lines
-RES00001838	Intestinal epithelial cells (polarized)	1	primary cells
-RES00001839	Iris Pigment Epithelial Cells	1	primary cells
-RES00001840	K562 erythroblastic leukemia response to hemin, 00hr00min	3	cell lines
-RES00001841	K562 erythroblastic leukemia response to hemin, 00hr15min	3	cell lines
-RES00001842	K562 erythroblastic leukemia response to hemin, 00hr30min	3	cell lines
-RES00001843	K562 erythroblastic leukemia response to hemin, 00hr45min	3	cell lines
-RES00001844	K562 erythroblastic leukemia response to hemin, 01hr00min	3	cell lines
-RES00001845	K562 erythroblastic leukemia response to hemin, 01hr20min	3	cell lines
-RES00001846	K562 erythroblastic leukemia response to hemin, 01hr40min	3	cell lines
-RES00001847	K562 erythroblastic leukemia response to hemin, 02hr00min	3	cell lines
-RES00001848	K562 erythroblastic leukemia response to hemin, 02hr30min	3	cell lines
-RES00001849	K562 erythroblastic leukemia response to hemin, 03hr00min	3	cell lines
-RES00001850	K562 erythroblastic leukemia response to hemin, 03hr30min	3	cell lines
-RES00001851	K562 erythroblastic leukemia response to hemin, 04hr	3	cell lines
-RES00001852	K562 erythroblastic leukemia response to hemin, 06hr	3	cell lines
-RES00001853	K562 erythroblastic leukemia response to hemin, 12hr	3	cell lines
-RES00001854	K562 erythroblastic leukemia response to hemin, 24hr	3	cell lines
-RES00001855	K562 erythroblastic leukemia response to hemin, day02	3	cell lines
-RES00001856	K562 erythroblastic leukemia response to hemin, day03	3	cell lines
-RES00001857	K562 erythroblastic leukemia response to hemin, day04	3	cell lines
-RES00001858	Keratinocyte - epidermal	3	primary cells
-RES00001859	Keratinocyte - oral	1	primary cells
-RES00001860	Keratocytes	3	primary cells
-RES00001861	Krukenberg tumor cell line:HSKTC	1	cell lines
-RES00001862	Lens Epithelial Cells	3	primary cells
-RES00001863	Lymphatic Endothelial cells response to VEGFC, 00hr00min	3	primary cells
-RES00001864	Lymphatic Endothelial cells response to VEGFC, 00hr15min	3	primary cells
-RES00001865	Lymphatic Endothelial cells response to VEGFC, 00hr30min	3	primary cells
-RES00001866	Lymphatic Endothelial cells response to VEGFC, 00hr45min	3	primary cells
-RES00001867	Lymphatic Endothelial cells response to VEGFC, 01hr00min	3	primary cells
-RES00001868	Lymphatic Endothelial cells response to VEGFC, 01hr20min	3	primary cells
-RES00001869	Lymphatic Endothelial cells response to VEGFC, 01hr40min	3	primary cells
-RES00001870	Lymphatic Endothelial cells response to VEGFC, 02hr00min	3	primary cells
-RES00001871	Lymphatic Endothelial cells response to VEGFC, 02hr30min	3	primary cells
-RES00001872	Lymphatic Endothelial cells response to VEGFC, 03hr00min	3	primary cells
-RES00001873	Lymphatic Endothelial cells response to VEGFC, 03hr30min	3	primary cells
-RES00001874	Lymphatic Endothelial cells response to VEGFC, 04hr	3	primary cells
-RES00001875	Lymphatic Endothelial cells response to VEGFC, 05hr	3	primary cells
-RES00001876	Lymphatic Endothelial cells response to VEGFC, 06hr	3	primary cells
-RES00001877	Lymphatic Endothelial cells response to VEGFC, 07hr	3	primary cells
-RES00001878	Lymphatic Endothelial cells response to VEGFC, 08hr	3	primary cells
-RES00001879	MCF7 breast cancer cell line response to EGF1, 00hr00min	3	cell lines
-RES00001880	MCF7 breast cancer cell line response to EGF1, 00hr15min	3	cell lines
-RES00001881	MCF7 breast cancer cell line response to EGF1, 00hr30min	3	cell lines
-RES00001882	MCF7 breast cancer cell line response to EGF1, 00hr45min	3	cell lines
-RES00001883	MCF7 breast cancer cell line response to EGF1, 01hr00min	3	cell lines
-RES00001884	MCF7 breast cancer cell line response to EGF1, 01hr20min	3	cell lines
-RES00001885	MCF7 breast cancer cell line response to EGF1, 01hr40min	3	cell lines
-RES00001886	MCF7 breast cancer cell line response to EGF1, 02hr00min	3	cell lines
-RES00001887	MCF7 breast cancer cell line response to EGF1, 02hr30min	3	cell lines
-RES00001888	MCF7 breast cancer cell line response to EGF1, 03hr00min	3	cell lines
-RES00001889	MCF7 breast cancer cell line response to EGF1, 03hr30min	3	cell lines
-RES00001890	MCF7 breast cancer cell line response to EGF1, 04hr	3	cell lines
-RES00001891	MCF7 breast cancer cell line response to EGF1, 05hr	3	cell lines
-RES00001892	MCF7 breast cancer cell line response to EGF1, 06hr	3	cell lines
-RES00001893	MCF7 breast cancer cell line response to EGF1, 07hr	3	cell lines
-RES00001894	MCF7 breast cancer cell line response to EGF1, 08hr	3	cell lines
-RES00001895	MCF7 breast cancer cell line response to HRG, 00hr15min	3	cell lines
-RES00001896	MCF7 breast cancer cell line response to HRG, 00hr30min	3	cell lines
-RES00001897	MCF7 breast cancer cell line response to HRG, 00hr45min	3	cell lines
-RES00001898	MCF7 breast cancer cell line response to HRG, 01hr00min	3	cell lines
-RES00001899	MCF7 breast cancer cell line response to HRG, 01hr20min	3	cell lines
-RES00001900	MCF7 breast cancer cell line response to HRG, 01hr40min	3	cell lines
-RES00001901	MCF7 breast cancer cell line response to HRG, 02hr00min	3	cell lines
-RES00001902	MCF7 breast cancer cell line response to HRG, 02hr30min	3	cell lines
-RES00001903	MCF7 breast cancer cell line response to HRG, 03hr00min	3	cell lines
-RES00001904	MCF7 breast cancer cell line response to HRG, 03hr30min	3	cell lines
-RES00001905	MCF7 breast cancer cell line response to HRG, 04hr	3	cell lines
-RES00001906	MCF7 breast cancer cell line response to HRG, 05hr	3	cell lines
-RES00001907	MCF7 breast cancer cell line response to HRG, 06hr	3	cell lines
-RES00001908	MCF7 breast cancer cell line response to HRG, 07hr	3	cell lines
-RES00001909	MCF7 breast cancer cell line response to HRG, 08hr	3	cell lines
-RES00001910	Macrophage - monocyte derived	3	primary cells
-RES00001911	Mallassez-derived cells	3	primary cells
-RES00001912	Mammary Epithelial Cell	3	primary cells
-RES00001913	Mast cell, stimulated	1	primary cells
-RES00001914	Mast cell	4	primary cells
-RES00001915	Mast cell, expanded and stimulated	2	primary cells
-RES00001916	Mast cell, expanded	2	primary cells
-RES00001917	Melanocyte - dark	3	primary cells
-RES00001918	Melanocyte - light	3	primary cells
-RES00001919	Melanocyte	3	primary cells
-RES00001920	Meningeal Cells	3	primary cells
-RES00001921	Mesenchymal Stem Cells - Vertebral	1	primary cells
-RES00001922	Mesenchymal Stem Cells - Wharton's Jelly	1	primary cells
-RES00001923	Mesenchymal Stem Cells - adipose	3	primary cells
-RES00001924	Mesenchymal Stem Cells - amniotic membrane	2	primary cells
-RES00001925	Mesenchymal Stem Cells - bone marrow	4	primary cells
-RES00001926	Mesenchymal Stem Cells - hepatic	2	primary cells
-RES00001927	Mesenchymal Stem Cells - umbilical	3	primary cells
-RES00001928	Mesenchymal stem cells - adipose	1	primary cells
-RES00001929	Mesenchymal stem cells - hepatic	1	primary cells
-RES00001930	Mesenchymal stem cells - umbilical	1	primary cells
-RES00001931	Mesothelial Cells	3	primary cells
-RES00001932	Monocyte-derived macrophages response to LPS, 00hr00min	3	primary cells
-RES00001933	Monocyte-derived macrophages response to LPS, 00hr15min	3	primary cells
-RES00001934	Monocyte-derived macrophages response to LPS, 00hr30min	3	primary cells
-RES00001935	Monocyte-derived macrophages response to LPS, 00hr45min	3	primary cells
-RES00001936	Monocyte-derived macrophages response to LPS, 01hr00min	3	primary cells
-RES00001937	Monocyte-derived macrophages response to LPS, 01hr20min	3	primary cells
-RES00001938	Monocyte-derived macrophages response to LPS, 01hr40min	3	primary cells
-RES00001939	Monocyte-derived macrophages response to LPS, 02hr00min	3	primary cells
-RES00001940	Monocyte-derived macrophages response to LPS, 02hr30min	3	primary cells
-RES00001941	Monocyte-derived macrophages response to LPS, 03hr00min	3	primary cells
-RES00001942	Monocyte-derived macrophages response to LPS, 03hr30min	3	primary cells
-RES00001943	Monocyte-derived macrophages response to LPS, 04hr	3	primary cells
-RES00001944	Monocyte-derived macrophages response to LPS, 05hr	3	primary cells
-RES00001945	Monocyte-derived macrophages response to LPS, 06hr	3	primary cells
-RES00001946	Monocyte-derived macrophages response to LPS, 07hr	3	primary cells
-RES00001947	Monocyte-derived macrophages response to LPS, 08hr	3	primary cells
-RES00001948	Monocyte-derived macrophages response to LPS, 10hr	3	primary cells
-RES00001949	Monocyte-derived macrophages response to LPS, 12hr	3	primary cells
-RES00001950	Monocyte-derived macrophages response to LPS, 14hr	3	primary cells
-RES00001951	Monocyte-derived macrophages response to LPS, 16hr	3	primary cells
-RES00001952	Monocyte-derived macrophages response to LPS, 18hr	3	primary cells
-RES00001953	Monocyte-derived macrophages response to LPS, 20hr	3	primary cells
-RES00001954	Monocyte-derived macrophages response to LPS, 22hr	3	primary cells
-RES00001955	Monocyte-derived macrophages response to LPS, 24hr	3	primary cells
-RES00001956	Monocyte-derived macrophages response to LPS, 36hr	3	primary cells
-RES00001957	Monocyte-derived macrophages response to LPS, 48hr	2	primary cells
-RES00001958	Monocyte-derived macrophages response to mock influenza infection, 00hr00min	4	primary cells
-RES00001959	Monocyte-derived macrophages response to mock influenza infection, 24hr00min	4	primary cells
-RES00001960	Monocyte-derived macrophages response to udorn influenza infection, 00hr00min	4	primary cells
-RES00001961	Monocyte-derived macrophages response to udorn influenza infection, 02hr00min	4	primary cells
-RES00001962	Monocyte-derived macrophages response to udorn influenza infection, 07hr00min	4	primary cells
-RES00001963	Monocyte-derived macrophages response to udorn influenza infection, 24hr00min	4	primary cells
-RES00001964	Multipotent Cord Blood Unrestricted Somatic Stem Cells	2	primary cells
-RES00001965	Myoblast differentiation to myotubes, day00, Duchenne Muscular Dystrophy	3	primary cells
-RES00001966	Myoblast differentiation to myotubes, day00, control	3	primary cells
-RES00001967	Myoblast differentiation to myotubes, day01, Duchenne Muscular Dystrophy	3	primary cells
-RES00001968	Myoblast differentiation to myotubes, day01, control	3	primary cells
-RES00001969	Myoblast differentiation to myotubes, day02, Duchenne Muscular Dystrophy	3	primary cells
-RES00001970	Myoblast differentiation to myotubes, day02, control	3	primary cells
-RES00001971	Myoblast differentiation to myotubes, day03, Duchenne Muscular Dystrophy	2	primary cells
-RES00001972	Myoblast differentiation to myotubes, day03, control	3	primary cells
-RES00001973	Myoblast differentiation to myotubes, day04, Duchenne Muscular Dystrophy	3	primary cells
-RES00001974	Myoblast differentiation to myotubes, day04, control	3	primary cells
-RES00001975	Myoblast differentiation to myotubes, day06, Duchenne Muscular Dystrophy	3	primary cells
-RES00001976	Myoblast differentiation to myotubes, day06, control	3	primary cells
-RES00001977	Myoblast differentiation to myotubes, day08, Duchenne Muscular Dystrophy	3	primary cells
-RES00001978	Myoblast differentiation to myotubes, day08, control	3	primary cells
-RES00001979	Myoblast differentiation to myotubes, day10, Duchenne Muscular Dystrophy	3	primary cells
-RES00001980	Myoblast differentiation to myotubes, day10, control	3	primary cells
-RES00001981	Myoblast differentiation to myotubes, day12, Duchenne Muscular Dystrophy	3	primary cells
-RES00001982	Myoblast differentiation to myotubes, day12, control	3	primary cells
-RES00001983	Myoblast	3	primary cells
-RES00001984	NK T cell leukemia cell line:KHYG-1	1	cell lines
-RES00001985	Natural Killer Cells	3	primary cells
-RES00001986	Neural stem cells	2	primary cells
-RES00001987	Neurons	3	primary cells
-RES00001988	Neutrophils	3	primary cells
-RES00001989	Nucleus Pulposus Cell	3	primary cells
-RES00001990	Olfactory epithelial cells	4	primary cells
-RES00001991	Oligodendrocyte - precursors	1	primary cells
-RES00001992	Osteoblast - differentiated	3	primary cells
-RES00001993	Osteoblast	3	primary cells
-RES00001994	Pancreatic stromal cells	1	primary cells
-RES00001995	Pericytes	3	primary cells
-RES00001996	Perineurial Cells	2	primary cells
-RES00001997	Peripheral Blood Mononuclear Cells	3	primary cells
-RES00001998	Placental Epithelial Cells	3	primary cells
-RES00001999	Preadipocyte - breast, cytoplasmic fraction	1	primary cells
-RES00002000	Preadipocyte - breast	2	primary cells
-RES00002001	Preadipocyte - breast, nuclear fraction	1	primary cells
-RES00002002	Preadipocyte - omental	3	primary cells
-RES00002003	Preadipocyte - perirenal	1	primary cells
-RES00002004	Preadipocyte - subcutaneous	3	primary cells
-RES00002005	Preadipocyte - visceral	3	primary cells
-RES00002006	Prostate Epithelial Cells, polarized	1	primary cells
-RES00002007	Prostate Epithelial Cells	2	primary cells
-RES00002008	Prostate Stromal Cells	3	primary cells
-RES00002009	Renal Cortical Epithelial Cells	2	primary cells
-RES00002010	Renal Epithelial Cells	3	primary cells
-RES00002011	Renal Glomerular Endothelial Cells	4	primary cells
-RES00002012	Renal Mesangial Cells	3	primary cells
-RES00002013	Renal Proximal Tubular Epithelial Cell	3	primary cells
-RES00002014	Retinal Pigment Epithelial Cells	4	primary cells
-RES00002015	SABiosciences XpressRef Human Universal Total RNA	1	tissues
-RES00002016	Saos-2 osteosarcoma cell line, untreated control, day28	3	cell lines
-RES00002017	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr00min	3	cell lines
-RES00002018	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr15min	3	cell lines
-RES00002019	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr30min	3	cell lines
-RES00002020	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr45min	3	cell lines
-RES00002021	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr00min	3	cell lines
-RES00002022	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr20min	3	cell lines
-RES00002023	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr40min	3	cell lines
-RES00002024	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 02hr00min	3	cell lines
-RES00002025	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 02hr30min	3	cell lines
-RES00002026	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 03hr	3	cell lines
-RES00002027	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 04hr	3	cell lines
-RES00002028	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 08hr	3	cell lines
-RES00002029	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 24hr	3	cell lines
-RES00002030	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day04	3	cell lines
-RES00002031	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day07	3	cell lines
-RES00002032	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day14	3	cell lines
-RES00002033	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day21	3	cell lines
-RES00002034	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day28	3	cell lines
-RES00002035	Schwann Cells	3	primary cells
-RES00002036	Sebocyte	3	primary cells
-RES00002037	Sertoli Cells	2	primary cells
-RES00002038	Skeletal Muscle Cells	6	primary cells
-RES00002039	Skeletal Muscle Satellite Cells	3	primary cells
-RES00002040	Skeletal muscle cells differentiated into Myotubes - multinucleated	3	primary cells
-RES00002041	Skin - palm	1	tissues
-RES00002042	Small Airway Epithelial Cells, cytoplasmic fraction	2	primary cells
-RES00002043	Small Airway Epithelial Cells, nuclear fraction	2	primary cells
-RES00002044	Small Airway Epithelial Cells	3	primary cells
-RES00002045	Smooth Muscle Cells - Aortic, cytoplasmic fraction	1	primary cells
-RES00002046	Smooth Muscle Cells - Aortic, nuclear fraction	1	primary cells
-RES00002047	Smooth Muscle Cells - Aortic	4	primary cells
-RES00002048	Smooth Muscle Cells - Bladder	1	primary cells
-RES00002049	Smooth Muscle Cells - Brachiocephalic	3	primary cells
-RES00002050	Smooth Muscle Cells - Brain Vascular	3	primary cells
-RES00002051	Smooth Muscle Cells - Bronchial	2	primary cells
-RES00002052	Smooth Muscle Cells - Carotid	3	primary cells
-RES00002053	Smooth Muscle Cells - Colonic	3	primary cells
-RES00002054	Smooth Muscle Cells - Coronary Artery	3	primary cells
-RES00002055	Smooth Muscle Cells - Esophageal	2	primary cells
-RES00002056	Smooth Muscle Cells - Internal Thoracic Artery	3	primary cells
-RES00002057	Smooth Muscle Cells - Intestinal	1	primary cells
-RES00002058	Smooth Muscle Cells - Prostate	3	primary cells
-RES00002059	Smooth Muscle Cells - Pulmonary Artery	3	primary cells
-RES00002060	Smooth Muscle Cells - Subclavian Artery	3	primary cells
-RES00002061	Smooth Muscle Cells - Tracheal	3	primary cells
-RES00002062	Smooth Muscle Cells - Umbilical Artery	3	primary cells
-RES00002063	Smooth Muscle Cells - Umbilical Vein	3	primary cells
-RES00002064	Smooth Muscle Cells - Umbilical artery	1	primary cells
-RES00002065	Smooth Muscle Cells - Uterine	2	primary cells
-RES00002066	Smooth muscle cells - airway, asthmatic	6	primary cells
-RES00002067	Smooth muscle cells - airway, control	4	primary cells
-RES00002068	Synoviocyte	3	primary cells
-RES00002069	Trabecular Meshwork Cells	3	primary cells
-RES00002070	Tracheal Epithelial Cells	3	primary cells
-RES00002071	Universal RNA - Human Normal Tissues Biochain	1	tissues
-RES00002072	Urethra	1	tissues
-RES00002073	Urothelial Cells	4	primary cells
-RES00002074	Whole blood (ribopure)	8	primary cells
-RES00002075	Wilms' tumor cell line:G-401	1	cell lines
-RES00002076	Wilms' tumor cell line:HFWT	1	cell lines
-RES00002077	acantholytic squamous carcinoma cell line:HCC1806	1	cell lines
-RES00002078	achilles tendon	1	tissues
-RES00002079	acute lymphoblastic leukemia (B-ALL) cell line:BALL-1	1	cell lines
-RES00002080	acute lymphoblastic leukemia (B-ALL) cell line:NALM-6	1	cell lines
-RES00002081	acute lymphoblastic leukemia (T-ALL) cell line:HPB-ALL	1	cell lines
-RES00002082	acute lymphoblastic leukemia (T-ALL) cell line:Jurkat	1	cell lines
-RES00002083	acute myeloid leukemia (FAB M0) cell line:KG-1	1	cell lines
-RES00002084	acute myeloid leukemia (FAB M0) cell line:Kasumi-3	1	cell lines
-RES00002085	acute myeloid leukemia (FAB M1) cell line:HYT-1	1	cell lines
-RES00002086	acute myeloid leukemia (FAB M2) cell line:Kasumi-1	1	cell lines
-RES00002087	acute myeloid leukemia (FAB M2) cell line:Kasumi-6	1	cell lines
-RES00002088	acute myeloid leukemia (FAB M2) cell line:NKM-1	1	cell lines
-RES00002089	acute myeloid leukemia (FAB M3) cell line:HL60	1	cell lines
-RES00002090	acute myeloid leukemia (FAB M4) cell line:FKH-1	1	cell lines
-RES00002091	acute myeloid leukemia (FAB M4) cell line:HNT-34	1	cell lines
-RES00002092	acute myeloid leukemia (FAB M4eo) cell line:EoL-1	1	cell lines
-RES00002093	acute myeloid leukemia (FAB M4eo) cell line:EoL-3	1	cell lines
-RES00002094	acute myeloid leukemia (FAB M5) cell line:NOMO-1	1	cell lines
-RES00002095	acute myeloid leukemia (FAB M5) cell line:P31/FUJ	1	cell lines
-RES00002096	acute myeloid leukemia (FAB M5) cell line:THP-1 (cytoplasmic fraction)	1	cell lines
-RES00002097	acute myeloid leukemia (FAB M5) cell line:THP-1 (fresh)	1	cell lines
-RES00002098	acute myeloid leukemia (FAB M5) cell line:THP-1 (revived)	1	cell lines
-RES00002099	acute myeloid leukemia (FAB M5) cell line:THP-1 (thawed)	1	cell lines
-RES00002100	acute myeloid leukemia (FAB M5) cell line:U-937 DE-4	1	cell lines
-RES00002101	acute myeloid leukemia (FAB M6) cell line:EEB	1	cell lines
-RES00002102	acute myeloid leukemia (FAB M6) cell line:F-36E	1	cell lines
-RES00002103	acute myeloid leukemia (FAB M6) cell line:F-36P	1	cell lines
-RES00002104	acute myeloid leukemia (FAB M7) cell line:M-MOK	1	cell lines
-RES00002105	acute myeloid leukemia (FAB M7) cell line:MKPL-1	1	cell lines
-RES00002106	adenocarcinoma cell line:IM95m	1	cell lines
-RES00002107	adipose tissue, adult	1	tissues
-RES00002108	adipose	4	tissues
-RES00002109	adrenal cortex adenocarcinoma cell line:SW-13	1	cell lines
-RES00002110	adrenal gland, adult	1	tissues
-RES00002111	adult T-cell leukemia cell line:ATN-1	1	cell lines
-RES00002112	alveolar cell carcinoma cell line:SW 1573	1	cell lines
-RES00002113	amniotic membrane cells	3	primary cells
-RES00002114	amygdala, adult	2	tissues
-RES00002115	amygdala, newborn	1	tissues
-RES00002116	anaplastic carcinoma cell line:8305C	1	cell lines
-RES00002117	anaplastic large cell lymphoma cell line:Ki-JK	1	cell lines
-RES00002118	anaplastic squamous cell carcinoma cell line:RPMI 2650	1	cell lines
-RES00002119	aorta, adult	1	tissues
-RES00002120	appendix	1	tissues
-RES00002121	argyrophil small cell carcinoma cell line:TC-YIK	1	cell lines
-RES00002122	artery	1	tissues
-RES00002123	astrocytoma cell line:TM-31	1	cell lines
-RES00002124	b cell line:RPMI1788	1	cell lines
-RES00002125	basal cell carcinoma cell line:TE 354.T	1	cell lines
-RES00002126	bile duct carcinoma cell line:HuCCT1	1	cell lines
-RES00002127	bile duct carcinoma cell line:TFK-1	1	cell lines
-RES00002128	biphenotypic B myelomonocytic leukemia cell line:MV-4-11	1	cell lines
-RES00002129	bladder, adult	1	tissues
-RES00002130	blood, adult	1	tissues
-RES00002131	bone marrow stromal cell line:StromaNKtert	1	cell lines
-RES00002132	bone marrow	1	tissues
-RES00002133	brain, adult	2	tissues
-RES00002134	brain, fetal	1	tissues
-RES00002135	breast carcinoma cell line:MCF7	1	cell lines
-RES00002136	breast carcinoma cell line:MDA-MB-453	1	cell lines
-RES00002137	breast, adult	1	tissues
-RES00002138	bronchial squamous cell carcinoma cell line:KNS-62	1	cell lines
-RES00002139	bronchioalveolar carcinoma cell line:NCI-H358	1	cell lines
-RES00002140	bronchioalveolar carcinoma cell line:NCI-H650	1	cell lines
-RES00002141	bronchogenic carcinoma cell line:ChaGo-K-1	1	cell lines
-RES00002142	carcinoid cell line:NCI-H1770	1	cell lines
-RES00002143	carcinoid cell line:NCI-H727	1	cell lines
-RES00002144	carcinoid cell line:SK-PN-DW	1	cell lines
-RES00002145	carcinosarcoma cell line:JHUCS-1	1	cell lines
-RES00002146	caudate nucleus, adult	3	tissues
-RES00002147	caudate nucleus, newborn	1	tissues
-RES00002148	cerebellum, adult	3	tissues
-RES00002149	cerebellum, newborn	1	tissues
-RES00002150	cerebral meninges	1	tissues
-RES00002151	cerebrospinal fluid	1	tissues
-RES00002152	cervical cancer cell line:D98-AH2	1	cell lines
-RES00002153	cervical cancer cell line:ME-180	1	cell lines
-RES00002154	cervix, adult	1	tissues
-RES00002155	cholangiocellular carcinoma cell line:HuH-28	1	cell lines
-RES00002156	chondrosarcoma cell line:SW 1353	1	cell lines
-RES00002157	choriocarcinoma cell line:BeWo	1	cell lines
-RES00002158	choriocarcinoma cell line:SCH	1	cell lines
-RES00002159	choriocarcinoma cell line:T3M-3	1	cell lines
-RES00002160	chorionic membrane cells	3	primary cells
-RES00002161	chronic lymphocytic leukemia (T-CLL) cell line:SKW-3	1	cell lines
-RES00002162	chronic myeloblastic leukemia (CML) cell line:KCL-22	1	cell lines
-RES00002163	chronic myelogenous leukemia (CML) cell line:MEG-A2	1	cell lines
-RES00002164	chronic myelogenous leukemia cell line:K562 ENCODE	3	cell lines
-RES00002165	chronic myelogenous leukemia cell line:K562	1	cell lines
-RES00002166	chronic myelogenous leukemia cell line:KU812	1	cell lines
-RES00002167	clear cell carcinoma cell line:JHOC-5	1	cell lines
-RES00002168	clear cell carcinoma cell line:TEN	1	cell lines
-RES00002169	colon carcinoma cell line:CACO-2	1	cell lines
-RES00002170	colon carcinoma cell line:COLO-320	1	cell lines
-RES00002171	colon, adult	2	tissues
-RES00002172	colon, fetal	1	tissues
-RES00002173	common myeloid progenitor CMP	2	primary cells
-RES00002174	cord blood derived cell line:COBL-a 24h infection(-C)	1	cell lines
-RES00002175	cord blood derived cell line:COBL-a 24h infection	1	cell lines
-RES00002176	cord blood derived cell line:COBL-a untreated	1	cell lines
-RES00002177	corpus callosum, adult	1	tissues
-RES00002178	cruciate ligament	1	tissues
-RES00002179	diaphragm, fetal	1	tissues
-RES00002180	diencephalon	1	tissues
-RES00002181	diffuse large B-cell lymphoma cell line:CTB-1	1	cell lines
-RES00002182	ductal cell carcinoma cell line:KLM-1	1	cell lines
-RES00002183	ductal cell carcinoma cell line:MIA Paca2	1	cell lines
-RES00002184	ductus deferens	1	tissues
-RES00002185	duodenum, fetal	2	tissues
-RES00002186	dura mater, adult	1	tissues
-RES00002187	embryonic kidney cell line: HEK293/SLAM infection	1	cell lines
-RES00002188	embryonic kidney cell line: HEK293/SLAM untreated	1	cell lines
-RES00002189	embryonic pancreas cell line:1B2C6	1	cell lines
-RES00002190	embryonic pancreas cell line:1C3D3	1	cell lines
-RES00002191	embryonic pancreas cell line:1C3IKEI	1	cell lines
-RES00002192	embryonic pancreas cell line:2C6	1	cell lines
-RES00002193	endometrial carcinoma cell line:OMC-2	1	cell lines
-RES00002194	endometrial stromal sarcoma cell line:OMC-9	1	cell lines
-RES00002195	endometrioid adenocarcinoma cell line:JHUEM-1	1	cell lines
-RES00002196	epidermoid carcinoma cell line:A431	1	cell lines
-RES00002197	epidermoid carcinoma cell line:Ca Ski	1	cell lines
-RES00002198	epididymis	1	tissues
-RES00002199	epithelioid sarcoma cell line:HS-ES-1	1	cell lines
-RES00002200	epithelioid sarcoma cell line:HS-ES-2R	1	cell lines
-RES00002201	epitheloid carcinoma cell line: HelaS3 ENCODE	3	cell lines
-RES00002202	esophagus, adult	1	tissues
-RES00002203	extraskeletal myxoid chondrosarcoma cell line:H-EMC-SS	1	cell lines
-RES00002204	eye - muscle inferior rectus	1	tissues
-RES00002205	eye - muscle lateral	1	tissues
-RES00002206	eye - muscle medial	1	tissues
-RES00002207	eye - muscle superior	1	tissues
-RES00002208	eye - vitreous humor	1	tissues
-RES00002209	eye, fetal	1	tissues
-RES00002210	fibrosarcoma cell line:HT-1080	1	cell lines
-RES00002211	fibrous histiocytoma cell line:GCT TIB-223	1	cell lines
-RES00002212	frontal lobe, adult	1	tissues
-RES00002213	gall bladder carcinoma cell line:TGBC14TKB	1	cell lines
-RES00002214	gall bladder carcinoma cell line:TGBC2TKB	1	cell lines
-RES00002215	gall bladder	1	tissues
-RES00002216	gamma delta positive T cells	2	primary cells
-RES00002217	gastric adenocarcinoma cell line:MKN1	1	cell lines
-RES00002218	gastric adenocarcinoma cell line:MKN45	1	cell lines
-RES00002219	gastric cancer cell line:AZ521	1	cell lines
-RES00002220	gastric cancer cell line:GSS	1	cell lines
-RES00002221	gastrointestinal carcinoma cell line:ECC12	1	cell lines
-RES00002222	giant cell carcinoma cell line:LU65	1	cell lines
-RES00002223	giant cell carcinoma cell line:Lu99B	1	cell lines
-RES00002224	glassy cell carcinoma cell line:HOKUG	1	cell lines
-RES00002225	glioblastoma cell line:A172	2	cell lines
-RES00002226	glioblastoma cell line:T98G	1	cell lines
-RES00002227	glioma cell line:GI-1	1	cell lines
-RES00002228	globus pallidus, adult	3	tissues
-RES00002229	globus pallidus, newborn	1	tissues
-RES00002230	granulocyte macrophage progenitor	3	primary cells
-RES00002231	granulosa cell tumor cell line:KGN	1	cell lines
-RES00002232	hIPS +CCl2	3	stem cells
-RES00002233	hIPS	3	stem cells
-RES00002234	hairy cell leukemia cell line:Mo	1	cell lines
-RES00002235	heart - mitral valve	1	tissues
-RES00002236	heart - pulmonic valve	1	tissues
-RES00002237	heart - tricuspid valve	1	tissues
-RES00002238	heart, adult, diseased post-infarction	1	tissues
-RES00002239	heart, adult, diseased	1	tissues
-RES00002240	heart, adult	1	tissues
-RES00002241	heart, fetal	1	tissues
-RES00002242	hepatic mesenchymal tumor cell line:LI90	1	cell lines
-RES00002243	hepatoblastoma cell line:HuH-6	1	cell lines
-RES00002244	hepatocellular carcinoma cell line: HepG2 ENCODE	3	cell lines
-RES00002245	hepatoma cell line:Li-7	1	cell lines
-RES00002246	hereditary spherocytic anemia cell line:WIL2-NS	1	cell lines
-RES00002247	hippocampus, adult	3	tissues
-RES00002248	hippocampus, newborn	1	tissues
-RES00002249	iPS differentiation to neuron, control donor C11-CRL2429, day00	3	stem cells
-RES00002250	iPS differentiation to neuron, control donor C11-CRL2429, day06	3	stem cells
-RES00002251	iPS differentiation to neuron, control donor C11-CRL2429, day12	3	stem cells
-RES00002252	iPS differentiation to neuron, control donor C11-CRL2429, day18	3	stem cells
-RES00002253	iPS differentiation to neuron, control donor C32-CRL1502, day00	3	stem cells
-RES00002254	iPS differentiation to neuron, control donor C32-CRL1502, day06	3	stem cells
-RES00002255	iPS differentiation to neuron, control donor C32-CRL1502, day12	3	stem cells
-RES00002256	iPS differentiation to neuron, control donor C32-CRL1502, day18	3	stem cells
-RES00002257	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day00	3	stem cells
-RES00002258	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day06	3	stem cells
-RES00002259	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day12	3	stem cells
-RES00002260	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day18	3	stem cells
-RES00002261	iPS differentiation to neuron, down-syndrome donor C18-CCL54, day00	3	stem cells
-RES00002262	iPS differentiation to neuron, down-syndrome donor C18-CCL54, day06	3	stem cells
-RES00002263	iPS differentiation to neuron, down-syndrome donor C18-CCL54, day12	3	stem cells
-RES00002264	iPS differentiation to neuron, down-syndrome donor C18-CCL54, day18	3	stem cells
-RES00002265	immature langerhans cells	2	primary cells
-RES00002266	insula, adult	1	tissues
-RES00002267	keratoacanthoma cell line:HKA-1	1	cell lines
-RES00002268	kidney, adult	1	tissues
-RES00002269	kidney, fetal	1	tissues
-RES00002270	large cell lung carcinoma cell line:IA-LM	1	cell lines
-RES00002271	large cell lung carcinoma cell line:NCI-H460	1	cell lines
-RES00002272	large cell non-keratinizing squamous carcinoma cell line:SKG-II-SF	1	cell lines
-RES00002273	left atrium, adult	1	tissues
-RES00002274	left ventricle, adult	1	tissues
-RES00002275	leiomyoblastoma cell line:G-402	1	cell lines
-RES00002276	leiomyoma cell line:10964C	1	cell lines
-RES00002277	leiomyoma cell line:15242A	1	cell lines
-RES00002278	leiomyoma cell line:15425	1	cell lines
-RES00002279	leiomyosarcoma cell line:Hs 5.T	1	cell lines
-RES00002280	lens epithelial cell line:SRA 01/04	1	cell lines
-RES00002281	leukemia, chronic megakaryoblastic cell line:MEG-01	1	cell lines
-RES00002282	liposarcoma cell line:KMLS-1	1	cell lines
-RES00002283	liposarcoma cell line:SW 872	1	cell lines
-RES00002284	liver, adult	1	tissues
-RES00002285	liver, fetal	1	tissues
-RES00002286	locus coeruleus, adult	3	tissues
-RES00002287	locus coeruleus, newborn	1	tissues
-RES00002288	lung adenocarcinoma cell line:A549	1	cell lines
-RES00002289	lung adenocarcinoma cell line:PC-14	1	cell lines
-RES00002290	lung adenocarcinoma, papillary cell line:NCI-H441	1	cell lines
-RES00002291	lung, adult	1	tissues
-RES00002292	lung, fetal	1	tissues
-RES00002293	lung, right lower lobe, adult	1	tissues
-RES00002294	lymph node, adult	1	tissues
-RES00002295	lymphangiectasia cell line:DS-1	1	cell lines
-RES00002296	lymphoma, malignant,hairy B-cell cell line:MLMA	1	cell lines
-RES00002297	malignant trichilemmal cyst cell line:DJM-1	1	cell lines
-RES00002298	mature adipocyte	4	primary cells
-RES00002299	maxillary sinus tumor cell line:HSQ-89	1	cell lines
-RES00002300	medial frontal gyrus, adult	3	tissues
-RES00002301	medial frontal gyrus, newborn	1	tissues
-RES00002302	medial temporal gyrus, adult	4	tissues
-RES00002303	medial temporal gyrus, newborn	1	tissues
-RES00002304	medulla oblongata, adult	3	tissues
-RES00002305	medulla oblongata, newborn	1	tissues
-RES00002306	medulloblastoma cell line:D283 Med	1	cell lines
-RES00002307	medulloblastoma cell line:ONS-76	1	cell lines
-RES00002308	melanoma cell line:COLO 679	1	cell lines
-RES00002309	melanoma cell line:G-361	1	cell lines
-RES00002310	meningioma cell line:HKBMM	1	cell lines
-RES00002311	merkel cell carcinoma cell line:MKL-1	1	cell lines
-RES00002312	merkel cell carcinoma cell line:MS-1	1	cell lines
-RES00002313	mesenchymal precursor cell - adipose	3	primary cells
-RES00002314	mesenchymal precursor cell - bone marrow	3	primary cells
-RES00002315	mesenchymal precursor cell - cardiac	4	primary cells
-RES00002316	mesenchymal precursor cell - ovarian cancer left ovary	4	primary cells
-RES00002317	mesenchymal precursor cell - ovarian cancer metastasis	4	primary cells
-RES00002318	mesenchymal precursor cell - ovarian cancer right ovary	5	primary cells
-RES00002319	mesenchymal stem cell line:Hu5/E18	1	cell lines
-RES00002320	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr00min	3	stem cells
-RES00002321	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr15min	3	stem cells
-RES00002322	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr30min	3	stem cells
-RES00002323	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr45min	3	stem cells
-RES00002324	mesenchymal stem cells (adipose derived), adipogenic induction, 01hr00min	3	stem cells
-RES00002325	mesenchymal stem cells (adipose derived), adipogenic induction, 01hr20min	3	stem cells
-RES00002326	mesenchymal stem cells (adipose derived), adipogenic induction, 01hr40min	3	stem cells
-RES00002327	mesenchymal stem cells (adipose derived), adipogenic induction, 02hr00min	3	stem cells
-RES00002328	mesenchymal stem cells (adipose derived), adipogenic induction, 02hr30min	3	stem cells
-RES00002329	mesenchymal stem cells (adipose derived), adipogenic induction, 03hr00min	3	stem cells
-RES00002330	mesenchymal stem cells (adipose derived), adipogenic induction, 12hr00min	3	stem cells
-RES00002331	mesenchymal stem cells (adipose derived), adipogenic induction, day01	3	stem cells
-RES00002332	mesenchymal stem cells (adipose derived), adipogenic induction, day02	3	stem cells
-RES00002333	mesenchymal stem cells (adipose derived), adipogenic induction, day04	3	stem cells
-RES00002334	mesenchymal stem cells (adipose derived), adipogenic induction, day08	3	stem cells
-RES00002335	mesenchymal stem cells (adipose derived), adipogenic induction, day12	3	stem cells
-RES00002336	mesenchymal stem cells (adipose derived), adipogenic induction, day14	3	stem cells
-RES00002337	mesenchymal stem cells (adipose derived), undifferentiated control	3	stem cells
-RES00002338	mesodermal tumor cell line:HIRS-BM	1	cell lines
-RES00002339	mesothelioma cell line:ACC-MESO-1	1	cell lines
-RES00002340	mesothelioma cell line:ACC-MESO-4	1	cell lines
-RES00002341	mesothelioma cell line:Mero-14	2	cell lines
-RES00002342	mesothelioma cell line:Mero-25	1	cell lines
-RES00002343	mesothelioma cell line:Mero-41	1	cell lines
-RES00002344	mesothelioma cell line:Mero-48a	1	cell lines
-RES00002345	mesothelioma cell line:Mero-82	1	cell lines
-RES00002346	mesothelioma cell line:Mero-83	1	cell lines
-RES00002347	mesothelioma cell line:Mero-84	1	cell lines
-RES00002348	mesothelioma cell line:Mero-95	1	cell lines
-RES00002349	mesothelioma cell line:NCI-H2052	1	cell lines
-RES00002350	mesothelioma cell line:NCI-H226	1	cell lines
-RES00002351	mesothelioma cell line:NCI-H2452	1	cell lines
-RES00002352	mesothelioma cell line:NCI-H28	1	cell lines
-RES00002353	mesothelioma cell line:No36	1	cell lines
-RES00002354	mesothelioma cell line:ONE58	1	cell lines
-RES00002355	migratory langerhans cells	3	primary cells
-RES00002356	mixed mullerian tumor cell line:HTMMT	1	cell lines
-RES00002357	mucinous adenocarcinoma cell line:JHOM-1	1	cell lines
-RES00002358	mucinous cystadenocarcinoma cell line:MCAS	1	cell lines
-RES00002359	mycosis fungoides, T cell lymphoma cell line:HuT 102 TIB-162	1	cell lines
-RES00002360	myelodysplastic syndrome cell line:SKM-1	1	cell lines
-RES00002361	myeloma cell line:PCM6	1	cell lines
-RES00002362	myxofibrosarcoma cell line:MFH-ino	1	cell lines
-RES00002363	myxofibrosarcoma cell line:NMFH-1	1	cell lines
-RES00002364	nasal epithelial cells	3	primary cells
-RES00002365	neuroblastoma cell line:CHP-134	1	cell lines
-RES00002366	neuroblastoma cell line:NB-1	1	cell lines
-RES00002367	neuroblastoma cell line:NBsusSR	1	cell lines
-RES00002368	neuroblastoma cell line:NH-12	1	cell lines
-RES00002369	neuroectodermal tumor cell line:FU-RPNT-1	1	cell lines
-RES00002370	neuroectodermal tumor cell line:FU-RPNT-2	1	cell lines
-RES00002371	neuroectodermal tumor cell line:TASK1	1	cell lines
-RES00002372	neuroepithelioma cell line:SK-N-MC	1	cell lines
-RES00002373	neurofibroma cell line:Hs 53.T	1	cell lines
-RES00002374	neutrophil PMN	3	primary cells
-RES00002375	non T non B acute lymphoblastic leukemia (ALL) cell line:P30/OHK	1	cell lines
-RES00002376	non-small cell lung cancer cell line:NCI-H1385	1	cell lines
-RES00002377	normal embryonic palatal mesenchymal cell line:HEPM	1	cell lines
-RES00002378	normal intestinal epithelial cell line:FHs 74 Int	1	cell lines
-RES00002379	nucleus accumbens, adult	1	tissues
-RES00002380	occipital cortex, adult	2	tissues
-RES00002381	occipital cortex, newborn	1	tissues
-RES00002382	occipital lobe, adult	1	tissues
-RES00002383	occipital lobe, fetal	1	tissues
-RES00002384	occipital pole, adult	1	tissues
-RES00002385	olfactory region	1	tissues
-RES00002386	optic nerve	1	tissues
-RES00002387	oral squamous cell carcinoma cell line:Ca9-22	1	cell lines
-RES00002388	oral squamous cell carcinoma cell line:HO-1-u-1	1	cell lines
-RES00002389	oral squamous cell carcinoma cell line:HSC-3	1	cell lines
-RES00002390	oral squamous cell carcinoma cell line:SAS	1	cell lines
-RES00002391	osteoclastoma cell line:Hs 706.T	1	cell lines
-RES00002392	osteosarcoma cell line:143B/TK^(-)neo^(R)	1	cell lines
-RES00002393	osteosarcoma cell line:HS-Os-1	1	cell lines
-RES00002394	ovary, adult	1	tissues
-RES00002395	pagetoid sarcoma cell line:Hs 925.T	1	cell lines
-RES00002396	pancreas, adult	1	tissues
-RES00002397	pancreatic carcinoma cell line:NOR-P1	1	cell lines
-RES00002398	papillary adenocarcinoma cell line:8505C	1	cell lines
-RES00002399	papillotubular adenocarcinoma cell line:TGBC18TKB	1	cell lines
-RES00002400	paracentral gyrus, adult	1	tissues
-RES00002401	parietal cortex, adult	1	tissues
-RES00002402	parietal lobe, adult	3	tissues
-RES00002403	parietal lobe, fetal	1	tissues
-RES00002404	parietal lobe, newborn	1	tissues
-RES00002405	parotid gland	1	tissues
-RES00002406	penis	1	tissues
-RES00002407	peripheral neuroectodermal tumor cell line:KU-SN	1	cell lines
-RES00002408	pharyngeal carcinoma cell line:Detroit 562	1	cell lines
-RES00002409	pineal gland, adult	3	tissues
-RES00002410	pituitary gland, adult	3	tissues
-RES00002411	placenta, adult	1	tissues
-RES00002412	plasma cell leukemia cell line:ARH-77	1	cell lines
-RES00002413	pleomorphic hepatocellular carcinoma cell line:SNU-387	1	cell lines
-RES00002414	pons, adult	1	tissues
-RES00002415	postcentral gyrus, adult	1	tissues
-RES00002416	promyelocytes/myelocytes PMC	3	primary cells
-RES00002417	prostate cancer cell line:DU145	1	cell lines
-RES00002418	prostate cancer cell line:PC-3	1	cell lines
-RES00002419	prostate, adult	1	tissues
-RES00002420	putamen, adult	4	tissues
-RES00002421	putamen, newborn	1	tissues
-RES00002422	rectal cancer cell line:TT1TKB	1	cell lines
-RES00002423	rectum, fetal	1	tissues
-RES00002424	renal cell carcinoma cell line:OS-RC-2	1	cell lines
-RES00002425	renal cell carcinoma cell line:TUHR10TKB	1	cell lines
-RES00002426	retina, adult	1	tissues
-RES00002427	retinoblastoma cell line:Y79	1	cell lines
-RES00002428	rhabdomyosarcoma cell line:KYM-1	1	cell lines
-RES00002429	rhabdomyosarcoma cell line:RMS-YM	1	cell lines
-RES00002430	sacrococcigeal teratoma cell line:HTST	1	cell lines
-RES00002431	salivary acinar cells	3	primary cells
-RES00002432	salivary gland, adult	1	tissues
-RES00002433	schwannoma cell line:HS-PSS	2	cell lines
-RES00002434	seminal vesicle	1	tissues
-RES00002435	serous adenocarcinoma cell line:JHOS-2	1	cell lines
-RES00002436	serous adenocarcinoma cell line:SK-OV-3-R after co-culture with SOC-57-02-G	1	cell lines
-RES00002437	serous adenocarcinoma cell line:SK-OV-3-R	1	cell lines
-RES00002438	serous cystadenocarcinoma cell line:HTOA	1	cell lines
-RES00002439	signet ring carcinoma cell line:Kato III	1	cell lines
-RES00002440	signet ring carcinoma cell line:NUGC-4	1	cell lines
-RES00002441	skeletal muscle - soleus muscle	1	tissues
-RES00002442	skeletal muscle, adult	1	tissues
-RES00002443	skeletal muscle, fetal	1	tissues
-RES00002444	skin, adult	1	tissues
-RES00002445	skin, fetal	1	tissues
-RES00002446	small cell cervical cancer cell line:HCSC-1	1	cell lines
-RES00002447	small cell gastrointestinal carcinoma cell line:ECC10	1	cell lines
-RES00002448	small cell lung carcinoma cell line:DMS 144	1	cell lines
-RES00002449	small cell lung carcinoma cell line:LK-2	1	cell lines
-RES00002450	small cell lung carcinoma cell line:NCI-H82	1	cell lines
-RES00002451	small cell lung carcinoma cell line:WA-hT	1	cell lines
-RES00002452	small intestine, adult	1	tissues
-RES00002453	small intestine, fetal	1	tissues
-RES00002454	small-cell gastrointestinal carcinoma cell line:ECC4	1	cell lines
-RES00002455	smooth muscle, adult	1	tissues
-RES00002456	somatostatinoma cell line:QGP-1	1	cell lines
-RES00002457	spinal cord, adult	3	tissues
-RES00002458	spinal cord, fetal	1	tissues
-RES00002459	spinal cord, newborn	1	tissues
-RES00002460	spindle cell sarcoma cell line:Hs 132.T	1	cell lines
-RES00002461	spleen, adult	1	tissues
-RES00002462	spleen, fetal	1	tissues
-RES00002463	splenic lymphoma with villous lymphocytes cell line:SLVL	1	cell lines
-RES00002464	squamous cell carcinoma cell line:EC-GI-10	1	cell lines
-RES00002465	squamous cell carcinoma cell line:JHUS-nk1	1	cell lines
-RES00002466	squamous cell carcinoma cell line:T3M-5	1	cell lines
-RES00002467	squamous cell lung carcinoma cell line:EBC-1	1	cell lines
-RES00002468	squamous cell lung carcinoma cell line:LC-1F	1	cell lines
-RES00002469	squamous cell lung carcinoma cell line:RERF-LC-AI	1	cell lines
-RES00002470	stomach, fetal	1	tissues
-RES00002471	submaxillary gland	1	tissues
-RES00002472	substantia nigra, adult	3	tissues
-RES00002473	substantia nigra, newborn	1	tissues
-RES00002474	synovial sarcoma cell line:HS-SY-II	1	cell lines
-RES00002475	temporal lobe, adult	1	tissues
-RES00002476	temporal lobe, fetal	2	tissues
-RES00002477	tenocyte	3	primary cells
-RES00002478	teratocarcinoma cell line:NCC-IT-A3	1	cell lines
-RES00002479	teratocarcinoma cell line:NCR-G1	1	cell lines
-RES00002480	teratocarcinoma cell line:PA-1	1	cell lines
-RES00002481	testicular germ cell embryonal carcinoma cell line:ITO-II	1	cell lines
-RES00002482	testicular germ cell embryonal carcinoma cell line:NEC14	1	cell lines
-RES00002483	testicular germ cell embryonal carcinoma cell line:NEC15	1	cell lines
-RES00002484	testicular germ cell embryonal carcinoma cell line:NEC8	1	cell lines
-RES00002485	testis, adult	2	tissues
-RES00002486	thalamus, adult	4	tissues
-RES00002487	thalamus, newborn	1	tissues
-RES00002488	throat	1	tissues
-RES00002489	throat, fetal	1	tissues
-RES00002490	thymic carcinoma cell line:Ty-82	1	cell lines
-RES00002491	thymus, adult	1	tissues
-RES00002492	thymus, fetal	1	tissues
-RES00002493	thyroid carcinoma cell line:KHM-5M	1	cell lines
-RES00002494	thyroid carcinoma cell line:TCO-1	1	cell lines
-RES00002495	thyroid, adult	1	tissues
-RES00002496	thyroid, fetal	1	tissues
-RES00002497	tongue epidermis (fungiform papillae)	1	tissues
-RES00002498	tongue	1	tissues
-RES00002499	tongue, fetal	1	tissues
-RES00002500	tonsil, adult	1	tissues
-RES00002501	trachea, adult	1	tissues
-RES00002502	trachea, fetal	1	tissues
-RES00002503	transitional cell carcinoma cell line:Hs 769.T	1	cell lines
-RES00002504	transitional-cell carcinoma cell line:5637	1	cell lines
-RES00002505	transitional-cell carcinoma cell line:JMSU1	1	cell lines
-RES00002506	tridermal teratoma cell line:HGRT	1	cell lines
-RES00002507	tubular adenocarcinoma cell line:SUIT-2	1	cell lines
-RES00002508	umbilical cord, fetal	1	tissues
-RES00002509	uterus, adult	1	tissues
-RES00002510	uterus, fetal	1	tissues
-RES00002511	vagina	1	tissues
-RES00002512	vein	1	tissues
-RES00002513	xeroderma pigentosum b cell line:XPL 17	1	cell lines
+RefEx_Sample_ID	Description	#_of_sample	Sample types category	Experiments category	UBERON ID	UBERON label	CL ID	CL label	NCIT ID	NCIT label
+RES00001647	293SLAM rinderpest infection, 00hr	3	cell lines	time courses	UBERON:0002113	kidney	NA	NA	NA	NA
+RES00001648	293SLAM rinderpest infection, 06hr	3	cell lines	time courses	UBERON:0002113	kidney	NA	NA	NA	NA
+RES00001649	293SLAM rinderpest infection, 12hr	3	cell lines	time courses	UBERON:0002113	kidney	NA	NA	NA	NA
+RES00001650	293SLAM rinderpest infection, 24hr	3	cell lines	time courses	UBERON:0002113	kidney	NA	NA	NA	NA
+RES00001651	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 00hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001652	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 00hr15min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001653	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 00hr30min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001654	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 00hr45min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001655	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 01hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001656	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 01hr20min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001657	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 01hr40min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001658	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 02hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001659	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 02hr30min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001660	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 03hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001661	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 03hr30min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001662	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 04hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001663	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 05hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001664	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 06hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001665	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 07hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001666	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 08hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001667	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 12hr00min	2	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001668	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 16hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001669	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 24hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001670	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 42hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001671	ARPE-19 EMT induced with TGF-beta and TNF-alpha, 60hr00min	3	cell lines	time courses	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00001672	Adipocyte - breast	2	primary cells	snapshot	UBERON:0000310	breast	CL:0002617	adipocyte of breast	NA	NA
+RES00001673	Adipocyte - omental	3	primary cells	snapshot	UBERON:0003688	omentum	CL:0002615	adipocyte of omentum tissue	NA	NA
+RES00001674	Adipocyte - perirenal	1	primary cells	snapshot	UBERON:0005406	perirenal fat	CL:0002616	perirenal adipocyte cell	NA	NA
+RES00001675	Adipocyte - subcutaneous	3	primary cells	snapshot	UBERON:0002190	subcutaneous adipose tissue	CL:0002521	subcutaneous fat cell	NA	NA
+RES00001676	Adipocyte differentiation, day04	4	primary cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00001677	Adipocyte differentiation, day08	4	primary cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00001678	Adipocyte differentiation, day12	4	primary cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00001679	Alveolar Epithelial Cells	3	primary cells	snapshot	UBERON:0002299	alveolus of lung	CL:0000322	pneumocyte	NA	NA
+RES00001680	Amniotic Epithelial Cells	3	primary cells	snapshot	UBERON:0000305	amnion	CL:0002536	epithelial cell of amnion	NA	NA
+RES00001681	Anulus Pulposus Cell	2	primary cells	snapshot	UBERON:0004715	annulus fibrosus disci intervertebralis	CL:0002602	annulus pulposus cell	NA	NA
+RES00001682	Aortic smooth muscle cell response to FGF2, 00hr00min	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001683	Aortic smooth muscle cell response to FGF2, 00hr15min	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001684	Aortic smooth muscle cell response to FGF2, 00hr30min	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001685	Aortic smooth muscle cell response to FGF2, 00hr45min	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001686	Aortic smooth muscle cell response to FGF2, 01hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001687	Aortic smooth muscle cell response to FGF2, 02hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001688	Aortic smooth muscle cell response to FGF2, 03hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001689	Aortic smooth muscle cell response to FGF2, 04hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001690	Aortic smooth muscle cell response to FGF2, 05hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001691	Aortic smooth muscle cell response to FGF2, 06hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001692	Aortic smooth muscle cell response to IL1b, 00hr00min	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001693	Aortic smooth muscle cell response to IL1b, 00hr15min	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001694	Aortic smooth muscle cell response to IL1b, 00hr30min	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001695	Aortic smooth muscle cell response to IL1b, 00hr45min	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001696	Aortic smooth muscle cell response to IL1b, 01hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001697	Aortic smooth muscle cell response to IL1b, 02hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001698	Aortic smooth muscle cell response to IL1b, 03hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001699	Aortic smooth muscle cell response to IL1b, 04hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001700	Aortic smooth muscle cell response to IL1b, 05hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001701	Aortic smooth muscle cell response to IL1b, 06hr	3	primary cells	time courses	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00001702	Astrocyte - cerebellum	3	primary cells	snapshot	UBERON:0002037	cerebellum	CL:0002603	astrocyte of the cerebellum	NA	NA
+RES00001703	Astrocyte - cerebral cortex	3	primary cells	snapshot	UBERON:0000956	cerebral cortex	CL:0002605	astrocyte of the cerebral cortex	NA	NA
+RES00001704	B lymphoblastoid cell line: GM12878 ENCODE	3	cell lines	snapshot	UBERON:0000178	blood	CL:0000945	lymphocyte of B lineage	NA	NA
+RES00001705	Basophils	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000767	basophil	NA	NA
+RES00001706	Bronchial Epithelial Cell	7	primary cells	snapshot	UBERON:0002185	bronchus	CL:0002328	bronchial epithelial cell	NA	NA
+RES00001707	Burkitt's lymphoma cell line:DAUDI	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C27694	Epstein-Barr virus-related Burkitt lymphoma
+RES00001708	Burkitt's lymphoma cell line:RAJI	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C27694	Epstein-Barr virus-related Burkitt lymphoma
+RES00001709	CD133+ stem cells - adult bone marrow derived	1	primary cells	snapshot	UBERON:0002371	bone marrow	CL:0000034	stem cell	NA	NA
+RES00001710	CD133+ stem cells - cord blood derived	1	primary cells	snapshot	UBERON:0012168	umbilical cord blood	CL:2000095	cord blood hematopoietic stem cell	NA	NA
+RES00001711	CD14+ Monocytes	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001712	CD14+ monocyte derived endothelial progenitor cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:0002619	adult endothelial progenitor cell	NA	NA
+RES00001713	CD14+ monocytes - mock treated	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001714	CD14+ monocytes - treated with B-glucan	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001715	CD14+ monocytes - treated with BCG	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001716	CD14+ monocytes - treated with Candida	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001717	CD14+ monocytes - treated with Cryptococcus	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001718	CD14+ monocytes - treated with Group A streptococci	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001719	CD14+ monocytes - treated with IFN + N-hexane	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001720	CD14+ monocytes - treated with Salmonella	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001721	CD14+ monocytes - treated with Trehalose dimycolate (TDM)	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001722	CD14+ monocytes - treated with lipopolysaccharide	3	primary cells	snapshot	UBERON:0000178	blood	CL:0001054	CD14-positive monocyte	NA	NA
+RES00001723	CD14+CD16+ Monocytes	3	primary cells	snapshot	UBERON:0000178	blood	CL:0002397	CD14-positive, CD16-positive monocyte	NA	NA
+RES00001724	CD14+CD16- Monocytes	3	primary cells	snapshot	UBERON:0000178	blood	CL:0002057	CD14-positive, CD16-negative classical monocyte	NA	NA
+RES00001725	CD14-CD16+ Monocytes	3	primary cells	snapshot	UBERON:0000178	blood	CL:0002396	CD14-low, CD16-positive monocyte	NA	NA
+RES00001726	CD19+ B Cells (pluriselect)	8	primary cells	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NA	NA
+RES00001727	CD19+ B Cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NA	NA
+RES00001728	CD34 cells differentiated to erythrocyte lineage	2	primary cells	snapshot	UBERON:0000178	blood	CL:0000232	erythrocyte	NA	NA
+RES00001729	CD34+ Progenitors	2	primary cells	snapshot	UBERON:0000178	blood	CL:0000034	stem cell	NA	NA
+RES00001730	CD34+ stem cells - adult bone marrow derived	2	primary cells	snapshot	UBERON:0002371	bone marrow	CL:0000034	stem cell	NA	NA
+RES00001731	CD4+ T Cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000624	CD4-positive, alpha-beta T cell	NA	NA
+RES00001732	CD4+CD25+CD45RA+ naive regulatory T cells expanded	3	primary cells	snapshot	UBERON:0000178	blood	CL:0002677	naive regulatory T cell	NA	NA
+RES00001733	CD4+CD25+CD45RA+ naive regulatory T cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:0002677	naive regulatory T cell	NA	NA
+RES00001734	CD4+CD25+CD45RA- memory regulatory T cells expanded	3	primary cells	snapshot	UBERON:0000178	blood	CL:0002678	memory regulatory T cell	NA	NA
+RES00001735	CD4+CD25+CD45RA- memory regulatory T cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:0002678	memory regulatory T cell	NA	NA
+RES00001736	CD4+CD25-CD45RA+ naive conventional T cells expanded	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000895	naive thymus-derived CD4-positive, alpha-beta T cell	NA	NA
+RES00001737	CD4+CD25-CD45RA+ naive conventional T cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000895	naive thymus-derived CD4-positive, alpha-beta T cell	NA	NA
+RES00001738	CD4+CD25-CD45RA- memory conventional T cells expanded	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000905	effector memory CD4-positive, alpha-beta T cell	NA	NA
+RES00001739	CD4+CD25-CD45RA- memory conventional T cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000905	effector memory CD4-positive, alpha-beta T cell	NA	NA
+RES00001740	CD8+ T Cells (pluriselect)	8	primary cells	snapshot	UBERON:0000178	blood	CL:0000625	CD8-positive, alpha-beta T cell	NA	NA
+RES00001741	CD8+ T Cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000625	CD8-positive, alpha-beta T cell	NA	NA
+RES00001742	COBL-a rinderpest infection, 00hr	3	cell lines	time courses	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00001743	COBL-a rinderpest infection, 06hr	3	cell lines	time courses	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00001744	COBL-a rinderpest infection, 12hr	3	cell lines	time courses	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00001745	COBL-a rinderpest infection, 24hr	3	cell lines	time courses	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00001746	COBL-a rinderpest infection, 48hr	3	cell lines	time courses	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00001747	COBL-a rinderpest(-C) infection, 06hr	3	cell lines	time courses	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00001748	COBL-a rinderpest(-C) infection, 12hr	3	cell lines	time courses	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00001749	COBL-a rinderpest(-C) infection, 24hr	3	cell lines	time courses	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00001750	COBL-a rinderpest(-C) infection, 48hr	3	cell lines	time courses	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00001751	Cardiac Myocyte	3	primary cells	snapshot	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle cell	NA	NA
+RES00001752	Chondrocyte - de diff	3	primary cells	snapshot	UBERON:0002418	cartilage tissue	CL:0000138	chondrocyte	NA	NA
+RES00001753	Chondrocyte - re diff	2	primary cells	snapshot	UBERON:0002418	cartilage tissue	CL:0000138	chondrocyte	NA	NA
+RES00001754	Ciliary Epithelial Cells	3	primary cells	snapshot	UBERON:0000970	eye	CL:0000067	ciliated epithelial cell	NA	NA
+RES00001755	Clontech Human Universal Reference Total RNA	1	tissues	snapshot	NA	NA	NA	NA	NA	NA
+RES00001756	Corneal Epithelial Cells	3	primary cells	snapshot	UBERON:0000964	cornea	CL:0000575	corneal epithelial cell	NA	NA
+RES00001757	Dendritic Cells - monocyte immature derived	4	primary cells	snapshot	UBERON:0000178	blood	CL:0000840	immature conventional dendritic cell	NA	NA
+RES00001758	Dendritic Cells - plasmacytoid	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000784	plasmacytoid dendritic cell	NA	NA
+RES00001759	Endothelial Cells - Aortic	4	primary cells	snapshot	UBERON:0000947	aorta	CL:0002544	aortic endothelial cell	NA	NA
+RES00001760	Endothelial Cells - Artery	3	primary cells	snapshot	UBERON:0001637	artery	CL:1000413	endothelial cell of artery	NA	NA
+RES00001761	Endothelial Cells - Lymphatic	3	primary cells	snapshot	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001762	Endothelial Cells - Microvascular	3	primary cells	snapshot	UBERON:0008339	microvascular endothelium	CL:2000008	microvascular endothelial cell	NA	NA
+RES00001763	Endothelial Cells - Thoracic	2	primary cells	snapshot	UBERON:0001515	thoracic aorta	CL:0002545	thoracic aorta endothelial cell	NA	NA
+RES00001764	Endothelial Cells - Umbilical vein	3	primary cells	snapshot	UBERON:0002066	umbilical vein	CL:0002618	endothelial cell of umbilical vein	NA	NA
+RES00001765	Endothelial Cells - Vein	3	primary cells	snapshot	UBERON:0001638	vein	CL:0002543	vein endothelial cell	NA	NA
+RES00001766	Eosinophils	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000771	eosinophil	NA	NA
+RES00001767	Esophageal Epithelial Cells	3	primary cells	snapshot	UBERON:0001043	esophagus	CL:0002252	epithelial cell of esophagus	NA	NA
+RES00001768	Ewing's sarcoma cell line:Hs 863.T	1	cell lines	snapshot	UBERON:0001474	bone element	CL:0011012	neural crest cell	NCIT:C4817	Ewing sarcoma
+RES00001769	Fibroblast - Aortic Adventitial, cytoplasmic fraction	2	primary cells	fractionations	UBERON:0004664	aorta tunica adventitia	CL:0002547	fibroblast of the aortic adventitia	NA	NA
+RES00001770	Fibroblast - Aortic Adventitial	3	primary cells	snapshot	UBERON:0004664	aorta tunica adventitia	CL:0002547	fibroblast of the aortic adventitia	NA	NA
+RES00001771	Fibroblast - Aortic Adventitial, nuclear fraction	2	primary cells	fractionations	UBERON:0004664	aorta tunica adventitia	CL:0002547	fibroblast of the aortic adventitia	NA	NA
+RES00001772	Fibroblast - Cardiac	6	primary cells	snapshot	UBERON:0000948	heart	CL:0002548	fibroblast of cardiac tissue	NA	NA
+RES00001773	Fibroblast - Choroid Plexus	3	primary cells	snapshot	UBERON:0001886	choroid plexus	CL:0002549	fibroblast of choroid plexus	NA	NA
+RES00001774	Fibroblast - Conjunctival	2	primary cells	snapshot	UBERON:0001811	conjunctiva	CL:0002550	fibroblast of the conjunctiva	NA	NA
+RES00001775	Fibroblast - Dermal	6	primary cells	snapshot	UBERON:0002067	dermis	CL:0002551	fibroblast of dermis	NA	NA
+RES00001776	Fibroblast - Gingival, control	7	primary cells	snapshot	UBERON:0001828	gingiva	CL:0002552	fibroblast of gingiva	NA	NA
+RES00001777	Fibroblast - Gingival, periodontitis	1	primary cells	snapshot	UBERON:0001828	gingiva	CL:0002552	fibroblast of gingiva	NCIT:C34918	Periodontitis
+RES00001778	Fibroblast - Gingival, GFH2	1	primary cells	snapshot	UBERON:0001828	gingiva	CL:0002552	fibroblast of gingiva	Orphanet:2026	Gingival fibromatosis-hypertrichosis syndrome
+RES00001779	Fibroblast - Gingival, GFH3	1	primary cells	snapshot	UBERON:0001828	gingiva	CL:0002552	fibroblast of gingiva	Orphanet:2026	Gingival fibromatosis-hypertrichosis syndrome
+RES00001780	Fibroblast - Gingival, aggressive periodontitis	2	primary cells	snapshot	UBERON:0001828	gingiva	CL:0002552	fibroblast of gingiva	NCIT:C34918	Periodontitis
+RES00001781	Fibroblast - Gingival, chronic periodontitis	1	primary cells	snapshot	UBERON:0001828	gingiva	CL:0002552	fibroblast of gingiva	NCIT:C34918	Periodontitis
+RES00001782	Fibroblast - Lung	3	primary cells	snapshot	UBERON:0002048	lung	CL:0002553	fibroblast of lung	NA	NA
+RES00001783	Fibroblast - Lymphatic	3	primary cells	snapshot	UBERON:0001473	lymphatic vessel	CL:0002554	fibroblast of lymphatic vessel	NA	NA
+RES00001784	Fibroblast - Mammary	3	primary cells	snapshot	UBERON:0001911	mammary gland	CL:0002555	fibroblast of mammary gland	NA	NA
+RES00001785	Fibroblast - Periodontal Ligament	6	primary cells	snapshot	UBERON:0008266	periodontal ligament	CL:0002556	fibroblast of periodontium	NA	NA
+RES00001786	Fibroblast - Pulmonary Artery	1	primary cells	snapshot	UBERON:0002012	pulmonary artery	CL:0002557	fibroblast of pulmonary artery	NA	NA
+RES00001787	Fibroblast - Villous Mesenchymal	3	primary cells	snapshot	UBERON:0001987	placenta	CL:0002558	fibroblast of villous mesenchyme	NA	NA
+RES00001788	Fibroblast - skin dystrophia myotonica, nuclear fraction	2	primary cells	fractionations	UBERON:0002097	skin of body	CL:0002620	skin fibroblast	NCIT:C84914	Myotonic Dystrophy
+RES00001789	Fibroblast - skin dystrophia myotonica	3	primary cells	snapshot	UBERON:0002097	skin of body	CL:0002620	skin fibroblast	NCIT:C84914	Myotonic Dystrophy
+RES00001790	Fibroblast - skin normal, nuclear fraction	2	primary cells	fractionations	UBERON:0002097	skin of body	CL:0002620	skin fibroblast	NA	NA
+RES00001791	Fibroblast - skin normal	2	primary cells	snapshot	UBERON:0002097	skin of body	CL:0002620	skin fibroblast	NA	NA
+RES00001792	Fibroblast - skin spinal muscular atrophy, nuclear fraction	2	primary cells	fractionations	UBERON:0002097	skin of body	CL:0002620	skin fibroblast	NCIT:C85075	Spinal Muscular Atrophy
+RES00001793	Fibroblast - skin spinal muscular atrophy	3	primary cells	snapshot	UBERON:0002097	skin of body	CL:0002620	skin fibroblast	NCIT:C85075	Spinal Muscular Atrophy
+RES00001794	Fibroblast - skin walker warburg	1	primary cells	snapshot	UBERON:0002097	skin of body	CL:0002620	skin fibroblast	NCIT:C99109	Walker-Warburg Syndrome
+RES00001795	Fibroblast - skin normal, cytoplasmic fraction	2	primary cells	fractionations	UBERON:0002097	skin of body	CL:0002620	skin fibroblast	NA	NA
+RES00001796	Fingernail (including nail plate, eponychium and hyponychium)	1	tissues	snapshot	UBERON:0001705	nail	NA	NA	NA	NA
+RES00001797	Gingival epithelial cells	3	primary cells	snapshot	UBERON:0001949	gingival epithelium	CL:0002621	gingival epithelial cell	NA	NA
+RES00001798	H1 embryonic stem cells differentiation to CD34+ HSC, day00	3	stem cells	time courses	NA	NA	CL:0002322	embryonic stem cell	NA	NA
+RES00001799	H1 embryonic stem cells differentiation to CD34+ HSC, day03	3	stem cells	time courses	NA	NA	CL:0000034	stem cell	NA	NA
+RES00001800	H1 embryonic stem cells differentiation to CD34+ HSC, day09	3	stem cells	time courses	NA	NA	CL:0000034	stem cell	NA	NA
+RES00001801	H9 Embryoid body cells, melanocytic induction, day00	3	stem cells	time courses	UBERON:0014374	embryoid body	CL:0002322	embryonic stem cell	NA	NA
+RES00001802	H9 Embryoid body cells, melanocytic induction, day01	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001803	H9 Embryoid body cells, melanocytic induction, day03	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001804	H9 Embryoid body cells, melanocytic induction, day06	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001805	H9 Embryoid body cells, melanocytic induction, day09	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001806	H9 Embryoid body cells, melanocytic induction, day12	5	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001807	H9 Embryoid body cells, melanocytic induction, day15	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001808	H9 Embryoid body cells, melanocytic induction, day18	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001809	H9 Embryoid body cells, melanocytic induction, day21	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001810	H9 Embryoid body cells, melanocytic induction, day24	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001811	H9 Embryoid body cells, melanocytic induction, day27	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001812	H9 Embryoid body cells, melanocytic induction, day30	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001813	H9 Embryoid body cells, melanocytic induction, day34	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001814	H9 Embryoid body cells, melanocytic induction, day41	3	stem cells	time courses	NA	NA	CL:0000148	melanocyte	NA	NA
+RES00001815	H9 Embryonic Stem cells	3	stem cells	snapshot	NA	NA	CL:0002322	embryonic stem cell	NA	NA
+RES00001816	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day00	3	stem cells	time courses	NA	NA	CL:0002322	embryonic stem cell	NA	NA
+RES00001817	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day01	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001818	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day02	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001819	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day03	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001820	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day04	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001821	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day05	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001822	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day06	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001823	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day07	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001824	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day08	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001825	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day09	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001826	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day10	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001827	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day11	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001828	HES3-GFP Embryonic Stem cells, cardiomyocytic induction, day12	3	stem cells	time courses	UBERON:0007100	primary circulatory organ	CL:0000746	cardiac muscle myoblast	NA	NA
+RES00001829	Hair Follicle Dermal Papilla Cells	3	primary cells	snapshot	UBERON:0000412	dermal papilla	CL:0000346	hair follicle dermal papilla cell	NA	NA
+RES00001830	Hair Follicle Outer Root Sheath Cells	2	primary cells	snapshot	UBERON:0002073	hair follicle	CL:0002561	outer root sheath cell	NA	NA
+RES00001831	Hep-2 cells mock treated	3	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:0002535	epithelial cell of cervix	NCIT:C27677	Human papillomavirus-related endocervical adenocarcinoma
+RES00001832	Hep-2 cells treated with Streptococci strain 5448	3	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:0002535	epithelial cell of cervix	NCIT:C27677	Human papillomavirus-related endocervical adenocarcinoma
+RES00001833	Hep-2 cells treated with Streptococci strain JRS4	3	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:0002535	epithelial cell of cervix	NCIT:C27677	Human papillomavirus-related endocervical adenocarcinoma
+RES00001834	Hepatic Sinusoidal Endothelial Cells	3	primary cells	snapshot	UBERON:0001281	hepatic sinusoid	CL:1000398	endothelial cell of hepatic sinusoid	NA	NA
+RES00001835	Hepatic Stellate Cells (lipocyte)	3	primary cells	snapshot	UBERON:0002107	liver	CL:0000632	hepatic stellate cell	NA	NA
+RES00001836	Hepatocyte	3	primary cells	snapshot	UBERON:0002107	liver	CL:0000182	hepatocyte	NA	NA
+RES00001837	Hodgkin's lymphoma cell line:HD-Mar2	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000542	lymphocyte	NCIT:C9357	Hodgkin lymphoma
+RES00001838	Intestinal epithelial cells (polarized)	1	primary cells	snapshot	UBERON:0000160	intestine	CL:0002563	intestinal epithelial cell	NA	NA
+RES00001839	Iris Pigment Epithelial Cells	1	primary cells	snapshot	UBERON:0002506	iris epithelium	CL:0002565	iris pigment epithelial cell	NA	NA
+RES00001840	K562 erythroblastic leukemia response to hemin, 00hr00min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001841	K562 erythroblastic leukemia response to hemin, 00hr15min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001842	K562 erythroblastic leukemia response to hemin, 00hr30min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001843	K562 erythroblastic leukemia response to hemin, 00hr45min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001844	K562 erythroblastic leukemia response to hemin, 01hr00min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001845	K562 erythroblastic leukemia response to hemin, 01hr20min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001846	K562 erythroblastic leukemia response to hemin, 01hr40min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001847	K562 erythroblastic leukemia response to hemin, 02hr00min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001848	K562 erythroblastic leukemia response to hemin, 02hr30min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001849	K562 erythroblastic leukemia response to hemin, 03hr00min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001850	K562 erythroblastic leukemia response to hemin, 03hr30min	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001851	K562 erythroblastic leukemia response to hemin, 04hr	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001852	K562 erythroblastic leukemia response to hemin, 06hr	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001853	K562 erythroblastic leukemia response to hemin, 12hr	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001854	K562 erythroblastic leukemia response to hemin, 24hr	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001855	K562 erythroblastic leukemia response to hemin, day02	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001856	K562 erythroblastic leukemia response to hemin, day03	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001857	K562 erythroblastic leukemia response to hemin, day04	3	cell lines	time courses	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00001858	Keratinocyte - epidermal	3	primary cells	snapshot	UBERON:0001003	skin epidermis	CL:0000312	keratinocyte	NA	NA
+RES00001859	Keratinocyte - oral	1	primary cells	snapshot	UBERON:0003729	mouth mucosa	CL:0002170	keratinized cell of the oral mucosa	NA	NA
+RES00001860	Keratocytes	3	primary cells	snapshot	UBERON:0001777	substantia propria of cornea	CL:0002363	keratocyte	NA	NA
+RES00001861	Krukenberg tumor cell line:HSKTC	1	cell lines	snapshot	NA	NA	CL:0000066	epithelial cell	NCIT:C3153	Krukenberg tumor
+RES00001862	Lens Epithelial Cells	3	primary cells	snapshot	UBERON:0001803	epithelium of lens	CL:0002224	lens epithelial cell	NA	NA
+RES00001863	Lymphatic Endothelial cells response to VEGFC, 00hr00min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001864	Lymphatic Endothelial cells response to VEGFC, 00hr15min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001865	Lymphatic Endothelial cells response to VEGFC, 00hr30min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001866	Lymphatic Endothelial cells response to VEGFC, 00hr45min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001867	Lymphatic Endothelial cells response to VEGFC, 01hr00min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001868	Lymphatic Endothelial cells response to VEGFC, 01hr20min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001869	Lymphatic Endothelial cells response to VEGFC, 01hr40min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001870	Lymphatic Endothelial cells response to VEGFC, 02hr00min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001871	Lymphatic Endothelial cells response to VEGFC, 02hr30min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001872	Lymphatic Endothelial cells response to VEGFC, 03hr00min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001873	Lymphatic Endothelial cells response to VEGFC, 03hr30min	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001874	Lymphatic Endothelial cells response to VEGFC, 04hr	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001875	Lymphatic Endothelial cells response to VEGFC, 05hr	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001876	Lymphatic Endothelial cells response to VEGFC, 06hr	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001877	Lymphatic Endothelial cells response to VEGFC, 07hr	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001878	Lymphatic Endothelial cells response to VEGFC, 08hr	3	primary cells	time courses	UBERON:0001473	lymphatic vessel	CL:0002138	endothelial cell of lymphatic vessel	NA	NA
+RES00001879	MCF7 breast cancer cell line response to EGF1, 00hr00min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001880	MCF7 breast cancer cell line response to EGF1, 00hr15min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001881	MCF7 breast cancer cell line response to EGF1, 00hr30min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001882	MCF7 breast cancer cell line response to EGF1, 00hr45min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001883	MCF7 breast cancer cell line response to EGF1, 01hr00min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001884	MCF7 breast cancer cell line response to EGF1, 01hr20min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001885	MCF7 breast cancer cell line response to EGF1, 01hr40min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001886	MCF7 breast cancer cell line response to EGF1, 02hr00min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001887	MCF7 breast cancer cell line response to EGF1, 02hr30min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001888	MCF7 breast cancer cell line response to EGF1, 03hr00min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001889	MCF7 breast cancer cell line response to EGF1, 03hr30min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001890	MCF7 breast cancer cell line response to EGF1, 04hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001891	MCF7 breast cancer cell line response to EGF1, 05hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001892	MCF7 breast cancer cell line response to EGF1, 06hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001893	MCF7 breast cancer cell line response to EGF1, 07hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001894	MCF7 breast cancer cell line response to EGF1, 08hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001895	MCF7 breast cancer cell line response to HRG, 00hr15min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001896	MCF7 breast cancer cell line response to HRG, 00hr30min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001897	MCF7 breast cancer cell line response to HRG, 00hr45min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001898	MCF7 breast cancer cell line response to HRG, 01hr00min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001899	MCF7 breast cancer cell line response to HRG, 01hr20min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001900	MCF7 breast cancer cell line response to HRG, 01hr40min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001901	MCF7 breast cancer cell line response to HRG, 02hr00min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001902	MCF7 breast cancer cell line response to HRG, 02hr30min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001903	MCF7 breast cancer cell line response to HRG, 03hr00min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001904	MCF7 breast cancer cell line response to HRG, 03hr30min	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001905	MCF7 breast cancer cell line response to HRG, 04hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001906	MCF7 breast cancer cell line response to HRG, 05hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001907	MCF7 breast cancer cell line response to HRG, 06hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001908	MCF7 breast cancer cell line response to HRG, 07hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001909	MCF7 breast cancer cell line response to HRG, 08hr	3	cell lines	time courses	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00001910	Macrophage - monocyte derived	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001911	Mallassez-derived cells	3	primary cells	snapshot	UBERON:0011595	jaw region	CL:0002166	epithelial cell of Malassez	NA	NA
+RES00001912	Mammary Epithelial Cell	3	primary cells	snapshot	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NA	NA
+RES00001913	Mast cell, stimulated	1	primary cells	snapshot	UBERON:0002097	skin of body	CL:0000097	mast cell	NA	NA
+RES00001914	Mast cell	4	primary cells	snapshot	UBERON:0002097	skin of body	CL:0000097	mast cell	NA	NA
+RES00001915	Mast cell, expanded and stimulated	2	primary cells	snapshot	UBERON:0002097	skin of body	CL:0000097	mast cell	NA	NA
+RES00001916	Mast cell, expanded	2	primary cells	snapshot	UBERON:0002097	skin of body	CL:0000097	mast cell	NA	NA
+RES00001917	Melanocyte - dark	3	primary cells	snapshot	UBERON:0001003	skin epidermis	CL:0002566	dark melanocyte	NA	NA
+RES00001918	Melanocyte - light	3	primary cells	snapshot	UBERON:0001003	skin epidermis	CL:0002567	light melanocyte	NA	NA
+RES00001919	Melanocyte	3	primary cells	snapshot	UBERON:0001003	skin epidermis	CL:0000148	melanocyte	NA	NA
+RES00001920	Meningeal Cells	3	primary cells	snapshot	UBERON:0002360	meninx	CL:0000708	leptomeningeal cell	NA	NA
+RES00001921	Mesenchymal Stem Cells - Vertebral	1	primary cells	snapshot	UBERON:0002412	vertebra	CL:0002572	vertebral mesenchymal stem cell	NA	NA
+RES00001922	Mesenchymal Stem Cells - Wharton's Jelly	1	primary cells	snapshot	UBERON:0002331	umbilical cord	CL:0002568	mesenchymal stem cell of Wharton's jelly	NA	NA
+RES00001923	Mesenchymal Stem Cells - adipose	3	primary cells	snapshot	UBERON:0001013	adipose tissue	CL:0002570	mesenchymal stem cell of adipose	NA	NA
+RES00001924	Mesenchymal Stem Cells - amniotic membrane	2	primary cells	snapshot	UBERON:0000305	amnion	CL:0002537	amnion mesenchymal stem cell	NA	NA
+RES00001925	Mesenchymal Stem Cells - bone marrow	4	primary cells	snapshot	UBERON:0002371	bone marrow	CL:0002540	mesenchymal stem cell of the bone marrow	NA	NA
+RES00001926	Mesenchymal Stem Cells - hepatic	2	primary cells	snapshot	UBERON:0002107	liver	CL:0002571	hepatic mesenchymal stem cell	NA	NA
+RES00001927	Mesenchymal Stem Cells - umbilical	3	primary cells	snapshot	UBERON:0003422	mesenchyme of umbilical cord	CL:0002569	mesenchymal stem cell of umbilical cord	NA	NA
+RES00001928	Mesenchymal stem cells - adipose	1	primary cells	snapshot	UBERON:0001013	adipose tissue	CL:0002570	mesenchymal stem cell of adipose	NA	NA
+RES00001929	Mesenchymal stem cells - hepatic	1	primary cells	snapshot	UBERON:0002107	liver	CL:0002571	hepatic mesenchymal stem cell	NA	NA
+RES00001930	Mesenchymal stem cells - umbilical	1	primary cells	snapshot	UBERON:0003422	mesenchyme of umbilical cord	CL:0002569	mesenchymal stem cell of umbilical cord	NA	NA
+RES00001931	Mesothelial Cells	3	primary cells	snapshot	UBERON:0001136	mesothelium	CL:0000077	mesothelial cell	NA	NA
+RES00001932	Monocyte-derived macrophages response to LPS, 00hr00min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001933	Monocyte-derived macrophages response to LPS, 00hr15min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001934	Monocyte-derived macrophages response to LPS, 00hr30min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001935	Monocyte-derived macrophages response to LPS, 00hr45min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001936	Monocyte-derived macrophages response to LPS, 01hr00min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001937	Monocyte-derived macrophages response to LPS, 01hr20min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001938	Monocyte-derived macrophages response to LPS, 01hr40min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001939	Monocyte-derived macrophages response to LPS, 02hr00min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001940	Monocyte-derived macrophages response to LPS, 02hr30min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001941	Monocyte-derived macrophages response to LPS, 03hr00min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001942	Monocyte-derived macrophages response to LPS, 03hr30min	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001943	Monocyte-derived macrophages response to LPS, 04hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001944	Monocyte-derived macrophages response to LPS, 05hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001945	Monocyte-derived macrophages response to LPS, 06hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001946	Monocyte-derived macrophages response to LPS, 07hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001947	Monocyte-derived macrophages response to LPS, 08hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001948	Monocyte-derived macrophages response to LPS, 10hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001949	Monocyte-derived macrophages response to LPS, 12hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001950	Monocyte-derived macrophages response to LPS, 14hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001951	Monocyte-derived macrophages response to LPS, 16hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001952	Monocyte-derived macrophages response to LPS, 18hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001953	Monocyte-derived macrophages response to LPS, 20hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001954	Monocyte-derived macrophages response to LPS, 22hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001955	Monocyte-derived macrophages response to LPS, 24hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001956	Monocyte-derived macrophages response to LPS, 36hr	3	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001957	Monocyte-derived macrophages response to LPS, 48hr	2	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001958	Monocyte-derived macrophages response to mock influenza infection, 00hr00min	4	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001959	Monocyte-derived macrophages response to mock influenza infection, 24hr00min	4	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001960	Monocyte-derived macrophages response to udorn influenza infection, 00hr00min	4	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001961	Monocyte-derived macrophages response to udorn influenza infection, 02hr00min	4	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001962	Monocyte-derived macrophages response to udorn influenza infection, 07hr00min	4	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001963	Monocyte-derived macrophages response to udorn influenza infection, 24hr00min	4	primary cells	time courses	UBERON:0000178	blood	CL:0000235	macrophage	NA	NA
+RES00001964	Multipotent Cord Blood Unrestricted Somatic Stem Cells	2	primary cells	snapshot	UBERON:0002331	umbilical cord	CL:0002569	mesenchymal stem cell of umbilical cord	NA	NA
+RES00001965	Myoblast differentiation to myotubes, day00, Duchenne Muscular Dystrophy	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NCIT:C75482	Duchenne Muscular Dystrophy
+RES00001966	Myoblast differentiation to myotubes, day00, control	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0000515	skeletal muscle myoblast	NA	NA
+RES00001967	Myoblast differentiation to myotubes, day01, Duchenne Muscular Dystrophy	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NCIT:C75482	Duchenne Muscular Dystrophy
+RES00001968	Myoblast differentiation to myotubes, day01, control	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NA	NA
+RES00001969	Myoblast differentiation to myotubes, day02, Duchenne Muscular Dystrophy	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NCIT:C75482	Duchenne Muscular Dystrophy
+RES00001970	Myoblast differentiation to myotubes, day02, control	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NA	NA
+RES00001971	Myoblast differentiation to myotubes, day03, Duchenne Muscular Dystrophy	2	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NCIT:C75482	Duchenne Muscular Dystrophy
+RES00001972	Myoblast differentiation to myotubes, day03, control	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NA	NA
+RES00001973	Myoblast differentiation to myotubes, day04, Duchenne Muscular Dystrophy	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NCIT:C75482	Duchenne Muscular Dystrophy
+RES00001974	Myoblast differentiation to myotubes, day04, control	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NA	NA
+RES00001975	Myoblast differentiation to myotubes, day06, Duchenne Muscular Dystrophy	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NCIT:C75482	Duchenne Muscular Dystrophy
+RES00001976	Myoblast differentiation to myotubes, day06, control	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NA	NA
+RES00001977	Myoblast differentiation to myotubes, day08, Duchenne Muscular Dystrophy	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NCIT:C75482	Duchenne Muscular Dystrophy
+RES00001978	Myoblast differentiation to myotubes, day08, control	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NA	NA
+RES00001979	Myoblast differentiation to myotubes, day10, Duchenne Muscular Dystrophy	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NCIT:C75482	Duchenne Muscular Dystrophy
+RES00001980	Myoblast differentiation to myotubes, day10, control	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NA	NA
+RES00001981	Myoblast differentiation to myotubes, day12, Duchenne Muscular Dystrophy	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NCIT:C75482	Duchenne Muscular Dystrophy
+RES00001982	Myoblast differentiation to myotubes, day12, control	3	primary cells	time courses	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NA	NA
+RES00001983	Myoblast	3	primary cells	snapshot	UBERON:0001134	skeletal muscle tissue	CL:0000515	skeletal muscle myoblast	NA	NA
+RES00001984	NK T cell leukemia cell line:KHYG-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000814	mature NK T cell	NCIT:C82217	Natural killer cell lymphoblastic leukemia/lymphoma
+RES00001985	Natural Killer Cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000623	natural killer cell	NA	NA
+RES00001986	Neural stem cells	2	primary cells	snapshot	UBERON:0001017	central nervous system	CL:0000047	neuronal stem cell	NA	NA
+RES00001987	Neurons	3	primary cells	snapshot	UBERON:0000955	brain	CL:0000540	neuron	NA	NA
+RES00001988	Neutrophils	3	primary cells	snapshot	UBERON:0000178	blood	CL:0000775	neutrophil	NA	NA
+RES00001989	Nucleus Pulposus Cell	3	primary cells	snapshot	UBERON:0002242	nucleus pulposus	CL:0002564	nucleus pulposus cell of intervertebral disc	NA	NA
+RES00001990	Olfactory epithelial cells	4	primary cells	snapshot	UBERON:0000004	nose	CL:0002167	olfactory epithelial cell	NA	NA
+RES00001991	Oligodendrocyte - precursors	1	primary cells	snapshot	UBERON:0001017	central nervous system	CL:0002453	oligodendrocyte precursor cell	NA	NA
+RES00001992	Osteoblast - differentiated	3	primary cells	snapshot	UBERON:0008883	osteoid	CL:0000062	osteoblast	NA	NA
+RES00001993	Osteoblast	3	primary cells	snapshot	UBERON:0008883	osteoid	CL:0000062	osteoblast	NA	NA
+RES00001994	Pancreatic stromal cells	1	primary cells	snapshot	UBERON:0001264	pancreas	CL:0002574	stromal cell of pancreas	NA	NA
+RES00001995	Pericytes	3	primary cells	snapshot	UBERON:0001017	central nervous system	CL:0002575	central nervous system pericyte	NA	NA
+RES00001996	Perineurial Cells	2	primary cells	snapshot	UBERON:0000121	perineurium	CL:0002576	perineural cell	NA	NA
+RES00001997	Peripheral Blood Mononuclear Cells	3	primary cells	snapshot	UBERON:0000178	blood	CL:2000001	peripheral blood mononuclear cell	NA	NA
+RES00001998	Placental Epithelial Cells	3	primary cells	snapshot	UBERON:0001987	placenta	CL:0002577	placental epithelial cell	NA	NA
+RES00001999	Preadipocyte - breast, cytoplasmic fraction	1	primary cells	fractionations	UBERON:0000310	breast	CL:0002580	preadipocyte of the breast	NA	NA
+RES00002000	Preadipocyte - breast	2	primary cells	snapshot	UBERON:0000310	breast	CL:0002580	preadipocyte of the breast	NA	NA
+RES00002001	Preadipocyte - breast, nuclear fraction	1	primary cells	fractionations	UBERON:0000310	breast	CL:0002580	preadipocyte of the breast	NA	NA
+RES00002002	Preadipocyte - omental	3	primary cells	snapshot	UBERON:0003688	omentum	CL:0002579	omentum preadipocyte	NA	NA
+RES00002003	Preadipocyte - perirenal	1	primary cells	snapshot	UBERON:0005406	perirenal fat	CL:0002581	perirenal preadipocyte	NA	NA
+RES00002004	Preadipocyte - subcutaneous	3	primary cells	snapshot	UBERON:0002072	hypodermis	CL:0002583	subcutaneous preadipocyte	NA	NA
+RES00002005	Preadipocyte - visceral	3	primary cells	snapshot	UBERON:0000948	heart	CL:0002582	visceral preadipocyte	NA	NA
+RES00002006	Prostate Epithelial Cells, polarized	1	primary cells	snapshot	UBERON:0002367	prostate gland	CL:0002231	epithelial cell of prostate	NA	NA
+RES00002007	Prostate Epithelial Cells	2	primary cells	snapshot	UBERON:0002367	prostate gland	CL:0002231	epithelial cell of prostate	NA	NA
+RES00002008	Prostate Stromal Cells	3	primary cells	snapshot	UBERON:0002367	prostate gland	CL:0002622	prostate stromal cell	NA	NA
+RES00002009	Renal Cortical Epithelial Cells	2	primary cells	snapshot	UBERON:0001225	cortex of kidney	CL:0002584	renal cortical epithelial cell	NA	NA
+RES00002010	Renal Epithelial Cells	3	primary cells	snapshot	UBERON:0002113	kidney	CL:0002518	kidney epithelial cell	NA	NA
+RES00002011	Renal Glomerular Endothelial Cells	4	primary cells	snapshot	UBERON:0000074	renal glomerulus	CL:0002188	glomerular endothelial cell	NA	NA
+RES00002012	Renal Mesangial Cells	3	primary cells	snapshot	UBERON:0002113	kidney	CL:0000650	mesangial cell	NA	NA
+RES00002013	Renal Proximal Tubular Epithelial Cell	3	primary cells	snapshot	UBERON:0004134	proximal tubule	CL:0002306	epithelial cell of proximal tubule	NA	NA
+RES00002014	Retinal Pigment Epithelial Cells	4	primary cells	snapshot	UBERON:0001782	pigmented layer of retina	CL:0002586	retinal pigment epithelial cell	NA	NA
+RES00002015	SABiosciences XpressRef Human Universal Total RNA	1	tissues	snapshot	NA	NA	NA	NA	NA	NA
+RES00002016	Saos-2 osteosarcoma cell line, untreated control, day28	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002017	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr00min	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002018	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr15min	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002019	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr30min	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002020	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr45min	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002021	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr00min	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002022	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr20min	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002023	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr40min	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002024	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 02hr00min	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002025	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 02hr30min	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002026	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 03hr	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002027	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 04hr	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002028	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 08hr	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002029	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 24hr	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002030	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day04	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002031	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day07	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002032	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day14	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002033	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day21	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002034	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day28	3	cell lines	time courses	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002035	Schwann Cells	3	primary cells	snapshot	UBERON:0000010	peripheral nervous system	CL:0002573	Schwann cell	NA	NA
+RES00002036	Sebocyte	3	primary cells	snapshot	UBERON:0001821	sebaceous gland	CL:0000317	sebum secreting cell	NA	NA
+RES00002037	Sertoli Cells	2	primary cells	snapshot	UBERON:0001343	seminiferous tubule of testis	CL:0000216	Sertoli cell	NA	NA
+RES00002038	Skeletal Muscle Cells	6	primary cells	snapshot	UBERON:0001134	skeletal muscle tissue	CL:0000188	cell of skeletal muscle	NA	NA
+RES00002039	Skeletal Muscle Satellite Cells	3	primary cells	snapshot	UBERON:0001134	skeletal muscle tissue	CL:0000594	skeletal muscle satellite cell	NA	NA
+RES00002040	Skeletal muscle cells differentiated into Myotubes - multinucleated	3	primary cells	snapshot	UBERON:0001134	skeletal muscle tissue	CL:0002372	myotube	NA	NA
+RES00002041	Skin - palm	1	tissues	snapshot	UBERON:0013777	skin of palm of manus	NA	NA	NA	NA
+RES00002042	Small Airway Epithelial Cells, cytoplasmic fraction	2	primary cells	fractionations	UBERON:0000065	respiratory tract	CL:0002368	respiratory epithelial cell	NA	NA
+RES00002043	Small Airway Epithelial Cells, nuclear fraction	2	primary cells	fractionations	UBERON:0000065	respiratory tract	CL:0002368	respiratory epithelial cell	NA	NA
+RES00002044	Small Airway Epithelial Cells	3	primary cells	snapshot	UBERON:0000065	respiratory tract	CL:0002368	respiratory epithelial cell	NA	NA
+RES00002045	Smooth Muscle Cells - Aortic, cytoplasmic fraction	1	primary cells	fractionations	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00002046	Smooth Muscle Cells - Aortic, nuclear fraction	1	primary cells	fractionations	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00002047	Smooth Muscle Cells - Aortic	4	primary cells	snapshot	UBERON:0004178	aorta smooth muscle tissue	CL:0002539	aortic smooth muscle cell	NA	NA
+RES00002048	Smooth Muscle Cells - Bladder	1	primary cells	snapshot	UBERON:0001255	urinary bladder	CL:0002597	smooth muscle cell of bladder	NA	NA
+RES00002049	Smooth Muscle Cells - Brachiocephalic	3	primary cells	snapshot	UBERON:0001529	brachiocephalic artery	CL:0002589	smooth muscle cell of the brachiocephalic vasculature	NA	NA
+RES00002050	Smooth Muscle Cells - Brain Vascular	3	primary cells	snapshot	UBERON:0000955	brain	CL:0002590	smooth muscle cell of the brain vasculature	NA	NA
+RES00002051	Smooth Muscle Cells - Bronchial	2	primary cells	snapshot	UBERON:0002185	bronchus	CL:0002598	bronchial smooth muscle cell	NA	NA
+RES00002052	Smooth Muscle Cells - Carotid	3	primary cells	snapshot	UBERON:0005396	carotid artery segment	CL:0002596	smooth muscle cell of the carotid artery	NA	NA
+RES00002053	Smooth Muscle Cells - Colonic	3	primary cells	snapshot	UBERON:0001155	colon	CL:1000280	smooth muscle cell of colon	NA	NA
+RES00002054	Smooth Muscle Cells - Coronary Artery	3	primary cells	snapshot	UBERON:0001621	coronary artery	CL:0002592	smooth muscle cell of the coronary artery	NA	NA
+RES00002055	Smooth Muscle Cells - Esophageal	2	primary cells	snapshot	UBERON:0001043	esophagus	CL:0002599	smooth muscle cell of the esophagus	NA	NA
+RES00002056	Smooth Muscle Cells - Internal Thoracic Artery	3	primary cells	snapshot	UBERON:0002456	internal thoracic artery	CL:0002593	internal thoracic artery	NA	NA
+RES00002057	Smooth Muscle Cells - Intestinal	1	primary cells	snapshot	UBERON:0000160	intestine	CL:0002504	enteric smooth muscle cell	NA	NA
+RES00002058	Smooth Muscle Cells - Prostate	3	primary cells	snapshot	UBERON:0002367	prostate gland	CL:1000487	smooth muscle cell of prostate	NA	NA
+RES00002059	Smooth Muscle Cells - Pulmonary Artery	3	primary cells	snapshot	UBERON:0002012	pulmonary artery	CL:0002591	smooth muscle cell of the pulmonary artery	NA	NA
+RES00002060	Smooth Muscle Cells - Subclavian Artery	3	primary cells	snapshot	UBERON:0001533	subclavian artery	CL:0002595	smooth muscle cell of the subclavian artery	NA	NA
+RES00002061	Smooth Muscle Cells - Tracheal	3	primary cells	snapshot	UBERON:0003126	trachea	CL:0002600	smooth muscle cell of trachea	NA	NA
+RES00002062	Smooth Muscle Cells - Umbilical Artery	3	primary cells	snapshot	UBERON:0001310	umbilical artery	CL:0002594	smooth muscle cell of the umbilical artery	NA	NA
+RES00002063	Smooth Muscle Cells - Umbilical Vein	3	primary cells	snapshot	UBERON:0002066	umbilical vein	CL:0002588	smooth muscle cell of the umbilical vein	NA	NA
+RES00002064	Smooth Muscle Cells - Umbilical artery	1	primary cells	snapshot	UBERON:0001310	umbilical artery	CL:0002594	smooth muscle cell of the umbilical artery	NA	NA
+RES00002065	Smooth Muscle Cells - Uterine	2	primary cells	snapshot	UBERON:0000995	uterus	CL:0002601	uterine smooth muscle cell	NA	NA
+RES00002066	Smooth muscle cells - airway, asthmatic	6	primary cells	snapshot	UBERON:0003126	trachea	CL:0002600	smooth muscle cell of trachea	NCIT:C28397	Asthma
+RES00002067	Smooth muscle cells - airway, control	4	primary cells	snapshot	UBERON:0003126	trachea	CL:0002600	smooth muscle cell of trachea	NA	NA
+RES00002068	Synoviocyte	3	primary cells	snapshot	UBERON:0002018	synovial membrane of synovial joint	CL:0000214	synovial cell	NA	NA
+RES00002069	Trabecular Meshwork Cells	3	primary cells	snapshot	UBERON:0005969	eye trabecular meshwork	CL:0002367	trabecular meshwork cell	NA	NA
+RES00002070	Tracheal Epithelial Cells	3	primary cells	snapshot	UBERON:0003126	trachea	CL:0000307	tracheal epithelial cell	NA	NA
+RES00002071	Universal RNA - Human Normal Tissues Biochain	1	tissues	snapshot	NA	NA	NA	NA	NA	NA
+RES00002072	Urethra	1	tissues	snapshot	UBERON:0000057	urethra	NA	NA	NA	NA
+RES00002073	Urothelial Cells	4	primary cells	snapshot	UBERON:0000365	urothelium	CL:0000731	urothelial cell	NA	NA
+RES00002074	Whole blood (ribopure)	8	primary cells	snapshot	UBERON:0000178	blood	CL:0000081	blood cell	NA	NA
+RES00002075	Wilms' tumor cell line:G-401	1	cell lines	snapshot	UBERON:0002113	kidney	CL:1000497	kidney cell	NCIT:C8715	Rhabdoid tumor of the kidney
+RES00002076	Wilms' tumor cell line:HFWT	1	cell lines	snapshot	UBERON:0002113	kidney	CL:1000497	kidney cell	NCIT:C40407	Renal Wilms tumor
+RES00002077	acantholytic squamous carcinoma cell line:HCC1806	1	cell lines	snapshot	UBERON:0000310	breast	CL:0000076	squamous epithelial cell	NCIT:C40359	Squamous cell breast carcinoma, acantholytic variant
+RES00002078	achilles tendon	1	tissues	snapshot	UBERON:0003701	calcaneal tendon	NA	NA	NA	NA
+RES00002079	acute lymphoblastic leukemia (B-ALL) cell line:BALL-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C9143	Adult B acute lymphoblastic leukemia
+RES00002080	acute lymphoblastic leukemia (B-ALL) cell line:NALM-6	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C9143	Adult B acute lymphoblastic leukemia
+RES00002081	acute lymphoblastic leukemia (T-ALL) cell line:HPB-ALL	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000084	T cell	NCIT:C7953	Childhood T acute lymphoblastic leukemia
+RES00002082	acute lymphoblastic leukemia (T-ALL) cell line:Jurkat	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000084	T cell	NCIT:C7953	Childhood T acute lymphoblastic leukemia
+RES00002083	acute myeloid leukemia (FAB M0) cell line:KG-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9154	Adult acute myeloid leukemia
+RES00002084	acute myeloid leukemia (FAB M0) cell line:Kasumi-3	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C8303	Adult acute myeloid leukemia with minimal differentiation
+RES00002085	acute myeloid leukemia (FAB M1) cell line:HYT-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9154	Adult acute myeloid leukemia
+RES00002086	acute myeloid leukemia (FAB M2) cell line:Kasumi-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9381	Childhood acute myeloid leukemia with maturation
+RES00002087	acute myeloid leukemia (FAB M2) cell line:Kasumi-6	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9154	Adult acute myeloid leukemia
+RES00002088	acute myeloid leukemia (FAB M2) cell line:NKM-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9154	Adult acute myeloid leukemia
+RES00002089	acute myeloid leukemia (FAB M3) cell line:HL60	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9154	Adult acute myeloid leukemia
+RES00002090	acute myeloid leukemia (FAB M4) cell line:FKH-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9154	Adult acute myeloid leukemia
+RES00002091	acute myeloid leukemia (FAB M4) cell line:HNT-34	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9154	Adult acute myeloid leukemia
+RES00002092	acute myeloid leukemia (FAB M4eo) cell line:EoL-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000771	eosinophil	NCIT:C4563	Chronic eosinophilic leukemia, not otherwise specified
+RES00002093	acute myeloid leukemia (FAB M4eo) cell line:EoL-3	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000771	eosinophil	NCIT:C4563	Chronic eosinophilic leukemia, not otherwise specified
+RES00002094	acute myeloid leukemia (FAB M5) cell line:NOMO-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000576	monocyte	NCIT:C8263	Adult acute monocytic leukemia
+RES00002095	acute myeloid leukemia (FAB M5) cell line:P31/FUJ	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9160	Childhood acute myeloid leukemia
+RES00002096	acute myeloid leukemia (FAB M5) cell line:THP-1 (cytoplasmic fraction)	1	cell lines	fractionations	UBERON:0000178	blood	CL:0000576	monocyte	NCIT:C9163	Childhood acute monocytic leukemia
+RES00002097	acute myeloid leukemia (FAB M5) cell line:THP-1 (fresh)	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000576	monocyte	NCIT:C9163	Childhood acute monocytic leukemia
+RES00002098	acute myeloid leukemia (FAB M5) cell line:THP-1 (revived)	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000576	monocyte	NCIT:C9163	Childhood acute monocytic leukemia
+RES00002099	acute myeloid leukemia (FAB M5) cell line:THP-1 (thawed)	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000576	monocyte	NCIT:C9163	Childhood acute monocytic leukemia
+RES00002100	acute myeloid leukemia (FAB M5) cell line:U-937 DE-4	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000576	monocyte	NCIT:C8263	Adult acute monocytic leukemia
+RES00002101	acute myeloid leukemia (FAB M6) cell line:EEB	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000764	erythroid lineage cell	NCIT:C8923	Acute erythroid leukemia
+RES00002102	acute myeloid leukemia (FAB M6) cell line:F-36E	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000763	myeloid cell	NCIT:C3247	Myelodysplastic syndrome
+RES00002103	acute myeloid leukemia (FAB M6) cell line:F-36P	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000763	myeloid cell	NCIT:C3247	Myelodysplastic syndrome
+RES00002104	acute myeloid leukemia (FAB M7) cell line:M-MOK	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000553	megakaryocyte progenitor cell	NCIT:C7972	Childhood acute megakaryoblastic leukemia
+RES00002105	acute myeloid leukemia (FAB M7) cell line:MKPL-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000553	megakaryocyte progenitor cell	NCIT:C7965	Adult acute megakaryoblastic leukemia
+RES00002106	adenocarcinoma cell line:IM95m	1	cell lines	snapshot	UBERON:0000945	stomach	CL:0002178	epithelial cell of stomach	NCIT:C4004	Gastric adenocarcinoma
+RES00002107	adipose tissue, adult	1	tissues	snapshot	UBERON:0001013	adipose tissue	NA	NA	NA	NA
+RES00002108	adipose	4	tissues	snapshot	UBERON:0001013	adipose tissue	NA	NA	NA	NA
+RES00002109	adrenal cortex adenocarcinoma cell line:SW-13	1	cell lines	snapshot	UBERON:0001235	adrenal cortex	CL:0002097	cortical cell of adrenal gland	NCIT:C9325	Adrenal cortex carcinoma
+RES00002110	adrenal gland, adult	1	tissues	snapshot	UBERON:0002369	adrenal gland	NA	NA	NA	NA
+RES00002111	adult T-cell leukemia cell line:ATN-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000084	T cell	NCIT:C9142	Adult T acute lymphoblastic leukemia
+RES00002112	alveolar cell carcinoma cell line:SW 1573	1	cell lines	snapshot	UBERON:0002299	alveolus of lung	CL:0000082	epithelial cell of lung	NCIT:C2923	Minimally invasive lung adenocarcinoma
+RES00002113	amniotic membrane cells	3	primary cells	snapshot	UBERON:0000305	amnion	NA	NA	NA	NA
+RES00002114	amygdala, adult	2	tissues	snapshot	UBERON:0001876	amygdala	NA	NA	NA	NA
+RES00002115	amygdala, newborn	1	tissues	snapshot	UBERON:0001876	amygdala	NA	NA	NA	NA
+RES00002116	anaplastic carcinoma cell line:8305C	1	cell lines	snapshot	UBERON:0002046	thyroid gland	CL:0002257	epithelial cell of thyroid gland	NCIT:C3878	Thyroid gland undifferentiated (anaplastic) carcinoma
+RES00002117	anaplastic large cell lymphoma cell line:Ki-JK	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000084	T cell	NCIT:C3720	Anaplastic large cell lymphoma
+RES00002118	anaplastic squamous cell carcinoma cell line:RPMI 2650	1	cell lines	snapshot	UBERON:0001706	nasal septum	CL:0000076	squamous epithelial cell	NCIT:C34447	Head and neck squamous cell carcinoma
+RES00002119	aorta, adult	1	tissues	snapshot	UBERON:0000947	aorta	NA	NA	NA	NA
+RES00002120	appendix	1	tissues	snapshot	UBERON:0001154	vermiform appendix	NA	NA	NA	NA
+RES00002121	argyrophil small cell carcinoma cell line:TC-YIK	1	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:0002535	epithelial cell of cervix	NCIT:C7982	Cervical small cell carcinoma
+RES00002122	artery	1	tissues	snapshot	UBERON:0001637	artery	NA	NA	NA	NA
+RES00002123	astrocytoma cell line:TM-31	1	cell lines	snapshot	UBERON:0000955	brain	CL:0000127	astrocyte	NCIT:C60781	Astrocytoma
+RES00002124	b cell line:RPMI1788	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NA	NA
+RES00002125	basal cell carcinoma cell line:TE 354.T	1	cell lines	snapshot	UBERON:0001003	skin epidermis	CL:0002187	basal cell of epidermis	NCIT:C2921	Skin basal cell carcinoma
+RES00002126	bile duct carcinoma cell line:HuCCT1	1	cell lines	snapshot	UBERON:0002394	bile duct	CL:0000182	hepatocyte	NCIT:C35417	Intrahepatic cholangiocarcinoma
+RES00002127	bile duct carcinoma cell line:TFK-1	1	cell lines	snapshot	UBERON:0002394	bile duct	CL:0000066	epithelial cell	NCIT:C4436	Cholangiocarcinoma
+RES00002128	biphenotypic B myelomonocytic leukemia cell line:MV-4-11	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000576	monocyte	NCIT:C9163	Childhood acute monocytic leukemia
+RES00002129	bladder, adult	1	tissues	snapshot	UBERON:0001255	urinary bladder	NA	NA	NA	NA
+RES00002130	blood, adult	1	tissues	snapshot	UBERON:0000178	blood	NA	NA	NA	NA
+RES00002131	bone marrow stromal cell line:StromaNKtert	1	cell lines	snapshot	UBERON:0002371	bone marrow	CL:0010001	stromal cell of bone marrow	NA	NA
+RES00002132	bone marrow	1	tissues	snapshot	UBERON:0002371	bone marrow	NA	NA	NA	NA
+RES00002133	brain, adult	2	tissues	snapshot	UBERON:0000955	brain	NA	NA	NA	NA
+RES00002134	brain, fetal	1	tissues	snapshot	UBERON:0000955	brain	NA	NA	NA	NA
+RES00002135	breast carcinoma cell line:MCF7	1	cell lines	snapshot	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C4194	Invasive ductal carcinoma, not otherwise specified
+RES00002136	breast carcinoma cell line:MDA-MB-453	1	cell lines	snapshot	UBERON:0001911	mammary gland	CL:0002327	mammary gland epithelial cell	NCIT:C5214	Breast adenocarcinoma
+RES00002137	breast, adult	1	tissues	snapshot	UBERON:0000310	breast	NA	NA	NA	NA
+RES00002138	bronchial squamous cell carcinoma cell line:KNS-62	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C3493	Squamous cell lung carcinoma
+RES00002139	bronchioalveolar carcinoma cell line:NCI-H358	1	cell lines	snapshot	UBERON:0002299	alveolus of lung	CL:0000082	epithelial cell of lung	NCIT:C2923	Minimally invasive lung adenocarcinoma
+RES00002140	bronchioalveolar carcinoma cell line:NCI-H650	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C3512	Lung adenocarcinoma
+RES00002141	bronchogenic carcinoma cell line:ChaGo-K-1	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C35875	Bronchogenic carcinoma
+RES00002142	carcinoid cell line:NCI-H1770	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C2926	Non-small cell lung carcinoma
+RES00002143	carcinoid cell line:NCI-H727	1	cell lines	snapshot	UBERON:0002048	lung	CL:1000223	lung neuroendocrine cell	NCIT:C4038	Lung carcinoid tumor
+RES00002144	carcinoid cell line:SK-PN-DW	1	cell lines	snapshot	UBERON:0003693	retroperitoneum	CL:0000133	neurectodermal cell	NCIT:C3716	Primitive neuroectodermal tumor
+RES00002145	carcinosarcoma cell line:JHUCS-1	1	cell lines	snapshot	UBERON:0000995	uterus	NA	NA	NCIT:C42700	Uterine carcinosarcoma
+RES00002146	caudate nucleus, adult	3	tissues	snapshot	UBERON:0001873	caudate nucleus	NA	NA	NA	NA
+RES00002147	caudate nucleus, newborn	1	tissues	snapshot	UBERON:0001873	caudate nucleus	NA	NA	NA	NA
+RES00002148	cerebellum, adult	3	tissues	snapshot	UBERON:0002037	cerebellum	NA	NA	NA	NA
+RES00002149	cerebellum, newborn	1	tissues	snapshot	UBERON:0002037	cerebellum	NA	NA	NA	NA
+RES00002150	cerebral meninges	1	tissues	snapshot	UBERON:0010743	meningeal cluster	NA	NA	NA	NA
+RES00002151	cerebrospinal fluid	1	tissues	snapshot	UBERON:0001359	cerebrospinal fluid	NA	NA	NA	NA
+RES00002152	cervical cancer cell line:D98-AH2	1	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:0002535	epithelial cell of cervix	NCIT:C27677	Human papillomavirus-related endocervical adenocarcinoma
+RES00002153	cervical cancer cell line:ME-180	1	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:1001575	uterine cervix squamous cell	NCIT:C27676	Human papillomavirus-related cervical squamous cell carcinoma
+RES00002154	cervix, adult	1	tissues	snapshot	UBERON:0000002	uterine cervix	NA	NA	NA	NA
+RES00002155	cholangiocellular carcinoma cell line:HuH-28	1	cell lines	snapshot	UBERON:0002107	liver	CL:0000182	hepatocyte	NCIT:C35417	Intrahepatic cholangiocarcinoma
+RES00002156	chondrosarcoma cell line:SW 1353	1	cell lines	snapshot	UBERON:0002418	cartilage tissue	CL:0000138	chondrocyte	NCIT:C2946	Chondrosarcoma
+RES00002157	choriocarcinoma cell line:BeWo	1	cell lines	snapshot	UBERON:0001987	placenta	CL:0000351	trophoblast cell	NCIT:C4646	Gestational choriocarcinoma
+RES00002158	choriocarcinoma cell line:SCH	1	cell lines	snapshot	NA	NA	CL:0000670	primordial germ cell	NCIT:C95749	Gastric choriocarcinoma
+RES00002159	choriocarcinoma cell line:T3M-3	1	cell lines	snapshot	UBERON:0000358	blastocyst	CL:0000351	trophoblast cell	NCIT:C4646	Gestational choriocarcinoma
+RES00002160	chorionic membrane cells	3	primary cells	snapshot	UBERON:0003124	chorion	NA	NA	NA	NA
+RES00002161	chronic lymphocytic leukemia (T-CLL) cell line:SKW-3	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000084	T cell	NCIT:C9142	Adult T acute lymphoblastic leukemia
+RES00002162	chronic myeloblastic leukemia (CML) cell line:KCL-22	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00002163	chronic myelogenous leukemia (CML) cell line:MEG-A2	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000553	megakaryocyte progenitor cell	NCIT:C7965	Adult acute megakaryoblastic leukemia
+RES00002164	chronic myelogenous leukemia cell line:K562 ENCODE	3	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00002165	chronic myelogenous leukemia cell line:K562	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00002166	chronic myelogenous leukemia cell line:KU812	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00002167	clear cell carcinoma cell line:JHOC-5	1	cell lines	snapshot	UBERON:0000992	ovary	CL:2000064	ovarian surface epithelial cell	NCIT:C40078	Ovarian clear cell adenocarcinoma
+RES00002168	clear cell carcinoma cell line:TEN	1	cell lines	snapshot	UBERON:0001295	endometrium	CL:0000066	epithelial cell	NCIT:C7558	Endometrial carcinoma
+RES00002169	colon carcinoma cell line:CACO-2	1	cell lines	snapshot	UBERON:0000059	large intestine	CL:0002253	epithelial cell of large intestine	NCIT:C4349	Colon adenocarcinoma
+RES00002170	colon carcinoma cell line:COLO-320	1	cell lines	snapshot	UBERON:0000059	large intestine	CL:0002253	epithelial cell of large intestine	NCIT:C4349	Colon adenocarcinoma
+RES00002171	colon, adult	2	tissues	snapshot	UBERON:0001155	colon	NA	NA	NA	NA
+RES00002172	colon, fetal	1	tissues	snapshot	UBERON:0001155	colon	NA	NA	NA	NA
+RES00002173	common myeloid progenitor CMP	2	primary cells	snapshot	UBERON:0002371	bone marrow	CL:0000049	common myeloid progenitor	NA	NA
+RES00002174	cord blood derived cell line:COBL-a 24h infection(-C)	1	cell lines	snapshot	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00002175	cord blood derived cell line:COBL-a 24h infection	1	cell lines	snapshot	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00002176	cord blood derived cell line:COBL-a untreated	1	cell lines	snapshot	UBERON:0012168	umbilical cord blood	CL:0000081	blood cell	NA	NA
+RES00002177	corpus callosum, adult	1	tissues	snapshot	UBERON:0002336	corpus callosum	NA	NA	NA	NA
+RES00002178	cruciate ligament	1	tissues	snapshot	UBERON:0006659	cruciate ligament of knee	NA	NA	NA	NA
+RES00002179	diaphragm, fetal	1	tissues	snapshot	UBERON:0001103	diaphragm	NA	NA	NA	NA
+RES00002180	diencephalon	1	tissues	snapshot	UBERON:0001894	diencephalon	NA	NA	NA	NA
+RES00002181	diffuse large B-cell lymphoma cell line:CTB-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C8851	Diffuse large B-cell lymphoma
+RES00002182	ductal cell carcinoma cell line:KLM-1	1	cell lines	snapshot	UBERON:0001264	pancreas	CL:0000083	epithelial cell of pancreas	NCIT:C9120	Pancreatic ductal adenocarcinoma
+RES00002183	ductal cell carcinoma cell line:MIA Paca2	1	cell lines	snapshot	UBERON:0001264	pancreas	CL:0000083	epithelial cell of pancreas	NCIT:C9120	Pancreatic ductal adenocarcinoma
+RES00002184	ductus deferens	1	tissues	snapshot	UBERON:0001000	vas deferens	NA	NA	NA	NA
+RES00002185	duodenum, fetal	2	tissues	snapshot	UBERON:0002114	duodenum	NA	NA	NA	NA
+RES00002186	dura mater, adult	1	tissues	snapshot	UBERON:0002363	dura mater	NA	NA	NA	NA
+RES00002187	embryonic kidney cell line: HEK293/SLAM infection	1	cell lines	snapshot	UBERON:0002113	kidney	NA	NA	NA	NA
+RES00002188	embryonic kidney cell line: HEK293/SLAM untreated	1	cell lines	snapshot	UBERON:0002113	kidney	NA	NA	NA	NA
+RES00002189	embryonic pancreas cell line:1B2C6	1	cell lines	snapshot	UBERON:0001264	pancreas	NA	NA	NA	NA
+RES00002190	embryonic pancreas cell line:1C3D3	1	cell lines	snapshot	UBERON:0001264	pancreas	NA	NA	NA	NA
+RES00002191	embryonic pancreas cell line:1C3IKEI	1	cell lines	snapshot	UBERON:0001264	pancreas	NA	NA	NA	NA
+RES00002192	embryonic pancreas cell line:2C6	1	cell lines	snapshot	UBERON:0001264	pancreas	NA	NA	NA	NA
+RES00002193	endometrial carcinoma cell line:OMC-2	1	cell lines	snapshot	UBERON:0001295	endometrium	CL:0002656	glandular cell of endometrium	NCIT:C7359	Endometrial adenocarcinoma
+RES00002194	endometrial stromal sarcoma cell line:OMC-9	1	cell lines	snapshot	UBERON:0001295	endometrium	CL:0002255	stromal cell of endometrium	NCIT:C8973	Endometrioid stromal sarcoma
+RES00002195	endometrioid adenocarcinoma cell line:JHUEM-1	1	cell lines	snapshot	UBERON:0000995	uterus	CL:0002656	glandular cell of endometrium	NCIT:C7359	Endometrial adenocarcinoma
+RES00002196	epidermoid carcinoma cell line:A431	1	cell lines	snapshot	UBERON:0000997	mammalian vulva	CL:0000076	squamous epithelial cell	NCIT:C4052	Vulvar squamous cell carcinoma
+RES00002197	epidermoid carcinoma cell line:Ca Ski	1	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:1001575	uterine cervix squamous cell	NCIT:C27676	Human papillomavirus-related cervical squamous cell carcinoma
+RES00002198	epididymis	1	tissues	snapshot	UBERON:0001301	epididymis	NA	NA	NA	NA
+RES00002199	epithelioid sarcoma cell line:HS-ES-1	1	cell lines	snapshot	UBERON:0002384	connective tissue	CL:0002320	connective tissue cell	NCIT:C3714	Epithelioid sarcoma
+RES00002200	epithelioid sarcoma cell line:HS-ES-2R	1	cell lines	snapshot	UBERON:0002384	connective tissue	CL:0002320	connective tissue cell	NCIT:C3714	Epithelioid sarcoma
+RES00002201	epitheloid carcinoma cell line: HelaS3 ENCODE	3	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:0002535	epithelial cell of cervix	NCIT:C27677	Human papillomavirus-related endocervical adenocarcinoma
+RES00002202	esophagus, adult	1	tissues	snapshot	UBERON:0001043	esophagus	NA	NA	NA	NA
+RES00002203	extraskeletal myxoid chondrosarcoma cell line:H-EMC-SS	1	cell lines	snapshot	UBERON:0002418	cartilage tissue	CL:0000138	chondrocyte	NCIT:C2946	Chondrosarcoma
+RES00002204	eye - muscle inferior rectus	1	tissues	snapshot	UBERON:0006322	inferior rectus extraocular muscle	NA	NA	NA	NA
+RES00002205	eye - muscle lateral	1	tissues	snapshot	UBERON:0001603	lateral rectus extra-ocular muscle	NA	NA	NA	NA
+RES00002206	eye - muscle medial	1	tissues	snapshot	UBERON:0001602	medial rectus extraocular muscle	NA	NA	NA	NA
+RES00002207	eye - muscle superior	1	tissues	snapshot	UBERON:0006321	superior oblique extraocular muscle	NA	NA	NA	NA
+RES00002208	eye - vitreous humor	1	tissues	snapshot	UBERON:0001797	vitreous humor	NA	NA	NA	NA
+RES00002209	eye, fetal	1	tissues	snapshot	UBERON:0000970	eye	NA	NA	NA	NA
+RES00002210	fibrosarcoma cell line:HT-1080	1	cell lines	snapshot	UBERON:0002355	pelvis	CL:0000057	fibroblast	NCIT:C3043	Fibrosarcoma
+RES00002211	fibrous histiocytoma cell line:GCT TIB-223	1	cell lines	snapshot	NA	NA	NA	NA	NCIT:C4247	Undifferentiated pleomorphic sarcoma
+RES00002212	frontal lobe, adult	1	tissues	snapshot	UBERON:0016525	frontal lobe	NA	NA	NA	NA
+RES00002213	gall bladder carcinoma cell line:TGBC14TKB	1	cell lines	snapshot	UBERON:0002110	gall bladder	CL:1000415	epithelial cell of gall bladder	NCIT:C3844	Gallbladder carcinoma
+RES00002214	gall bladder carcinoma cell line:TGBC2TKB	1	cell lines	snapshot	UBERON:0002110	gall bladder	CL:1000415	epithelial cell of gall bladder	NCIT:C9167	Undifferentiated gallbladder carcinoma
+RES00002215	gall bladder	1	tissues	snapshot	UBERON:0002110	gall bladder	NA	NA	NA	NA
+RES00002216	gamma delta positive T cells	2	primary cells	snapshot	UBERON:0000178	blood	CL:0000798	gamma-delta T cell	NA	NA
+RES00002217	gastric adenocarcinoma cell line:MKN1	1	cell lines	snapshot	UBERON:0000945	stomach	CL:0002178	epithelial cell of stomach	NCIT:C5474	Gastric adenosquamous carcinoma
+RES00002218	gastric adenocarcinoma cell line:MKN45	1	cell lines	snapshot	UBERON:0000945	stomach	CL:0002178	epithelial cell of stomach	NCIT:C4004	Gastric adenocarcinoma
+RES00002219	gastric cancer cell line:AZ521	1	cell lines	snapshot	UBERON:0002114	duodenum	CL:1001589	duodenum glandular cell	NCIT:C7889	Duodenal adenocarcinoma
+RES00002220	gastric cancer cell line:GSS	1	cell lines	snapshot	UBERON:0000945	stomach	CL:0002178	epithelial cell of stomach	NCIT:C4911	Gastric carcinoma
+RES00002221	gastrointestinal carcinoma cell line:ECC12	1	cell lines	snapshot	UBERON:0000945	stomach	CL:0002178	epithelial cell of stomach	NCIT:C6764	Gastric small cell neuroendocrine carcinoma
+RES00002222	giant cell carcinoma cell line:LU65	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C4452	Lung giant cell carcinoma
+RES00002223	giant cell carcinoma cell line:Lu99B	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C4452	Lung giant cell carcinoma
+RES00002224	glassy cell carcinoma cell line:HOKUG	1	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:0002535	epithelial cell of cervix	NCIT:C40212	Cervical adenosquamous carcinoma, glassy cell variant
+RES00002225	glioblastoma cell line:A172	2	cell lines	snapshot	UBERON:0000955	brain	CL:0000243	glial cell (sensu Vertebrata)	NCIT:C3058	Glioblastoma
+RES00002226	glioblastoma cell line:T98G	1	cell lines	snapshot	UBERON:0000955	brain	CL:0000243	glial cell (sensu Vertebrata)	NCIT:C3058	Glioblastoma
+RES00002227	glioma cell line:GI-1	1	cell lines	snapshot	UBERON:0000955	brain	CL:0000243	glial cell (sensu Vertebrata)	NCIT:C3796	Gliosarcoma
+RES00002228	globus pallidus, adult	3	tissues	snapshot	UBERON:0001875	globus pallidus	NA	NA	NA	NA
+RES00002229	globus pallidus, newborn	1	tissues	snapshot	UBERON:0001875	globus pallidus	NA	NA	NA	NA
+RES00002230	granulocyte macrophage progenitor	3	primary cells	snapshot	UBERON:0002371	bone marrow	CL:0000557	granulocyte monocyte progenitor cell	NA	NA
+RES00002231	granulosa cell tumor cell line:KGN	1	cell lines	snapshot	UBERON:0000992	ovary	CL:0000501	granulosa cell	NCIT:C6261	Ovarian granulosa cell tumor
+RES00002232	hIPS +CCl2	3	stem cells	snapshot	NA	NA	CL:0002248	pluripotent stem cell	NA	NA
+RES00002233	hIPS	3	stem cells	snapshot	NA	NA	CL:0002248	pluripotent stem cell	NA	NA
+RES00002234	hairy cell leukemia cell line:Mo	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C7402	Hairy cell leukemia
+RES00002235	heart - mitral valve	1	tissues	snapshot	UBERON:0002135	mitral valve	NA	NA	NA	NA
+RES00002236	heart - pulmonic valve	1	tissues	snapshot	UBERON:0002146	pulmonary valve	NA	NA	NA	NA
+RES00002237	heart - tricuspid valve	1	tissues	snapshot	UBERON:0002134	tricuspid valve	NA	NA	NA	NA
+RES00002238	heart, adult, diseased post-infarction	1	tissues	snapshot	UBERON:0000948	heart	NA	NA	NCIT:C27996	Myocardial Infarction
+RES00002239	heart, adult, diseased	1	tissues	snapshot	UBERON:0000948	heart	NA	NA	NA	NA
+RES00002240	heart, adult	1	tissues	snapshot	UBERON:0000948	heart	NA	NA	NA	NA
+RES00002241	heart, fetal	1	tissues	snapshot	UBERON:0000948	heart	NA	NA	NA	NA
+RES00002242	hepatic mesenchymal tumor cell line:LI90	1	cell lines	snapshot	UBERON:0002107	liver	CL:0000632	hepatic stellate cell	NCIT:C3800	Epithelioid hemangioendothelioma
+RES00002243	hepatoblastoma cell line:HuH-6	1	cell lines	snapshot	UBERON:0002107	liver	CL:0005026	hepatoblast	NCIT:C3728	Hepatoblastoma
+RES00002244	hepatocellular carcinoma cell line: HepG2 ENCODE	3	cell lines	snapshot	UBERON:0002107	liver	CL:0005026	hepatoblast	NCIT:C3728	Hepatoblastoma
+RES00002245	hepatoma cell line:Li-7	1	cell lines	snapshot	UBERON:0002107	liver	CL:0000182	hepatocyte	NCIT:C3099	Hepatocellular carcinoma
+RES00002246	hereditary spherocytic anemia cell line:WIL2-NS	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C97074	Hereditary spherocytosis
+RES00002247	hippocampus, adult	3	tissues	snapshot	UBERON:0002421	hippocampal formation	NA	NA	NA	NA
+RES00002248	hippocampus, newborn	1	tissues	snapshot	UBERON:0002421	hippocampal formation	NA	NA	NA	NA
+RES00002249	iPS differentiation to neuron, control donor C11-CRL2429, day00	3	stem cells	time courses	NA	NA	CL:0002248	pluripotent stem cell	NA	NA
+RES00002250	iPS differentiation to neuron, control donor C11-CRL2429, day06	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NA	NA
+RES00002251	iPS differentiation to neuron, control donor C11-CRL2429, day12	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NA	NA
+RES00002252	iPS differentiation to neuron, control donor C11-CRL2429, day18	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NA	NA
+RES00002253	iPS differentiation to neuron, control donor C32-CRL1502, day00	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NA	NA
+RES00002254	iPS differentiation to neuron, control donor C32-CRL1502, day06	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NA	NA
+RES00002255	iPS differentiation to neuron, control donor C32-CRL1502, day12	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NA	NA
+RES00002256	iPS differentiation to neuron, control donor C32-CRL1502, day18	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NA	NA
+RES00002257	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day00	3	stem cells	time courses	NA	NA	CL:0002248	pluripotent stem cell	NCIT:C2993	Down Syndrome
+RES00002258	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day06	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
+RES00002259	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day12	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
+RES00002260	iPS differentiation to neuron, down-syndrome donor C11-CCL54, day18	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
+RES00002261	iPS differentiation to neuron, down-syndrome donor C18-CCL54, day00	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
+RES00002262	iPS differentiation to neuron, down-syndrome donor C18-CCL54, day06	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
+RES00002263	iPS differentiation to neuron, down-syndrome donor C18-CCL54, day12	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
+RES00002264	iPS differentiation to neuron, down-syndrome donor C18-CCL54, day18	3	stem cells	time courses	NA	NA	CL:0000031	neuroblast	NCIT:C2993	Down Syndrome
+RES00002265	immature langerhans cells	2	primary cells	snapshot	UBERON:0001003	skin epidermis	CL:0001016	immature CD1a-positive Langerhans cell	NA	NA
+RES00002266	insula, adult	1	tissues	snapshot	UBERON:0002022	insula	NA	NA	NA	NA
+RES00002267	keratoacanthoma cell line:HKA-1	1	cell lines	snapshot	UBERON:0001003	skin epidermis	CL:0002190	squamous cell of epidermis	NCIT:C3146	Keratoacanthoma
+RES00002268	kidney, adult	1	tissues	snapshot	UBERON:0002113	kidney	NA	NA	NA	NA
+RES00002269	kidney, fetal	1	tissues	snapshot	UBERON:0002113	kidney	NA	NA	NA	NA
+RES00002270	large cell lung carcinoma cell line:IA-LM	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C4450	Large cell lung carcinoma
+RES00002271	large cell lung carcinoma cell line:NCI-H460	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C4450	Large cell lung carcinoma
+RES00002272	large cell non-keratinizing squamous carcinoma cell line:SKG-II-SF	1	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:1001575	uterine cervix squamous cell	NCIT:C27676	Human papillomavirus-related cervical squamous cell carcinoma
+RES00002273	left atrium, adult	1	tissues	snapshot	UBERON:0002079	left cardiac atrium	NA	NA	NA	NA
+RES00002274	left ventricle, adult	1	tissues	snapshot	UBERON:0002084	heart left ventricle	NA	NA	NA	NA
+RES00002275	leiomyoblastoma cell line:G-402	1	cell lines	snapshot	UBERON:0002113	kidney	CL:0000192	smooth muscle cell	NCIT:C3486	Epithelioid cell type gastrointestinal stromal tumor
+RES00002276	leiomyoma cell line:10964C	1	cell lines	snapshot	UBERON:0000995	uterus	CL:0000192	smooth muscle cell	NCIT:C3157	Leiomyoma
+RES00002277	leiomyoma cell line:15242A	1	cell lines	snapshot	UBERON:0000995	uterus	CL:0000192	smooth muscle cell	NCIT:C3157	Leiomyoma
+RES00002278	leiomyoma cell line:15425	1	cell lines	snapshot	UBERON:0000995	uterus	CL:0000192	smooth muscle cell	NCIT:C3157	Leiomyoma
+RES00002279	leiomyosarcoma cell line:Hs 5.T	1	cell lines	snapshot	UBERON:0002384	connective tissue	CL:0000192	smooth muscle cell	NCIT:C3158	Leiomyosarcoma
+RES00002280	lens epithelial cell line:SRA 01/04	1	cell lines	snapshot	UBERON:0000965	lens of camera-type eye	CL:0002224	lens epithelial cell	NA	NA
+RES00002281	leukemia, chronic megakaryoblastic cell line:MEG-01	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C3174	Chronic myelogenous leukemia, BCR-ABL1 positive
+RES00002282	liposarcoma cell line:KMLS-1	1	cell lines	snapshot	UBERON:0003693	retroperitoneum	CL:0000136	fat cell	NCIT:C3194	Liposarcoma
+RES00002283	liposarcoma cell line:SW 872	1	cell lines	snapshot	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NCIT:C3194	Liposarcoma
+RES00002284	liver, adult	1	tissues	snapshot	UBERON:0002107	liver	NA	NA	NA	NA
+RES00002285	liver, fetal	1	tissues	snapshot	UBERON:0002107	liver	NA	NA	NA	NA
+RES00002286	locus coeruleus, adult	3	tissues	snapshot	UBERON:0002148	locus ceruleus	NA	NA	NA	NA
+RES00002287	locus coeruleus, newborn	1	tissues	snapshot	UBERON:0002148	locus ceruleus	NA	NA	NA	NA
+RES00002288	lung adenocarcinoma cell line:A549	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C3512	Lung adenocarcinoma
+RES00002289	lung adenocarcinoma cell line:PC-14	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C3512	Lung adenocarcinoma
+RES00002290	lung adenocarcinoma, papillary cell line:NCI-H441	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C5650	Papillary lung adenocarcinoma
+RES00002291	lung, adult	1	tissues	snapshot	UBERON:0002048	lung	NA	NA	NA	NA
+RES00002292	lung, fetal	1	tissues	snapshot	UBERON:0002048	lung	NA	NA	NA	NA
+RES00002293	lung, right lower lobe, adult	1	tissues	snapshot	UBERON:0002048	lung	NA	NA	NA	NA
+RES00002294	lymph node, adult	1	tissues	snapshot	UBERON:0000029	lymph node	NA	NA	NA	NA
+RES00002295	lymphangiectasia cell line:DS-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C3457	B-cell non-Hodgkin lymphoma
+RES00002296	lymphoma, malignant,hairy B-cell cell line:MLMA	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C7402	Hairy cell leukemia
+RES00002297	malignant trichilemmal cyst cell line:DJM-1	1	cell lines	snapshot	UBERON:0002073	hair follicle	CL:0002190	squamous cell of epidermis	NCIT:C4819	Skin squamous cell carcinoma
+RES00002298	mature adipocyte	4	primary cells	snapshot	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002299	maxillary sinus tumor cell line:HSQ-89	1	cell lines	snapshot	UBERON:0001764	maxillary sinus	CL:0000076	squamous epithelial cell	NCIT:C6064	Maxillary sinus squamous cell carcinoma
+RES00002300	medial frontal gyrus, adult	3	tissues	snapshot	UBERON:0002702	middle frontal gyrus	NA	NA	NA	NA
+RES00002301	medial frontal gyrus, newborn	1	tissues	snapshot	UBERON:0002702	middle frontal gyrus	NA	NA	NA	NA
+RES00002302	medial temporal gyrus, adult	4	tissues	snapshot	UBERON:0002771	middle temporal gyrus	NA	NA	NA	NA
+RES00002303	medial temporal gyrus, newborn	1	tissues	snapshot	UBERON:0002771	middle temporal gyrus	NA	NA	NA	NA
+RES00002304	medulla oblongata, adult	3	tissues	snapshot	UBERON:0001896	medulla oblongata	NA	NA	NA	NA
+RES00002305	medulla oblongata, newborn	1	tissues	snapshot	UBERON:0001896	medulla oblongata	NA	NA	NA	NA
+RES00002306	medulloblastoma cell line:D283 Med	1	cell lines	snapshot	UBERON:0000955	brain	CL:0000243	glial cell (sensu Vertebrata)	NCIT:C3222	Medulloblastoma
+RES00002307	medulloblastoma cell line:ONS-76	1	cell lines	snapshot	UBERON:0000955	brain	CL:0000243	glial cell (sensu Vertebrata)	NCIT:C3222	Medulloblastoma
+RES00002308	melanoma cell line:COLO 679	1	cell lines	snapshot	UBERON:0002097	skin of body	CL:1000458	melanocyte of skin	NCIT:C3510	Cutaneous melanoma
+RES00002309	melanoma cell line:G-361	1	cell lines	snapshot	UBERON:0002097	skin of body	CL:1000458	melanocyte of skin	NCIT:C3224	Melanoma
+RES00002310	meningioma cell line:HKBMM	1	cell lines	snapshot	UBERON:0000955	brain	CL:0002379	meningothelial cell	NCIT:C3230	Meningioma
+RES00002311	merkel cell carcinoma cell line:MKL-1	1	cell lines	snapshot	UBERON:0002025	stratum basale of epidermis	CL:0000242	Merkel cell	NCIT:C9231	Merkel cell carcinoma
+RES00002312	merkel cell carcinoma cell line:MS-1	1	cell lines	snapshot	UBERON:0002025	stratum basale of epidermis	CL:0000242	Merkel cell	NCIT:C9231	Merkel cell carcinoma
+RES00002313	mesenchymal precursor cell - adipose	3	primary cells	snapshot	UBERON:0001013	adipose tissue	CL:0002570	mesenchymal stem cell of adipose	NA	NA
+RES00002314	mesenchymal precursor cell - bone marrow	3	primary cells	snapshot	UBERON:0002371	bone marrow	CL:0002540	mesenchymal stem cell of the bone marrow	NA	NA
+RES00002315	mesenchymal precursor cell - cardiac	4	primary cells	snapshot	UBERON:0000948	heart	CL:0008019	mesenchymal cell	NA	NA
+RES00002316	mesenchymal precursor cell - ovarian cancer left ovary	4	primary cells	snapshot	UBERON:0000992	ovary	CL:0000134	mesenchymal stem cell	NCIT:C4908	Ovarian Carcinoma
+RES00002317	mesenchymal precursor cell - ovarian cancer metastasis	4	primary cells	snapshot	UBERON:0000992	ovary	CL:0000134	mesenchymal stem cell	NCIT:C4908	Ovarian Carcinoma
+RES00002318	mesenchymal precursor cell - ovarian cancer right ovary	5	primary cells	snapshot	UBERON:0000992	ovary	CL:0000134	mesenchymal stem cell	NCIT:C4908	Ovarian Carcinoma
+RES00002319	mesenchymal stem cell line:Hu5/E18	1	cell lines	snapshot	NA	NA	CL:0000134	mesenchymal stem cell	NA	NA
+RES00002320	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr00min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002321	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr15min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002322	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr30min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002323	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr45min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002324	mesenchymal stem cells (adipose derived), adipogenic induction, 01hr00min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002325	mesenchymal stem cells (adipose derived), adipogenic induction, 01hr20min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002326	mesenchymal stem cells (adipose derived), adipogenic induction, 01hr40min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002327	mesenchymal stem cells (adipose derived), adipogenic induction, 02hr00min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002328	mesenchymal stem cells (adipose derived), adipogenic induction, 02hr30min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002329	mesenchymal stem cells (adipose derived), adipogenic induction, 03hr00min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002330	mesenchymal stem cells (adipose derived), adipogenic induction, 12hr00min	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002331	mesenchymal stem cells (adipose derived), adipogenic induction, day01	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002332	mesenchymal stem cells (adipose derived), adipogenic induction, day02	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002333	mesenchymal stem cells (adipose derived), adipogenic induction, day04	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002334	mesenchymal stem cells (adipose derived), adipogenic induction, day08	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002335	mesenchymal stem cells (adipose derived), adipogenic induction, day12	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002336	mesenchymal stem cells (adipose derived), adipogenic induction, day14	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0000136	fat cell	NA	NA
+RES00002337	mesenchymal stem cells (adipose derived), undifferentiated control	3	stem cells	time courses	UBERON:0001013	adipose tissue	CL:0002570	mesenchymal stem cell of adipose	NA	NA
+RES00002338	mesodermal tumor cell line:HIRS-BM	1	cell lines	snapshot	UBERON:0000995	uterus	NA	NA	NCIT:C42700	Uterine carcinosarcoma
+RES00002339	mesothelioma cell line:ACC-MESO-1	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45662	Pleural epithelioid mesothelioma
+RES00002340	mesothelioma cell line:ACC-MESO-4	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45662	Pleural epithelioid mesothelioma
+RES00002341	mesothelioma cell line:Mero-14	2	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45662	Pleural epithelioid mesothelioma
+RES00002342	mesothelioma cell line:Mero-25	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45665	Pleural biphasic mesothelioma
+RES00002343	mesothelioma cell line:Mero-41	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45662	Pleural epithelioid mesothelioma
+RES00002344	mesothelioma cell line:Mero-48a	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45665	Pleural biphasic mesothelioma
+RES00002345	mesothelioma cell line:Mero-82	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45662	Pleural epithelioid mesothelioma
+RES00002346	mesothelioma cell line:Mero-83	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45665	Pleural biphasic mesothelioma
+RES00002347	mesothelioma cell line:Mero-84	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45665	Pleural biphasic mesothelioma
+RES00002348	mesothelioma cell line:Mero-95	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45662	Pleural epithelioid mesothelioma
+RES00002349	mesothelioma cell line:NCI-H2052	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45663	Pleural sarcomatoid mesothelioma
+RES00002350	mesothelioma cell line:NCI-H226	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45662	Pleural epithelioid mesothelioma
+RES00002351	mesothelioma cell line:NCI-H2452	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45665	Pleural biphasic mesothelioma
+RES00002352	mesothelioma cell line:NCI-H28	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45663	Pleural sarcomatoid mesothelioma
+RES00002353	mesothelioma cell line:No36	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C7376	Pleural malignant mesothelioma
+RES00002354	mesothelioma cell line:ONE58	1	cell lines	snapshot	UBERON:0000977	pleura	CL:1000491	mesothelial cell of pleura	NCIT:C45662	Pleural epithelioid mesothelioma
+RES00002355	migratory langerhans cells	3	primary cells	snapshot	UBERON:0001003	skin epidermis	CL:0000453	Langerhans cell	NA	NA
+RES00002356	mixed mullerian tumor cell line:HTMMT	1	cell lines	snapshot	UBERON:0001295	endometrium	NA	NA	NCIT:C42700	Uterine carcinosarcoma
+RES00002357	mucinous adenocarcinoma cell line:JHOM-1	1	cell lines	snapshot	UBERON:0000992	ovary	CL:2000064	ovarian surface epithelial cell	NCIT:C5243	Ovarian mucinous adenocarcinoma
+RES00002358	mucinous cystadenocarcinoma cell line:MCAS	1	cell lines	snapshot	UBERON:0000992	ovary	CL:2000064	ovarian surface epithelial cell	NCIT:C4026	Ovarian mucinous cystadenocarcinoma
+RES00002359	mycosis fungoides, T cell lymphoma cell line:HuT 102 TIB-162	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000084	T cell	NCIT:C9265	Mycosis fungoides and Sezary syndrome
+RES00002360	myelodysplastic syndrome cell line:SKM-1	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000766	myeloid leukocyte	NCIT:C9154	Adult acute myeloid leukemia
+RES00002361	myeloma cell line:PCM6	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000786	plasma cell	NCIT:C3242	Plasma cell myeloma
+RES00002362	myxofibrosarcoma cell line:MFH-ino	1	cell lines	snapshot	UBERON:0002384	connective tissue	NA	NA	NCIT:C4247	Undifferentiated pleomorphic sarcoma
+RES00002363	myxofibrosarcoma cell line:NMFH-1	1	cell lines	snapshot	UBERON:0002384	connective tissue	CL:0000057	fibroblast	NCIT:C6496	Myxofibrosarcoma
+RES00002364	nasal epithelial cells	3	primary cells	snapshot	UBERON:0001707	nasal cavity	CL:0002167	olfactory epithelial cell	NA	NA
+RES00002365	neuroblastoma cell line:CHP-134	1	cell lines	snapshot	UBERON:0002369	adrenal gland	CL:0000031	neuroblast	NCIT:C3270	Neuroblastoma
+RES00002366	neuroblastoma cell line:NB-1	1	cell lines	snapshot	UBERON:0002369	adrenal gland	CL:0000031	neuroblast	NCIT:C3270	Neuroblastoma
+RES00002367	neuroblastoma cell line:NBsusSR	1	cell lines	snapshot	UBERON:0002355	pelvis	CL:0000031	neuroblast	NCIT:C3270	Neuroblastoma
+RES00002368	neuroblastoma cell line:NH-12	1	cell lines	snapshot	UBERON:0000955	brain	CL:0000031	neuroblast	NCIT:C3270	Neuroblastoma
+RES00002369	neuroectodermal tumor cell line:FU-RPNT-1	1	cell lines	snapshot	UBERON:0002113	kidney	CL:0000133	neurectodermal cell	NCIT:C3716	Primitive neuroectodermal tumor
+RES00002370	neuroectodermal tumor cell line:FU-RPNT-2	1	cell lines	snapshot	UBERON:0002113	kidney	CL:0000133	neurectodermal cell	NCIT:C3716	Primitive neuroectodermal tumor
+RES00002371	neuroectodermal tumor cell line:TASK1	1	cell lines	snapshot	UBERON:0016403	thoracic wall	CL:0011012	neural crest cell	NCIT:C7542	Askin tumor
+RES00002372	neuroepithelioma cell line:SK-N-MC	1	cell lines	snapshot	UBERON:0000955	brain	CL:0011012	neural crest cell	NCIT:C7542	Askin tumor
+RES00002373	neurofibroma cell line:Hs 53.T	1	cell lines	snapshot	UBERON:0000010	peripheral nervous system	CL:0002573	Schwann cell	NCIT:C3272	Neurofibroma
+RES00002374	neutrophil PMN	3	primary cells	snapshot	UBERON:0002371	bone marrow	CL:0000775	neutrophil	NA	NA
+RES00002375	non T non B acute lymphoblastic leukemia (ALL) cell line:P30/OHK	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C9140	Childhood B acute lymphoblastic leukemia
+RES00002376	non-small cell lung cancer cell line:NCI-H1385	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C3493	Squamous cell lung carcinoma
+RES00002377	normal embryonic palatal mesenchymal cell line:HEPM	1	cell lines	snapshot	UBERON:0005705	primary palate mesenchyme	CL:0002321	embryonic cell	NA	NA
+RES00002378	normal intestinal epithelial cell line:FHs 74 Int	1	cell lines	snapshot	UBERON:0002108	small intestine	CL:0002254	epithelial cell of small intestine	NA	NA
+RES00002379	nucleus accumbens, adult	1	tissues	snapshot	UBERON:0001882	nucleus accumbens	NA	NA	NA	NA
+RES00002380	occipital cortex, adult	2	tissues	snapshot	UBERON:0016540	occipital cortex	NA	NA	NA	NA
+RES00002381	occipital cortex, newborn	1	tissues	snapshot	UBERON:0016540	occipital cortex	NA	NA	NA	NA
+RES00002382	occipital lobe, adult	1	tissues	snapshot	UBERON:0002021	occipital lobe	NA	NA	NA	NA
+RES00002383	occipital lobe, fetal	1	tissues	snapshot	UBERON:0002021	occipital lobe	NA	NA	NA	NA
+RES00002384	occipital pole, adult	1	tissues	snapshot	UBERON:0002902	occipital pole	NA	NA	NA	NA
+RES00002385	olfactory region	1	tissues	snapshot	UBERON:0003112	olfactory region	NA	NA	NA	NA
+RES00002386	optic nerve	1	tissues	snapshot	UBERON:0000941	cranial nerve II	NA	NA	NA	NA
+RES00002387	oral squamous cell carcinoma cell line:Ca9-22	1	cell lines	snapshot	UBERON:0002424	oral epithelium	CL:1001576	oral mucosa squamous cell	NCIT:C129857	Gingival squamous cell carcinoma
+RES00002388	oral squamous cell carcinoma cell line:HO-1-u-1	1	cell lines	snapshot	UBERON:0002424	oral epithelium	CL:1001576	oral mucosa squamous cell	NCIT:C4041	Floor of mouth squamous cell carcinoma
+RES00002389	oral squamous cell carcinoma cell line:HSC-3	1	cell lines	snapshot	UBERON:0001723	tongue	CL:0000076	squamous epithelial cell	NCIT:C4648	Tongue squamous cell carcinoma
+RES00002390	oral squamous cell carcinoma cell line:SAS	1	cell lines	snapshot	UBERON:0001723	tongue	CL:0000076	squamous epithelial cell	NCIT:C4648	Tongue squamous cell carcinoma
+RES00002391	osteoclastoma cell line:Hs 706.T	1	cell lines	snapshot	UBERON:0001474	bone element	CL:0000092	osteoclast	NCIT:C4304	Malignant giant cell tumor of bone
+RES00002392	osteosarcoma cell line:143B/TK^(-)neo^(R)	1	cell lines	snapshot	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002393	osteosarcoma cell line:HS-Os-1	1	cell lines	snapshot	UBERON:0008883	osteoid	CL:0000062	osteoblast	NCIT:C9145	Osteosarcoma
+RES00002394	ovary, adult	1	tissues	snapshot	UBERON:0000992	ovary	NA	NA	NA	NA
+RES00002395	pagetoid sarcoma cell line:Hs 925.T	1	cell lines	snapshot	UBERON:0002097	skin of body	NA	NA	NCIT:C7073	Paget disease
+RES00002396	pancreas, adult	1	tissues	snapshot	UBERON:0001264	pancreas	NA	NA	NA	NA
+RES00002397	pancreatic carcinoma cell line:NOR-P1	1	cell lines	snapshot	UBERON:0001264	pancreas	CL:0000083	epithelial cell of pancreas	NCIT:C8294	Pancreatic adenocarcinoma
+RES00002398	papillary adenocarcinoma cell line:8505C	1	cell lines	snapshot	UBERON:0002046	thyroid gland	CL:0002257	epithelial cell of thyroid gland	NCIT:C3878	Thyroid gland undifferentiated (anaplastic) carcinoma
+RES00002399	papillotubular adenocarcinoma cell line:TGBC18TKB	1	cell lines	snapshot	UBERON:0002114	duodenum	CL:1001589	duodenum glandular cell	NCIT:C6650	Ampulla of Vater adenocarcinoma
+RES00002400	paracentral gyrus, adult	1	tissues	snapshot	UBERON:0007190	paracentral gyrus	NA	NA	NA	NA
+RES00002401	parietal cortex, adult	1	tissues	snapshot	UBERON:0016530	parietal cortex	NA	NA	NA	NA
+RES00002402	parietal lobe, adult	3	tissues	snapshot	UBERON:0001872	parietal lobe	NA	NA	NA	NA
+RES00002403	parietal lobe, fetal	1	tissues	snapshot	UBERON:0001872	parietal lobe	NA	NA	NA	NA
+RES00002404	parietal lobe, newborn	1	tissues	snapshot	UBERON:0001872	parietal lobe	NA	NA	NA	NA
+RES00002405	parotid gland	1	tissues	snapshot	UBERON:0001831	parotid gland	NA	NA	NA	NA
+RES00002406	penis	1	tissues	snapshot	UBERON:0000989	penis	NA	NA	NA	NA
+RES00002407	peripheral neuroectodermal tumor cell line:KU-SN	1	cell lines	snapshot	UBERON:0000010	peripheral nervous system	CL:0011012	neural crest cell	NCIT:C8776	Peripheral primitive neuroectodermal tumor of bone
+RES00002408	pharyngeal carcinoma cell line:Detroit 562	1	cell lines	snapshot	UBERON:0006562	pharynx	CL:0000076	squamous epithelial cell	NCIT:C102872	Pharyngeal squamous cell carcinoma
+RES00002409	pineal gland, adult	3	tissues	snapshot	UBERON:0001905	pineal body	NA	NA	NA	NA
+RES00002410	pituitary gland, adult	3	tissues	snapshot	UBERON:0000007	pituitary gland	NA	NA	NA	NA
+RES00002411	placenta, adult	1	tissues	snapshot	UBERON:0001987	placenta	NA	NA	NA	NA
+RES00002412	plasma cell leukemia cell line:ARH-77	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NA	NA
+RES00002413	pleomorphic hepatocellular carcinoma cell line:SNU-387	1	cell lines	snapshot	UBERON:0002107	liver	CL:0000182	hepatocyte	NCIT:C3099	Hepatocellular carcinoma
+RES00002414	pons, adult	1	tissues	snapshot	UBERON:0000988	pons	NA	NA	NA	NA
+RES00002415	postcentral gyrus, adult	1	tissues	snapshot	UBERON:0002581	postcentral gyrus	NA	NA	NA	NA
+RES00002416	promyelocytes/myelocytes PMC	3	primary cells	snapshot	UBERON:0002371	bone marrow	CL:0000836	promyelocyte	NA	NA
+RES00002417	prostate cancer cell line:DU145	1	cell lines	snapshot	UBERON:0002367	prostate gland	CL:0002231	epithelial cell of prostate	NCIT:C4863	Prostate carcinoma
+RES00002418	prostate cancer cell line:PC-3	1	cell lines	snapshot	UBERON:0002367	prostate gland	CL:0002231	epithelial cell of prostate	NCIT:C4863	Prostate carcinoma
+RES00002419	prostate, adult	1	tissues	snapshot	UBERON:0002367	prostate gland	NA	NA	NA	NA
+RES00002420	putamen, adult	4	tissues	snapshot	UBERON:0001874	putamen	NA	NA	NA	NA
+RES00002421	putamen, newborn	1	tissues	snapshot	UBERON:0001874	putamen	NA	NA	NA	NA
+RES00002422	rectal cancer cell line:TT1TKB	1	cell lines	snapshot	UBERON:0001052	rectum	CL:1001595	rectum glandular cell	NCIT:C9383	Rectal adenocarcinoma
+RES00002423	rectum, fetal	1	tissues	snapshot	UBERON:0001052	rectum	NA	NA	NA	NA
+RES00002424	renal cell carcinoma cell line:OS-RC-2	1	cell lines	snapshot	UBERON:0002113	kidney	CL:0002518	kidney epithelial cell	NCIT:C9385	Renal cell carcinoma
+RES00002425	renal cell carcinoma cell line:TUHR10TKB	1	cell lines	snapshot	UBERON:0002113	kidney	CL:0002518	kidney epithelial cell	NCIT:C9385	Renal cell carcinoma
+RES00002426	retina, adult	1	tissues	snapshot	UBERON:0000966	retina	NA	NA	NA	NA
+RES00002427	retinoblastoma cell line:Y79	1	cell lines	snapshot	UBERON:0005388	photoreceptor array	CL:0009004	retinal cell	NCIT:C7541	Retinoblastoma
+RES00002428	rhabdomyosarcoma cell line:KYM-1	1	cell lines	snapshot	UBERON:0000974	neck	CL:0000737	striated muscle cell	NCIT:C3749	Alveolar rhabdomyosarcoma
+RES00002429	rhabdomyosarcoma cell line:RMS-YM	1	cell lines	snapshot	UBERON:0001134	skeletal muscle tissue	CL:0000737	striated muscle cell	NCIT:C8971	Embryonal rhabdomyosarcoma
+RES00002430	sacrococcigeal teratoma cell line:HTST	1	cell lines	snapshot	NA	NA	CL:0000670	primordial germ cell	NCIT:C99055	Sacrococcygeal teratoma
+RES00002431	salivary acinar cells	3	primary cells	snapshot	UBERON:0001044	saliva-secreting gland	CL:0002623	acinar cell of salivary gland	NA	NA
+RES00002432	salivary gland, adult	1	tissues	snapshot	UBERON:0001044	saliva-secreting gland	NA	NA	NA	NA
+RES00002433	schwannoma cell line:HS-PSS	2	cell lines	snapshot	UBERON:0000010	peripheral nervous system	CL:0002573	Schwann cell	NCIT:C3798	Malignant peripheral nerve sheath tumor
+RES00002434	seminal vesicle	1	tissues	snapshot	UBERON:0000998	seminal vesicle	NA	NA	NA	NA
+RES00002435	serous adenocarcinoma cell line:JHOS-2	1	cell lines	snapshot	UBERON:0000992	ovary	CL:2000064	ovarian surface epithelial cell	NCIT:C105555	High grade ovarian serous adenocarcinoma
+RES00002436	serous adenocarcinoma cell line:SK-OV-3-R after co-culture with SOC-57-02-G	1	cell lines	snapshot	UBERON:0000992	ovary	CL:2000064	ovarian surface epithelial cell	NCIT:C7978	Ovarian serous cystadenocarcinoma
+RES00002437	serous adenocarcinoma cell line:SK-OV-3-R	1	cell lines	snapshot	UBERON:0000992	ovary	CL:2000064	ovarian surface epithelial cell	NCIT:C7978	Ovarian serous cystadenocarcinoma
+RES00002438	serous cystadenocarcinoma cell line:HTOA	1	cell lines	snapshot	UBERON:0000992	ovary	CL:2000064	ovarian surface epithelial cell	NCIT:C7978	Ovarian serous cystadenocarcinoma
+RES00002439	signet ring carcinoma cell line:Kato III	1	cell lines	snapshot	UBERON:0000945	stomach	CL:0002178	epithelial cell of stomach	NCIT:C5250	Signet ring cell gastric adenocarcinoma
+RES00002440	signet ring carcinoma cell line:NUGC-4	1	cell lines	snapshot	UBERON:0000945	stomach	CL:0002178	epithelial cell of stomach	NCIT:C5250	Signet ring cell gastric adenocarcinoma
+RES00002441	skeletal muscle - soleus muscle	1	tissues	snapshot	UBERON:0001389	soleus muscle	NA	NA	NA	NA
+RES00002442	skeletal muscle, adult	1	tissues	snapshot	UBERON:0001134	skeletal muscle tissue	NA	NA	NA	NA
+RES00002443	skeletal muscle, fetal	1	tissues	snapshot	UBERON:0001134	skeletal muscle tissue	NA	NA	NA	NA
+RES00002444	skin, adult	1	tissues	snapshot	UBERON:0002097	skin of body	NA	NA	NA	NA
+RES00002445	skin, fetal	1	tissues	snapshot	UBERON:0002097	skin of body	NA	NA	NA	NA
+RES00002446	small cell cervical cancer cell line:HCSC-1	1	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:0002535	epithelial cell of cervix	NCIT:C27677	Human papillomavirus-related endocervical adenocarcinoma
+RES00002447	small cell gastrointestinal carcinoma cell line:ECC10	1	cell lines	snapshot	UBERON:0000945	stomach	CL:0002178	epithelial cell of stomach	NCIT:C6764	Gastric small cell neuroendocrine carcinoma
+RES00002448	small cell lung carcinoma cell line:DMS 144	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C4917	Small cell lung carcinoma
+RES00002449	small cell lung carcinoma cell line:LK-2	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C3493	Squamous cell lung carcinoma
+RES00002450	small cell lung carcinoma cell line:NCI-H82	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C4917	Small cell lung carcinoma
+RES00002451	small cell lung carcinoma cell line:WA-hT	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C4917	Small cell lung carcinoma
+RES00002452	small intestine, adult	1	tissues	snapshot	UBERON:0002108	small intestine	NA	NA	NA	NA
+RES00002453	small intestine, fetal	1	tissues	snapshot	UBERON:0002108	small intestine	NA	NA	NA	NA
+RES00002454	small-cell gastrointestinal carcinoma cell line:ECC4	1	cell lines	snapshot	UBERON:0001052	rectum	CL:1001595	rectum glandular cell	NCIT:C9383	Rectal adenocarcinoma
+RES00002455	smooth muscle, adult	1	tissues	snapshot	UBERON:0001135	smooth muscle tissue	NA	NA	NA	NA
+RES00002456	somatostatinoma cell line:QGP-1	1	cell lines	snapshot	UBERON:0000006	islet of Langerhans	CL:0000173	pancreatic D cell	NCIT:C95595	Pancreatic somatostatinoma
+RES00002457	spinal cord, adult	3	tissues	snapshot	UBERON:0002240	spinal cord	NA	NA	NA	NA
+RES00002458	spinal cord, fetal	1	tissues	snapshot	UBERON:0002240	spinal cord	NA	NA	NA	NA
+RES00002459	spinal cord, newborn	1	tissues	snapshot	UBERON:0002240	spinal cord	NA	NA	NA	NA
+RES00002460	spindle cell sarcoma cell line:Hs 132.T	1	cell lines	snapshot	UBERON:0002384	connective tissue	NA	NA	NCIT:C27005	Spindle cell sarcoma
+RES00002461	spleen, adult	1	tissues	snapshot	UBERON:0002106	spleen	NA	NA	NA	NA
+RES00002462	spleen, fetal	1	tissues	snapshot	UBERON:0002106	spleen	NA	NA	NA	NA
+RES00002463	splenic lymphoma with villous lymphocytes cell line:SLVL	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C35425	Splenic lymphoma with circulating villous lymphocytes
+RES00002464	squamous cell carcinoma cell line:EC-GI-10	1	cell lines	snapshot	UBERON:0001043	esophagus	CL:0002252	epithelial cell of esophagus	NCIT:C4024	Esophageal squamous cell carcinoma
+RES00002465	squamous cell carcinoma cell line:JHUS-nk1	1	cell lines	snapshot	UBERON:0000002	uterine cervix	CL:1001575	uterine cervix squamous cell	NCIT:C4028	Cervical squamous cell carcinoma
+RES00002466	squamous cell carcinoma cell line:T3M-5	1	cell lines	snapshot	UBERON:0002046	thyroid gland	CL:0002257	epithelial cell of thyroid gland	NCIT:C46008	Thyroid gland squamous cell carcinoma
+RES00002467	squamous cell lung carcinoma cell line:EBC-1	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C3493	Squamous cell lung carcinoma
+RES00002468	squamous cell lung carcinoma cell line:LC-1F	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C3493	Squamous cell lung carcinoma
+RES00002469	squamous cell lung carcinoma cell line:RERF-LC-AI	1	cell lines	snapshot	UBERON:0002048	lung	CL:0000082	epithelial cell of lung	NCIT:C3493	Squamous cell lung carcinoma
+RES00002470	stomach, fetal	1	tissues	snapshot	UBERON:0000945	stomach	NA	NA	NA	NA
+RES00002471	submaxillary gland	1	tissues	snapshot	UBERON:0001736	submandibular gland	NA	NA	NA	NA
+RES00002472	substantia nigra, adult	3	tissues	snapshot	UBERON:0002038	substantia nigra	NA	NA	NA	NA
+RES00002473	substantia nigra, newborn	1	tissues	snapshot	UBERON:0002038	substantia nigra	NA	NA	NA	NA
+RES00002474	synovial sarcoma cell line:HS-SY-II	1	cell lines	snapshot	UBERON:0002018	synovial membrane of synovial joint	CL:0000214	synovial cell	NCIT:C6534	Monophasic synovial sarcoma
+RES00002475	temporal lobe, adult	1	tissues	snapshot	UBERON:0001871	temporal lobe	NA	NA	NA	NA
+RES00002476	temporal lobe, fetal	2	tissues	snapshot	UBERON:0001871	temporal lobe	NA	NA	NA	NA
+RES00002477	tenocyte	3	primary cells	snapshot	UBERON:0000043	tendon	CL:0000388	tendon cell	NA	NA
+RES00002478	teratocarcinoma cell line:NCC-IT-A3	1	cell lines	snapshot	UBERON:0003728	mediastinum	CL:0000066	epithelial cell	NCIT:C6341	Testicular embryonal carcinoma
+RES00002479	teratocarcinoma cell line:NCR-G1	1	cell lines	snapshot	NA	NA	CL:0000670	primordial germ cell	NCIT:C8000	Testicular yolk sac tumor
+RES00002480	teratocarcinoma cell line:PA-1	1	cell lines	snapshot	NA	NA	CL:0000670	primordial germ cell	NCIT:C8814	Ovarian mixed germ cell tumor
+RES00002481	testicular germ cell embryonal carcinoma cell line:ITO-II	1	cell lines	snapshot	UBERON:0000473	testis	CL:0000066	epithelial cell	NCIT:C6341	Testicular embryonal carcinoma
+RES00002482	testicular germ cell embryonal carcinoma cell line:NEC14	1	cell lines	snapshot	UBERON:0000473	testis	CL:0000066	epithelial cell	NCIT:C6341	Testicular embryonal carcinoma
+RES00002483	testicular germ cell embryonal carcinoma cell line:NEC15	1	cell lines	snapshot	UBERON:0000473	testis	CL:0000066	epithelial cell	NCIT:C6341	Testicular embryonal carcinoma
+RES00002484	testicular germ cell embryonal carcinoma cell line:NEC8	1	cell lines	snapshot	UBERON:0000473	testis	CL:0000066	epithelial cell	NCIT:C6341	Testicular embryonal carcinoma
+RES00002485	testis, adult	2	tissues	snapshot	UBERON:0000473	testis	NA	NA	NA	NA
+RES00002486	thalamus, adult	4	tissues	snapshot	UBERON:0001897	dorsal plus ventral thalamus	NA	NA	NA	NA
+RES00002487	thalamus, newborn	1	tissues	snapshot	UBERON:0001897	dorsal plus ventral thalamus	NA	NA	NA	NA
+RES00002488	throat	1	tissues	snapshot	UBERON:0000341	throat	NA	NA	NA	NA
+RES00002489	throat, fetal	1	tissues	snapshot	UBERON:0000341	throat	NA	NA	NA	NA
+RES00002490	thymic carcinoma cell line:Ty-82	1	cell lines	snapshot	UBERON:0002370	thymus	CL:0002293	epithelial cell of thymus	NCIT:C45716	NUT carcinoma
+RES00002491	thymus, adult	1	tissues	snapshot	UBERON:0002370	thymus	NA	NA	NA	NA
+RES00002492	thymus, fetal	1	tissues	snapshot	UBERON:0002370	thymus	NA	NA	NA	NA
+RES00002493	thyroid carcinoma cell line:KHM-5M	1	cell lines	snapshot	UBERON:0002046	thyroid gland	CL:0002257	epithelial cell of thyroid gland	NCIT:C3878	Thyroid gland undifferentiated (anaplastic) carcinoma
+RES00002494	thyroid carcinoma cell line:TCO-1	1	cell lines	snapshot	UBERON:0002046	thyroid gland	CL:0002257	epithelial cell of thyroid gland	NCIT:C3878	Thyroid gland undifferentiated (anaplastic) carcinoma
+RES00002495	thyroid, adult	1	tissues	snapshot	UBERON:0002046	thyroid gland	NA	NA	NA	NA
+RES00002496	thyroid, fetal	1	tissues	snapshot	UBERON:0002046	thyroid gland	NA	NA	NA	NA
+RES00002497	tongue epidermis (fungiform papillae)	1	tissues	snapshot	UBERON:0002448	fungiform papillae	NA	NA	NA	NA
+RES00002498	tongue	1	tissues	snapshot	UBERON:0001723	tongue	NA	NA	NA	NA
+RES00002499	tongue, fetal	1	tissues	snapshot	UBERON:0001723	tongue	NA	NA	NA	NA
+RES00002500	tonsil, adult	1	tissues	snapshot	UBERON:0002372	tonsil	NA	NA	NA	NA
+RES00002501	trachea, adult	1	tissues	snapshot	UBERON:0003126	trachea	NA	NA	NA	NA
+RES00002502	trachea, fetal	1	tissues	snapshot	UBERON:0003126	trachea	NA	NA	NA	NA
+RES00002503	transitional cell carcinoma cell line:Hs 769.T	1	cell lines	snapshot	UBERON:0000057	urethra	CL:1001430	urethra urothelial cell	NCIT:C6166	Urethral urothelial carcinoma
+RES00002504	transitional-cell carcinoma cell line:5637	1	cell lines	snapshot	UBERON:0001255	urinary bladder	CL:1001428	bladder urothelial cell	NCIT:C4912	Bladder carcinoma
+RES00002505	transitional-cell carcinoma cell line:JMSU1	1	cell lines	snapshot	UBERON:0001255	urinary bladder	CL:1001428	bladder urothelial cell	NCIT:C4912	Bladder carcinoma
+RES00002506	tridermal teratoma cell line:HGRT	1	cell lines	snapshot	NA	NA	CL:0000670	primordial germ cell	NCIT:C5260	Mature gastric teratoma
+RES00002507	tubular adenocarcinoma cell line:SUIT-2	1	cell lines	snapshot	UBERON:0001264	pancreas	CL:0000083	epithelial cell of pancreas	NCIT:C9120	Pancreatic ductal adenocarcinoma
+RES00002508	umbilical cord, fetal	1	tissues	snapshot	UBERON:0002331	umbilical cord	NA	NA	NA	NA
+RES00002509	uterus, adult	1	tissues	snapshot	UBERON:0000995	uterus	NA	NA	NA	NA
+RES00002510	uterus, fetal	1	tissues	snapshot	UBERON:0005795	embryonic uterus	NA	NA	NA	NA
+RES00002511	vagina	1	tissues	snapshot	UBERON:0000996	vagina	NA	NA	NA	NA
+RES00002512	vein	1	tissues	snapshot	UBERON:0001638	vein	NA	NA	NA	NA
+RES00002513	xeroderma pigentosum b cell line:XPL 17	1	cell lines	snapshot	UBERON:0000178	blood	CL:0000236	B cell	NCIT:C3965	Xeroderma pigmentosum, complementation group A
