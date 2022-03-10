@@ -1,4 +1,4 @@
-RefEx_Sample_ID	Description	#_of_samples	category		
+RefEx Sample ID	Description	Number of samples	Sample type category	Tissue	Sub-region	Sex	Age	UBERON ID	UBERON label
 RES00003651	Brain - Cortex	325	tissues	Brain	Cortex	Mixed	20-79	UBERON_0001870	frontal cortex
 RES00003652	Prostate	262	tissues	Prostate		Mixed	20-79	UBERON_0002367	prostate gland
 RES00003653	Minor Salivary Gland	181	tissues	Minor Salivary Gland		Mixed	20-79	UBERON_0006330	anterior lingual gland
