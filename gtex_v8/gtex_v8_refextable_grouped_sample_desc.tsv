@@ -1,584 +1,584 @@
-RefEx_Sample_ID	Description	#_of_samples	category
-RES00002522	Whole Blood, F, 60-69	347	tissues
-RES00002523	Brain - Frontal Cortex (BA9), F, 60-69	54	tissues
-RES00002524	Adipose - Subcutaneous, F, 60-69	77	tissues
-RES00002525	Muscle - Skeletal, F, 60-69	107	tissues
-RES00002526	Artery - Tibial, F, 60-69	71	tissues
-RES00002527	Artery - Coronary, F, 60-69	33	tissues
-RES00002528	Heart - Atrial Appendage, F, 60-69	51	tissues
-RES00002529	Adipose - Visceral (Omentum), F, 60-69	53	tissues
-RES00002530	Ovary, F, 60-69	48	tissues
-RES00002531	Uterus, F, 60-69	37	tissues
-RES00002532	Vagina, F, 60-69	42	tissues
-RES00002533	Breast - Mammary Tissue, F, 60-69	46	tissues
-RES00002534	Skin - Not Sun Exposed (Suprapubic), F, 60-69	70	tissues
-RES00002535	Minor Salivary Gland, F, 60-69	23	tissues
-RES00002536	Brain - Cortex, F, 60-69	49	tissues
-RES00002537	Whole Blood, M, 50-59	759	tissues
-RES00002538	Adrenal Gland, M, 50-59	59	tissues
-RES00002539	Thyroid, M, 50-59	186	tissues
-RES00002540	Lung, M, 50-59	218	tissues
-RES00002541	Spleen, M, 50-59	62	tissues
-RES00002542	Pancreas, M, 50-59	81	tissues
-RES00002543	Esophagus - Muscularis, M, 50-59	126	tissues
-RES00002544	Esophagus - Mucosa, M, 50-59	137	tissues
-RES00002545	Esophagus - Gastroesophageal Junction, M, 50-59	106	tissues
-RES00002546	Stomach, M, 50-59	96	tissues
-RES00002547	Adipose - Visceral (Omentum), M, 50-59	138	tissues
-RES00002548	Skin - Not Sun Exposed (Suprapubic), M, 50-59	143	tissues
-RES00002549	Colon - Sigmoid, M, 50-59	78	tissues
-RES00002550	Small Intestine - Terminal Ileum, M, 50-59	42	tissues
-RES00002551	Colon - Transverse, M, 50-59	99	tissues
-RES00002552	Prostate, M, 50-59	76	tissues
-RES00002553	Testis, M, 50-59	130	tissues
-RES00002554	Adipose - Subcutaneous, M, 50-59	170	tissues
-RES00002555	Skin - Sun Exposed (Lower leg), M, 50-59	190	tissues
-RES00002556	Muscle - Skeletal, M, 50-59	250	tissues
-RES00002557	Nerve - Tibial, M, 50-59	155	tissues
-RES00002558	Whole Blood, M, 60-69	671	tissues
-RES00002559	Brain - Frontal Cortex (BA9), M, 60-69	147	tissues
-RES00002560	Skin - Sun Exposed (Lower leg), M, 60-69	174	tissues
-RES00002561	Adipose - Subcutaneous, M, 60-69	162	tissues
-RES00002562	Muscle - Skeletal, M, 60-69	253	tissues
-RES00002563	Artery - Tibial, M, 60-69	149	tissues
-RES00002564	Nerve - Tibial, M, 60-69	155	tissues
-RES00002565	Heart - Atrial Appendage, M, 60-69	119	tissues
-RES00002566	Heart - Left Ventricle, M, 60-69	155	tissues
-RES00002567	Thyroid, M, 60-69	177	tissues
-RES00002568	Lung, M, 60-69	176	tissues
-RES00002569	Spleen, M, 60-69	33	tissues
-RES00002570	Testis, M, 60-69	133	tissues
-RES00002571	Prostate, M, 60-69	81	tissues
-RES00002572	Skin - Not Sun Exposed (Suprapubic), M, 60-69	142	tissues
-RES00002573	Minor Salivary Gland, M, 60-69	39	tissues
-RES00002574	Pituitary, M, 60-69	110	tissues
-RES00002575	Brain - Cortex, M, 60-69	108	tissues
-RES00002576	Brain - Cerebellum, M, 60-69	93	tissues
-RES00002577	Cells - Cultured fibroblasts, M, 60-69	109	primary cells
-RES00002578	Colon - Transverse, M, 60-69	66	tissues
-RES00002579	Adrenal Gland, M, 60-69	45	tissues
-RES00002580	Artery - Aorta, M, 60-69	90	tissues
-RES00002581	Esophagus - Gastroesophageal Junction, M, 60-69	60	tissues
-RES00002582	Esophagus - Mucosa, M, 60-69	109	tissues
-RES00002583	Esophagus - Muscularis, M, 60-69	99	tissues
-RES00002584	Stomach, M, 60-69	48	tissues
-RES00002585	Pancreas, M, 60-69	52	tissues
-RES00002586	Adipose - Visceral (Omentum), M, 60-69	120	tissues
-RES00002587	Small Intestine - Terminal Ileum, M, 60-69	23	tissues
-RES00002588	Colon - Sigmoid, M, 60-69	84	tissues
-RES00002589	Breast - Mammary Tissue, M, 60-69	99	tissues
-RES00002590	Cells - EBV-transformed lymphocytes, F, 60-69	21	primary cells
-RES00002591	Cells - Cultured fibroblasts, F, 60-69	52	primary cells
-RES00002592	Lung, F, 60-69	90	tissues
-RES00002593	Thyroid, F, 60-69	77	tissues
-RES00002594	Adrenal Gland, F, 60-69	37	tissues
-RES00002595	Spleen, F, 60-69	25	tissues
-RES00002596	Pancreas, F, 60-69	35	tissues
-RES00002597	Heart - Left Ventricle, F, 60-69	72	tissues
-RES00002598	Artery - Aorta, F, 60-69	46	tissues
-RES00002599	Small Intestine - Terminal Ileum, F, 60-69	19	tissues
-RES00002600	Colon - Sigmoid, F, 60-69	43	tissues
-RES00002601	Colon - Transverse, F, 60-69	38	tissues
-RES00002602	Esophagus - Muscularis, F, 60-69	48	tissues
-RES00002603	Esophagus - Mucosa, F, 60-69	65	tissues
-RES00002604	Esophagus - Gastroesophageal Junction, F, 60-69	38	tissues
-RES00002605	Stomach, F, 60-69	38	tissues
-RES00002606	Skin - Sun Exposed (Lower leg), F, 60-69	95	tissues
-RES00002607	Pituitary, F, 60-69	35	tissues
-RES00002608	Brain - Cerebellum, F, 60-69	53	tissues
-RES00002609	Whole Blood, F, 50-59	333	tissues
-RES00002610	Cells - Cultured fibroblasts, F, 50-59	57	primary cells
-RES00002611	Thyroid, F, 50-59	83	tissues
-RES00002612	Adipose - Visceral (Omentum), F, 50-59	53	tissues
-RES00002613	Esophagus - Muscularis, F, 50-59	50	tissues
-RES00002614	Esophagus - Gastroesophageal Junction, F, 50-59	42	tissues
-RES00002615	Vagina, F, 50-59	52	tissues
-RES00002616	Uterus, F, 50-59	49	tissues
-RES00002617	Skin - Sun Exposed (Lower leg), F, 50-59	83	tissues
-RES00002618	Muscle - Skeletal, F, 50-59	116	tissues
-RES00002619	Pituitary, F, 50-59	30	tissues
-RES00002620	Cells - Cultured fibroblasts, M, 50-59	117	primary cells
-RES00002621	Artery - Aorta, M, 50-59	104	tissues
-RES00002622	Heart - Left Ventricle, M, 50-59	168	tissues
-RES00002623	Heart - Atrial Appendage, M, 50-59	115	tissues
-RES00002624	Artery - Tibial, M, 50-59	180	tissues
-RES00002625	Pituitary, M, 50-59	61	tissues
-RES00002626	Brain - Cortex, M, 50-59	69	tissues
-RES00002627	Breast - Mammary Tissue, M, 50-59	94	tissues
-RES00002628	Artery - Coronary, M, 50-59	67	tissues
-RES00002629	Brain - Frontal Cortex (BA9), M, 50-59	105	tissues
-RES00002630	Brain - Cerebellar Hemisphere, M, 50-59	61	tissues
-RES00002631	Brain - Caudate (basal ganglia), M, 50-59	68	tissues
-RES00002632	Brain - Nucleus accumbens (basal ganglia), M, 50-59	65	tissues
-RES00002633	Brain - Putamen (basal ganglia), M, 50-59	58	tissues
-RES00002634	Brain - Hypothalamus, M, 50-59	55	tissues
-RES00002635	Brain - Spinal cord (cervical c-1), M, 50-59	36	tissues
-RES00002636	Liver, M, 50-59	65	tissues
-RES00002637	Minor Salivary Gland, M, 50-59	43	tissues
-RES00002638	Brain - Cerebellum, M, 50-59	66	tissues
-RES00002639	Whole Blood, M, 40-49	303	tissues
-RES00002640	Cells - Cultured fibroblasts, M, 40-49	53	primary cells
-RES00002641	Brain - Frontal Cortex (BA9), M, 40-49	30	tissues
-RES00002642	Brain - Hippocampus, M, 40-49	18	tissues
-RES00002643	Brain - Anterior cingulate cortex (BA24), M, 40-49	22	tissues
-RES00002644	Brain - Caudate (basal ganglia), M, 40-49	20	tissues
-RES00002645	Brain - Nucleus accumbens (basal ganglia), M, 40-49	20	tissues
-RES00002646	Brain - Putamen (basal ganglia), M, 40-49	15	tissues
-RES00002647	Skin - Sun Exposed (Lower leg), M, 40-49	76	tissues
-RES00002648	Adipose - Subcutaneous, M, 40-49	67	tissues
-RES00002649	Nerve - Tibial, M, 40-49	69	tissues
-RES00002650	Artery - Tibial, M, 40-49	78	tissues
-RES00002651	Breast - Mammary Tissue, M, 40-49	37	tissues
-RES00002652	Muscle - Skeletal, M, 40-49	100	tissues
-RES00002653	Skin - Not Sun Exposed (Suprapubic), M, 40-49	56	tissues
-RES00002654	Brain - Cerebellum, M, 40-49	22	tissues
-RES00002655	Brain - Cortex, M, 40-49	24	tissues
-RES00002656	Pituitary, M, 40-49	21	tissues
-RES00002657	Nerve - Tibial, F, 60-69	74	tissues
-RES00002658	Brain - Cerebellar Hemisphere, M, 60-69	89	tissues
-RES00002659	Brain - Caudate (basal ganglia), M, 60-69	99	tissues
-RES00002660	Brain - Nucleus accumbens (basal ganglia), M, 60-69	92	tissues
-RES00002661	Brain - Putamen (basal ganglia), M, 60-69	83	tissues
-RES00002662	Brain - Hypothalamus, M, 60-69	85	tissues
-RES00002663	Liver, M, 60-69	61	tissues
-RES00002664	Artery - Coronary, M, 60-69	47	tissues
-RES00002665	Brain - Substantia nigra, M, 50-59	32	tissues
-RES00002666	Brain - Anterior cingulate cortex (BA24), M, 50-59	38	tissues
-RES00002667	Brain - Hippocampus, M, 60-69	87	tissues
-RES00002668	Cells - EBV-transformed lymphocytes, F, 20-29	10	primary cells
-RES00002669	Whole Blood, F, 20-29	122	tissues
-RES00002670	Thyroid, F, 20-29	24	tissues
-RES00002671	Artery - Aorta, F, 20-29	15	tissues
-RES00002672	Adrenal Gland, F, 20-29	8	tissues
-RES00002673	Heart - Atrial Appendage, F, 20-29	5	tissues
-RES00002674	Artery - Coronary, F, 20-29	7	tissues
-RES00002675	Heart - Left Ventricle, F, 20-29	22	tissues
-RES00002676	Esophagus - Muscularis, F, 20-29	23	tissues
-RES00002677	Esophagus - Mucosa, F, 20-29	23	tissues
-RES00002678	Esophagus - Gastroesophageal Junction, F, 20-29	8	tissues
-RES00002679	Stomach, F, 20-29	17	tissues
-RES00002680	Adipose - Visceral (Omentum), F, 20-29	16	tissues
-RES00002681	Skin - Not Sun Exposed (Suprapubic), F, 20-29	14	tissues
-RES00002682	Breast - Mammary Tissue, F, 20-29	14	tissues
-RES00002683	Colon - Transverse, F, 20-29	17	tissues
-RES00002684	Colon - Sigmoid, F, 20-29	13	tissues
-RES00002685	Ovary, F, 20-29	22	tissues
-RES00002686	Vagina, F, 20-29	18	tissues
-RES00002687	Uterus, F, 20-29	23	tissues
-RES00002688	Muscle - Skeletal, F, 20-29	35	tissues
-RES00002689	Artery - Tibial, F, 20-29	27	tissues
-RES00002690	Adipose - Subcutaneous, F, 20-29	24	tissues
-RES00002691	Skin - Sun Exposed (Lower leg), F, 20-29	29	tissues
-RES00002692	Brain - Cerebellar Hemisphere, F, 60-69	35	tissues
-RES00002693	Brain - Substantia nigra, F, 60-69	24	tissues
-RES00002694	Brain - Hypothalamus, F, 60-69	38	tissues
-RES00002695	Brain - Spinal cord (cervical c-1), F, 60-69	37	tissues
-RES00002696	Cells - EBV-transformed lymphocytes, M, 30-39	10	primary cells
-RES00002697	Whole Blood, M, 30-39	183	tissues
-RES00002698	Cells - Cultured fibroblasts, M, 30-39	24	primary cells
-RES00002699	Adrenal Gland, M, 30-39	16	tissues
-RES00002700	Lung, M, 30-39	41	tissues
-RES00002701	Spleen, M, 30-39	23	tissues
-RES00002702	Liver, M, 30-39	16	tissues
-RES00002703	Thyroid, M, 30-39	42	tissues
-RES00002704	Esophagus - Mucosa, M, 30-39	42	tissues
-RES00002705	Esophagus - Muscularis, M, 30-39	37	tissues
-RES00002706	Esophagus - Gastroesophageal Junction, M, 30-39	26	tissues
-RES00002707	Pancreas, M, 30-39	27	tissues
-RES00002708	Adipose - Visceral (Omentum), M, 30-39	31	tissues
-RES00002709	Stomach, M, 30-39	26	tissues
-RES00002710	Small Intestine - Terminal Ileum, M, 30-39	13	tissues
-RES00002711	Colon - Transverse, M, 30-39	33	tissues
-RES00002712	Colon - Sigmoid, M, 30-39	25	tissues
-RES00002713	Skin - Not Sun Exposed (Suprapubic), M, 30-39	38	tissues
-RES00002714	Prostate, M, 30-39	28	tissues
-RES00002715	Breast - Mammary Tissue, M, 30-39	33	tissues
-RES00002716	Testis, M, 30-39	35	tissues
-RES00002717	Minor Salivary Gland, M, 30-39	12	tissues
-RES00002718	Muscle - Skeletal, M, 30-39	69	tissues
-RES00002719	Artery - Tibial, M, 30-39	50	tissues
-RES00002720	Nerve - Tibial, M, 30-39	44	tissues
-RES00002721	Skin - Sun Exposed (Lower leg), M, 30-39	49	tissues
-RES00002722	Adipose - Subcutaneous, M, 30-39	46	tissues
-RES00002723	Brain - Substantia nigra, M, 60-69	64	tissues
-RES00002724	Kidney - Cortex, M, 60-69	31	tissues
-RES00002725	Brain - Anterior cingulate cortex (BA24), M, 60-69	76	tissues
-RES00002726	Brain - Hippocampus, F, 60-69	32	tissues
-RES00002727	Brain - Anterior cingulate cortex (BA24), F, 60-69	32	tissues
-RES00002728	Brain - Caudate (basal ganglia), F, 60-69	42	tissues
-RES00002729	Brain - Nucleus accumbens (basal ganglia), F, 60-69	40	tissues
-RES00002730	Brain - Putamen (basal ganglia), F, 60-69	32	tissues
-RES00002731	Liver, F, 60-69	25	tissues
-RES00002732	Cells - EBV-transformed lymphocytes, F, 50-59	21	primary cells
-RES00002733	Lung, F, 50-59	74	tissues
-RES00002734	Pancreas, F, 50-59	48	tissues
-RES00002735	Artery - Aorta, F, 50-59	52	tissues
-RES00002736	Heart - Left Ventricle, F, 50-59	73	tissues
-RES00002737	Artery - Coronary, F, 50-59	30	tissues
-RES00002738	Small Intestine - Terminal Ileum, F, 50-59	17	tissues
-RES00002739	Colon - Transverse, F, 50-59	46	tissues
-RES00002740	Colon - Sigmoid, F, 50-59	37	tissues
-RES00002741	Esophagus - Mucosa, F, 50-59	62	tissues
-RES00002742	Stomach, F, 50-59	41	tissues
-RES00002743	Adrenal Gland, F, 50-59	33	tissues
-RES00002744	Ovary, F, 50-59	62	tissues
-RES00002745	Breast - Mammary Tissue, F, 50-59	51	tissues
-RES00002746	Artery - Tibial, F, 50-59	80	tissues
-RES00002747	Adipose - Subcutaneous, F, 50-59	81	tissues
-RES00002748	Whole Blood, F, 40-49	224	tissues
-RES00002749	Cells - Cultured fibroblasts, F, 40-49	41	primary cells
-RES00002750	Skin - Sun Exposed (Lower leg), F, 40-49	59	tissues
-RES00002751	Adipose - Subcutaneous, F, 40-49	55	tissues
-RES00002752	Nerve - Tibial, F, 40-49	52	tissues
-RES00002753	Artery - Tibial, F, 40-49	57	tissues
-RES00002754	Skin - Not Sun Exposed (Suprapubic), F, 40-49	41	tissues
-RES00002755	Lung, F, 40-49	55	tissues
-RES00002756	Esophagus - Mucosa, F, 40-49	43	tissues
-RES00002757	Pancreas, F, 40-49	30	tissues
-RES00002758	Colon - Transverse, F, 40-49	38	tissues
-RES00002759	Breast - Mammary Tissue, F, 40-49	44	tissues
-RES00002760	Heart - Atrial Appendage, F, 40-49	26	tissues
-RES00002761	Thyroid, F, 40-49	64	tissues
-RES00002762	Artery - Aorta, M, 30-39	26	tissues
-RES00002763	Heart - Atrial Appendage, M, 30-39	11	tissues
-RES00002764	Heart - Left Ventricle, M, 30-39	37	tissues
-RES00002765	Whole Blood, M, 20-29	189	tissues
-RES00002766	Cells - Cultured fibroblasts, M, 20-29	31	primary cells
-RES00002767	Thyroid, M, 20-29	43	tissues
-RES00002768	Adrenal Gland, M, 20-29	14	tissues
-RES00002769	Lung, M, 20-29	35	tissues
-RES00002770	Spleen, M, 20-29	15	tissues
-RES00002771	Pancreas, M, 20-29	17	tissues
-RES00002772	Skin - Not Sun Exposed (Suprapubic), M, 20-29	36	tissues
-RES00002773	Prostate, M, 20-29	31	tissues
-RES00002774	Breast - Mammary Tissue, M, 20-29	27	tissues
-RES00002775	Testis, M, 20-29	38	tissues
-RES00002776	Esophagus - Mucosa, M, 20-29	39	tissues
-RES00002777	Esophagus - Muscularis, M, 20-29	42	tissues
-RES00002778	Stomach, M, 20-29	28	tissues
-RES00002779	Colon - Transverse, M, 20-29	27	tissues
-RES00002780	Small Intestine - Terminal Ileum, M, 20-29	19	tissues
-RES00002781	Nerve - Tibial, M, 20-29	45	tissues
-RES00002782	Muscle - Skeletal, M, 20-29	59	tissues
-RES00002783	Skin - Sun Exposed (Lower leg), M, 20-29	48	tissues
-RES00002784	Brain - Amygdala, M, 50-59	42	tissues
-RES00002785	Testis, M, 40-49	58	tissues
-RES00002786	Heart - Atrial Appendage, M, 40-49	39	tissues
-RES00002787	Heart - Left Ventricle, M, 40-49	71	tissues
-RES00002788	Lung, M, 40-49	104	tissues
-RES00002789	Kidney - Cortex, M, 40-49	8	tissues
-RES00002790	Esophagus - Muscularis, M, 40-49	56	tissues
-RES00002791	Esophagus - Gastroesophageal Junction, M, 40-49	41	tissues
-RES00002792	Colon - Transverse, M, 40-49	41	tissues
-RES00002793	Thyroid, M, 40-49	76	tissues
-RES00002794	Prostate, M, 40-49	39	tissues
-RES00002795	Cells - EBV-transformed lymphocytes, M, 60-69	28	primary cells
-RES00002796	Brain - Amygdala, M, 60-69	55	tissues
-RES00002797	Brain - Spinal cord (cervical c-1), M, 60-69	51	tissues
-RES00002798	Whole Blood, F, 30-39	68	tissues
-RES00002799	Cells - Cultured fibroblasts, F, 30-39	15	primary cells
-RES00002800	Thyroid, F, 30-39	17	tissues
-RES00002801	Lung, F, 30-39	22	tissues
-RES00002802	Artery - Aorta, F, 30-39	14	tissues
-RES00002803	Heart - Atrial Appendage, F, 30-39	8	tissues
-RES00002804	Adipose - Visceral (Omentum), F, 30-39	14	tissues
-RES00002805	Esophagus - Mucosa, F, 30-39	17	tissues
-RES00002806	Esophagus - Muscularis, F, 30-39	18	tissues
-RES00002807	Esophagus - Gastroesophageal Junction, F, 30-39	9	tissues
-RES00002808	Colon - Transverse, F, 30-39	16	tissues
-RES00002809	Spleen, F, 30-39	9	tissues
-RES00002810	Colon - Sigmoid, F, 30-39	14	tissues
-RES00002811	Ovary, F, 30-39	15	tissues
-RES00002812	Uterus, F, 30-39	20	tissues
-RES00002813	Breast - Mammary Tissue, F, 30-39	17	tissues
-RES00002814	Minor Salivary Gland, F, 30-39	4	tissues
-RES00002815	Vagina, F, 30-39	13	tissues
-RES00002816	Skin - Not Sun Exposed (Suprapubic), F, 30-39	14	tissues
-RES00002817	Skin - Sun Exposed (Lower leg), F, 30-39	17	tissues
-RES00002818	Adipose - Subcutaneous, F, 30-39	19	tissues
-RES00002819	Muscle - Skeletal, F, 30-39	26	tissues
-RES00002820	Nerve - Tibial, F, 30-39	18	tissues
-RES00002821	Artery - Tibial, F, 30-39	15	tissues
-RES00002822	Artery - Aorta, M, 20-29	24	tissues
-RES00002823	Adipose - Visceral (Omentum), M, 20-29	30	tissues
-RES00002824	Esophagus - Gastroesophageal Junction, M, 20-29	26	tissues
-RES00002825	Minor Salivary Gland, M, 20-29	11	tissues
-RES00002826	Colon - Sigmoid, M, 20-29	26	tissues
-RES00002827	Adipose - Subcutaneous, M, 20-29	40	tissues
-RES00002828	Kidney - Cortex, M, 50-59	27	tissues
-RES00002829	Cells - EBV-transformed lymphocytes, M, 20-29	13	primary cells
-RES00002830	Heart - Left Ventricle, M, 20-29	22	tissues
-RES00002831	Heart - Atrial Appendage, M, 20-29	10	tissues
-RES00002832	Artery - Coronary, M, 20-29	9	tissues
-RES00002833	Liver, M, 20-29	4	tissues
-RES00002834	Artery - Tibial, M, 20-29	43	tissues
-RES00002835	Brain - Amygdala, F, 60-69	30	tissues
-RES00002836	Kidney - Cortex, F, 60-69	9	tissues
-RES00002837	Brain - Hippocampus, F, 40-49	9	tissues
-RES00002838	Brain - Substantia nigra, F, 40-49	6	tissues
-RES00002839	Brain - Anterior cingulate cortex (BA24), F, 40-49	8	tissues
-RES00002840	Brain - Caudate (basal ganglia), F, 40-49	11	tissues
-RES00002841	Muscle - Skeletal, F, 40-49	80	tissues
-RES00002842	Cells - EBV-transformed lymphocytes, F, 40-49	16	primary cells
-RES00002843	Spleen, F, 40-49	21	tissues
-RES00002844	Stomach, F, 40-49	30	tissues
-RES00002845	Esophagus - Muscularis, F, 40-49	50	tissues
-RES00002846	Vagina, F, 40-49	42	tissues
-RES00002847	Esophagus - Gastroesophageal Junction, F, 40-49	33	tissues
-RES00002848	Ovary, F, 40-49	44	tissues
-RES00002849	Adipose - Visceral (Omentum), F, 40-49	41	tissues
-RES00002850	Colon - Sigmoid, F, 40-49	26	tissues
-RES00002851	Small Intestine - Terminal Ileum, F, 40-49	15	tissues
-RES00002852	Adrenal Gland, F, 40-49	22	tissues
-RES00002853	Brain - Frontal Cortex (BA9), M, 30-39	7	tissues
-RES00002854	Brain - Cerebellar Hemisphere, M, 30-39	4	tissues
-RES00002855	Brain - Hypothalamus, M, 30-39	3	tissues
-RES00002856	Brain - Spinal cord (cervical c-1), M, 30-39	1	tissues
-RES00002857	Artery - Coronary, M, 30-39	8	tissues
-RES00002858	Brain - Cerebellum, M, 30-39	8	tissues
-RES00002859	Brain - Cortex, M, 30-39	8	tissues
-RES00002860	Pituitary, M, 30-39	6	tissues
-RES00002861	Brain - Hippocampus, F, 50-59	21	tissues
-RES00002862	Brain - Anterior cingulate cortex (BA24), F, 50-59	14	tissues
-RES00002863	Brain - Amygdala, F, 50-59	13	tissues
-RES00002864	Brain - Spinal cord (cervical c-1), F, 50-59	18	tissues
-RES00002865	Heart - Atrial Appendage, F, 50-59	51	tissues
-RES00002866	Liver, F, 50-59	24	tissues
-RES00002867	Nerve - Tibial, F, 50-59	71	tissues
-RES00002868	Brain - Cerebellum, F, 50-59	22	tissues
-RES00002869	Brain - Frontal Cortex (BA9), M, 20-29	8	tissues
-RES00002870	Brain - Cerebellar Hemisphere, M, 20-29	7	tissues
-RES00002871	Brain - Spinal cord (cervical c-1), M, 20-29	4	tissues
-RES00002872	Brain - Cerebellum, M, 20-29	6	tissues
-RES00002873	Brain - Cortex, M, 20-29	5	tissues
-RES00002874	Pituitary, M, 20-29	5	tissues
-RES00002875	Adipose - Visceral (Omentum), M, 40-49	49	tissues
-RES00002876	Brain - Frontal Cortex (BA9), F, 50-59	36	tissues
-RES00002877	Brain - Substantia nigra, F, 50-59	13	tissues
-RES00002878	Brain - Caudate (basal ganglia), F, 50-59	19	tissues
-RES00002879	Brain - Nucleus accumbens (basal ganglia), F, 50-59	21	tissues
-RES00002880	Skin - Not Sun Exposed (Suprapubic), F, 50-59	59	tissues
-RES00002881	Brain - Cortex, F, 50-59	27	tissues
-RES00002882	Brain - Hippocampus, M, 20-29	5	tissues
-RES00002883	Brain - Nucleus accumbens (basal ganglia), M, 20-29	7	tissues
-RES00002884	Brain - Putamen (basal ganglia), M, 20-29	5	tissues
-RES00002885	Whole Blood, M, 70-79	61	tissues
-RES00002886	Cells - Cultured fibroblasts, M, 70-79	7	primary cells
-RES00002887	Brain - Frontal Cortex (BA9), M, 70-79	17	tissues
-RES00002888	Brain - Cerebellar Hemisphere, M, 70-79	13	tissues
-RES00002889	Brain - Hippocampus, M, 70-79	9	tissues
-RES00002890	Brain - Substantia nigra, M, 70-79	4	tissues
-RES00002891	Brain - Anterior cingulate cortex (BA24), M, 70-79	11	tissues
-RES00002892	Brain - Amygdala, M, 70-79	8	tissues
-RES00002893	Brain - Caudate (basal ganglia), M, 70-79	12	tissues
-RES00002894	Brain - Nucleus accumbens (basal ganglia), M, 70-79	12	tissues
-RES00002895	Brain - Putamen (basal ganglia), M, 70-79	7	tissues
-RES00002896	Nerve - Tibial, M, 70-79	17	tissues
-RES00002897	Muscle - Skeletal, M, 70-79	24	tissues
-RES00002898	Adipose - Visceral (Omentum), M, 70-79	15	tissues
-RES00002899	Skin - Not Sun Exposed (Suprapubic), M, 70-79	17	tissues
-RES00002900	Pituitary, M, 70-79	16	tissues
-RES00002901	Brain - Cortex, M, 70-79	12	tissues
-RES00002902	Kidney - Cortex, F, 50-59	6	tissues
-RES00002903	Spleen, F, 50-59	28	tissues
-RES00002904	Brain - Hippocampus, M, 50-59	50	tissues
-RES00002905	Artery - Aorta, F, 40-49	28	tissues
-RES00002906	Heart - Left Ventricle, F, 40-49	36	tissues
-RES00002907	Artery - Coronary, F, 40-49	22	tissues
-RES00002908	Uterus, F, 40-49	36	tissues
-RES00002909	Cells - EBV-transformed lymphocytes, M, 50-59	41	primary cells
-RES00002910	Cells - EBV-transformed lymphocytes, M, 40-49	26	primary cells
-RES00002911	Spleen, M, 40-49	31	tissues
-RES00002912	Artery - Aorta, M, 40-49	42	tissues
-RES00002913	Pancreas, M, 40-49	44	tissues
-RES00002914	Adrenal Gland, M, 40-49	29	tissues
-RES00002915	Minor Salivary Gland, M, 40-49	21	tissues
-RES00002916	Esophagus - Mucosa, M, 40-49	68	tissues
-RES00002917	Brain - Frontal Cortex (BA9), F, 40-49	10	tissues
-RES00002918	Brain - Cerebellar Hemisphere, F, 40-49	9	tissues
-RES00002919	Brain - Nucleus accumbens (basal ganglia), F, 40-49	8	tissues
-RES00002920	Brain - Putamen (basal ganglia), F, 40-49	6	tissues
-RES00002921	Brain - Hypothalamus, F, 40-49	6	tissues
-RES00002922	Brain - Cerebellum, F, 40-49	8	tissues
-RES00002923	Brain - Cortex, F, 40-49	11	tissues
-RES00002924	Pituitary, F, 40-49	7	tissues
-RES00002925	Brain - Cerebellar Hemisphere, F, 50-59	18	tissues
-RES00002926	Brain - Putamen (basal ganglia), F, 50-59	17	tissues
-RES00002927	Brain - Hypothalamus, F, 50-59	16	tissues
-RES00002928	Stomach, M, 40-49	38	tissues
-RES00002929	Colon - Sigmoid, M, 40-49	30	tissues
-RES00002930	Cells - Cultured fibroblasts, F, 20-29	15	primary cells
-RES00002931	Lung, F, 20-29	25	tissues
-RES00002932	Small Intestine - Terminal Ileum, F, 20-29	9	tissues
-RES00002933	Nerve - Tibial, F, 20-29	15	tissues
-RES00002934	Pancreas, F, 30-39	5	tissues
-RES00002935	Adrenal Gland, F, 30-39	5	tissues
-RES00002936	Kidney - Cortex, F, 30-39	2	tissues
-RES00002937	Artery - Coronary, F, 30-39	5	tissues
-RES00002938	Heart - Left Ventricle, F, 30-39	15	tissues
-RES00002939	Stomach, F, 30-39	13	tissues
-RES00002940	Small Intestine - Terminal Ileum, F, 30-39	9	tissues
-RES00002941	Artery - Coronary, M, 40-49	19	tissues
-RES00002942	Liver, M, 40-49	28	tissues
-RES00002943	Small Intestine - Terminal Ileum, M, 40-49	23	tissues
-RES00002944	Pancreas, F, 20-29	13	tissues
-RES00002945	Brain - Spinal cord (cervical c-1), F, 40-49	10	tissues
-RES00002946	Brain - Hypothalamus, M, 70-79	9	tissues
-RES00002947	Skin - Sun Exposed (Lower leg), M, 70-79	20	tissues
-RES00002948	Adipose - Subcutaneous, M, 70-79	14	tissues
-RES00002949	Thyroid, M, 70-79	16	tissues
-RES00002950	Brain - Spinal cord (cervical c-1), M, 70-79	10	tissues
-RES00002951	Artery - Tibial, M, 70-79	15	tissues
-RES00002952	Breast - Mammary Tissue, M, 70-79	12	tissues
-RES00002953	Lung, M, 70-79	22	tissues
-RES00002954	Heart - Atrial Appendage, M, 70-79	12	tissues
-RES00002955	Heart - Left Ventricle, M, 70-79	13	tissues
-RES00002956	Esophagus - Gastroesophageal Junction, M, 70-79	9	tissues
-RES00002957	Stomach, M, 70-79	5	tissues
-RES00002958	Testis, M, 70-79	12	tissues
-RES00002959	Brain - Cerebellar Hemisphere, M, 40-49	15	tissues
-RES00002960	Brain - Substantia nigra, M, 40-49	10	tissues
-RES00002961	Brain - Amygdala, M, 40-49	10	tissues
-RES00002962	Brain - Hypothalamus, M, 40-49	13	tissues
-RES00002963	Brain - Spinal cord (cervical c-1), M, 40-49	9	tissues
-RES00002964	Brain - Cerebellum, M, 70-79	11	tissues
-RES00002965	Minor Salivary Gland, F, 40-49	12	tissues
-RES00002966	Colon - Sigmoid, M, 70-79	8	tissues
-RES00002967	Spleen, F, 20-29	9	tissues
-RES00002968	Minor Salivary Gland, F, 20-29	3	tissues
-RES00002969	Kidney - Cortex, M, 30-39	7	tissues
-RES00002970	Esophagus - Mucosa, M, 70-79	11	tissues
-RES00002971	Esophagus - Muscularis, M, 70-79	5	tissues
-RES00002972	Adrenal Gland, M, 70-79	5	tissues
-RES00002973	Prostate, M, 70-79	7	tissues
-RES00002974	Small Intestine - Terminal Ileum, M, 70-79	3	tissues
-RES00002975	Colon - Transverse, M, 70-79	9	tissues
-RES00002976	Liver, F, 40-49	15	tissues
-RES00002977	Artery - Coronary, M, 70-79	5	tissues
-RES00002978	Artery - Aorta, M, 70-79	6	tissues
-RES00002979	Liver, M, 70-79	4	tissues
-RES00002980	Whole Blood, F, 70-79	28	tissues
-RES00002981	Brain - Frontal Cortex (BA9), F, 70-79	7	tissues
-RES00002982	Brain - Cerebellar Hemisphere, F, 70-79	7	tissues
-RES00002983	Brain - Hippocampus, F, 70-79	5	tissues
-RES00002984	Brain - Anterior cingulate cortex (BA24), F, 70-79	4	tissues
-RES00002985	Brain - Caudate (basal ganglia), F, 70-79	6	tissues
-RES00002986	Brain - Hypothalamus, F, 70-79	4	tissues
-RES00002987	Skin - Sun Exposed (Lower leg), F, 70-79	9	tissues
-RES00002988	Adipose - Subcutaneous, F, 70-79	8	tissues
-RES00002989	Nerve - Tibial, F, 70-79	7	tissues
-RES00002990	Muscle - Skeletal, F, 70-79	13	tissues
-RES00002991	Breast - Mammary Tissue, F, 70-79	6	tissues
-RES00002992	Lung, F, 70-79	5	tissues
-RES00002993	Skin - Not Sun Exposed (Suprapubic), F, 70-79	8	tissues
-RES00002994	Brain - Cerebellum, F, 70-79	4	tissues
-RES00002995	Pituitary, F, 70-79	4	tissues
-RES00002996	Adrenal Gland, F, 70-79	2	tissues
-RES00002997	Thyroid, F, 70-79	7	tissues
-RES00002998	Spleen, F, 70-79	1	tissues
-RES00002999	Artery - Aorta, F, 70-79	3	tissues
-RES00003000	Heart - Atrial Appendage, F, 70-79	5	tissues
-RES00003001	Heart - Left Ventricle, F, 70-79	5	tissues
-RES00003002	Adipose - Visceral (Omentum), F, 70-79	4	tissues
-RES00003003	Pancreas, F, 70-79	3	tissues
-RES00003004	Esophagus - Muscularis, F, 70-79	5	tissues
-RES00003005	Esophagus - Gastroesophageal Junction, F, 70-79	3	tissues
-RES00003006	Esophagus - Mucosa, F, 70-79	6	tissues
-RES00003007	Small Intestine - Terminal Ileum, F, 70-79	1	tissues
-RES00003008	Colon - Transverse, F, 70-79	2	tissues
-RES00003009	Colon - Sigmoid, F, 70-79	5	tissues
-RES00003010	Artery - Tibial, F, 70-79	5	tissues
-RES00003011	Cells - Cultured fibroblasts, F, 70-79	6	primary cells
-RES00003012	Brain - Substantia nigra, F, 70-79	1	tissues
-RES00003013	Brain - Amygdala, F, 70-79	2	tissues
-RES00003014	Brain - Nucleus accumbens (basal ganglia), F, 70-79	3	tissues
-RES00003015	Brain - Putamen (basal ganglia), F, 70-79	2	tissues
-RES00003016	Brain - Spinal cord (cervical c-1), F, 70-79	2	tissues
-RES00003017	Brain - Cortex, F, 70-79	6	tissues
-RES00003018	Brain - Frontal Cortex (BA9), F, 20-29	2	tissues
-RES00003019	Brain - Cerebellar Hemisphere, F, 20-29	3	tissues
-RES00003020	Brain - Hippocampus, F, 20-29	1	tissues
-RES00003021	Brain - Substantia nigra, F, 20-29	2	tissues
-RES00003022	Brain - Anterior cingulate cortex (BA24), F, 20-29	3	tissues
-RES00003023	Brain - Amygdala, F, 20-29	2	tissues
-RES00003024	Brain - Caudate (basal ganglia), F, 20-29	3	tissues
-RES00003025	Brain - Nucleus accumbens (basal ganglia), F, 20-29	3	tissues
-RES00003026	Brain - Putamen (basal ganglia), F, 20-29	1	tissues
-RES00003027	Brain - Hypothalamus, F, 20-29	1	tissues
-RES00003028	Brain - Spinal cord (cervical c-1), F, 20-29	1	tissues
-RES00003029	Liver, F, 20-29	4	tissues
-RES00003030	Brain - Cerebellum, F, 20-29	2	tissues
-RES00003031	Brain - Cortex, F, 20-29	4	tissues
-RES00003032	Pituitary, F, 20-29	4	tissues
-RES00003033	Brain - Amygdala, F, 40-49	6	tissues
-RES00003034	Ovary, F, 70-79	4	tissues
-RES00003035	Vagina, F, 70-79	6	tissues
-RES00003036	Spleen, M, 70-79	3	tissues
-RES00003037	Brain - Hippocampus, M, 30-39	4	tissues
-RES00003038	Brain - Anterior cingulate cortex (BA24), M, 30-39	3	tissues
-RES00003039	Brain - Amygdala, M, 30-39	3	tissues
-RES00003040	Brain - Caudate (basal ganglia), M, 30-39	5	tissues
-RES00003041	Brain - Nucleus accumbens (basal ganglia), M, 30-39	4	tissues
-RES00003042	Brain - Putamen (basal ganglia), M, 30-39	4	tissues
-RES00003043	Kidney - Cortex, M, 70-79	4	tissues
-RES00003044	Artery - Coronary, F, 70-79	1	tissues
-RES00003045	Brain - Frontal Cortex (BA9), F, 30-39	2	tissues
-RES00003046	Brain - Cerebellar Hemisphere, F, 30-39	2	tissues
-RES00003047	Brain - Hippocampus, F, 30-39	2	tissues
-RES00003048	Brain - Substantia nigra, F, 30-39	2	tissues
-RES00003049	Brain - Amygdala, F, 30-39	2	tissues
-RES00003050	Brain - Caudate (basal ganglia), F, 30-39	2	tissues
-RES00003051	Brain - Nucleus accumbens (basal ganglia), F, 30-39	2	tissues
-RES00003052	Brain - Putamen (basal ganglia), F, 30-39	2	tissues
-RES00003053	Brain - Hypothalamus, F, 30-39	2	tissues
-RES00003054	Brain - Cerebellum, F, 30-39	3	tissues
-RES00003055	Brain - Cortex, F, 30-39	2	tissues
-RES00003056	Pituitary, F, 30-39	2	tissues
-RES00003057	Minor Salivary Gland, M, 70-79	2	tissues
-RES00003058	Minor Salivary Gland, F, 50-59	11	tissues
-RES00003059	Cells - EBV-transformed lymphocytes, F, 70-79	2	primary cells
-RES00003060	Liver, F, 70-79	2	tissues
-RES00003061	Pancreas, M, 70-79	5	tissues
-RES00003062	Cells - EBV-transformed lymphocytes, M, 70-79	2	primary cells
-RES00003063	Brain - Substantia nigra, M, 30-39	3	tissues
-RES00003064	Uterus, F, 70-79	1	tissues
-RES00003065	Stomach, F, 70-79	1	tissues
-RES00003066	Kidney - Cortex, F, 40-49	3	tissues
-RES00003067	Kidney - Cortex, M, 20-29	2	tissues
-RES00003068	Liver, F, 30-39	3	tissues
-RES00003069	Cervix - Ectocervix, F, 60-69	2	tissues
-RES00003070	Fallopian Tube, F, 50-59	3	tissues
-RES00003071	Cervix - Endocervix, F, 60-69	2	tissues
-RES00003072	Bladder, M, 60-69	2	tissues
-RES00003073	Bladder, M, 40-49	4	tissues
-RES00003074	Cervix - Ectocervix, F, 40-49	4	tissues
-RES00003075	Cervix - Endocervix, F, 40-49	5	tissues
-RES00003076	Cervix - Endocervix, F, 50-59	2	tissues
-RES00003077	Brain - Anterior cingulate cortex (BA24), F, 30-39	1	tissues
-RES00003078	Brain - Spinal cord (cervical c-1), F, 30-39	3	tissues
-RES00003079	Bladder, M, 50-59	5	tissues
-RES00003080	Brain - Substantia nigra, M, 20-29	3	tissues
-RES00003081	Brain - Amygdala, M, 20-29	4	tissues
-RES00003082	Brain - Caudate (basal ganglia), M, 20-29	4	tissues
-RES00003083	Brain - Hypothalamus, M, 20-29	4	tissues
-RES00003084	Kidney - Medulla, M, 20-29	2	tissues
-RES00003085	Kidney - Medulla, F, 50-59	1	tissues
-RES00003086	Bladder, F, 50-59	2	tissues
-RES00003087	Cervix - Ectocervix, F, 50-59	1	tissues
-RES00003088	Bladder, M, 30-39	1	tissues
-RES00003089	Fallopian Tube, F, 40-49	3	tissues
-RES00003090	Bladder, M, 20-29	2	tissues
-RES00003091	Bladder, F, 40-49	3	tissues
-RES00003092	Fallopian Tube, F, 20-29	1	tissues
-RES00003093	Cervix - Ectocervix, F, 20-29	1	tissues
-RES00003094	Cervix - Endocervix, F, 20-29	1	tissues
-RES00003095	Bladder, F, 20-29	1	tissues
-RES00003096	Kidney - Medulla, M, 50-59	1	tissues
-RES00003097	Fallopian Tube, F, 60-69	1	tissues
-RES00003098	Cells - EBV-transformed lymphocytes, F, 30-39	2	primary cells
-RES00003099	Fallopian Tube, F, 30-39	1	tissues
-RES00003100	Bladder, F, 30-39	1	tissues
-RES00003101	Cervix - Ectocervix, F, 30-39	1	tissues
-RES00003102	Kidney - Cortex, F, 20-29	1	tissues
-RES00003103	Brain - Anterior cingulate cortex (BA24), M, 20-29	1	tissues
-RES00003104	Cells - Leukemia cell line (CML), F, 50-59	217	primary cells
+RefEx_Sample_ID	Description	#_of_samples	category		
+RES00002522	Whole Blood, F, 60-69	347	tissues	Whole Blood		F	60-69	UBERON_0013756	venous blood
+RES00002523	Brain - Frontal Cortex (BA9), F, 60-69	54	tissues	Brain	Frontal Cortex (BA9)	F	60-69	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002524	Adipose - Subcutaneous, F, 60-69	77	tissues	Adipose	Subcutaneous	F	60-69	UBERON_0002190	subcutaneous adipose tissue
+RES00002525	Muscle - Skeletal, F, 60-69	107	tissues	Muscle	Skeletal	F	60-69	UBERON_0011907	gastrocnemius medialis
+RES00002526	Artery - Tibial, F, 60-69	71	tissues	Artery	Tibial	F	60-69	UBERON_0007610	tibial artery
+RES00002527	Artery - Coronary, F, 60-69	33	tissues	Artery	Coronary	F	60-69	UBERON_0001621	coronary artery
+RES00002528	Heart - Atrial Appendage, F, 60-69	51	tissues	Heart	Atrial Appendage	F	60-69	UBERON_0006631	right atrium auricular region
+RES00002529	Adipose - Visceral (Omentum), F, 60-69	53	tissues	Adipose	Visceral (Omentum)	F	60-69	UBERON_0010414	omental fat pad
+RES00002530	Ovary, F, 60-69	48	tissues	Ovary		F	60-69	UBERON_0000992	ovary
+RES00002531	Uterus, F, 60-69	37	tissues	Uterus		F	60-69	UBERON_0000995	uterus
+RES00002532	Vagina, F, 60-69	42	tissues	Vagina		F	60-69	UBERON_0000996	vagina
+RES00002533	Breast - Mammary Tissue, F, 60-69	46	tissues	Breast	Mammary Tissue	F	60-69	UBERON_0008367	breast epithelium
+RES00002534	Skin - Not Sun Exposed (Suprapubic), F, 60-69	70	tissues	Skin	Not Sun Exposed (Suprapubic)	F	60-69	UBERON_0036149	suprapubic skin
+RES00002535	Minor Salivary Gland, F, 60-69	23	tissues	Minor Salivary Gland		F	60-69	UBERON_0006330	anterior lingual gland
+RES00002536	Brain - Cortex, F, 60-69	49	tissues	Brain	Cortex	F	60-69	UBERON_0001870	frontal cortex
+RES00002537	Whole Blood, M, 50-59	759	tissues	Whole Blood		M	50-59	UBERON_0013756	venous blood
+RES00002538	Adrenal Gland, M, 50-59	59	tissues	Adrenal Gland		M	50-59	UBERON_0002369	adrenal gland
+RES00002539	Thyroid, M, 50-59	186	tissues	Thyroid		M	50-59	UBERON_0002046	thyroid gland
+RES00002540	Lung, M, 50-59	218	tissues	Lung		M	50-59	UBERON_0008952	upper lobe of left lung
+RES00002541	Spleen, M, 50-59	62	tissues	Spleen		M	50-59	UBERON_0002106	spleen
+RES00002542	Pancreas, M, 50-59	81	tissues	Pancreas		M	50-59	UBERON_0001150	body of pancreas
+RES00002543	Esophagus - Muscularis, M, 50-59	126	tissues	Esophagus	Muscularis	M	50-59	UBERON_0004648	esophagus muscularis mucosa
+RES00002544	Esophagus - Mucosa, M, 50-59	137	tissues	Esophagus	Mucosa	M	50-59	UBERON_0006920	esophagus squamous epithelium
+RES00002545	Esophagus - Gastroesophageal Junction, M, 50-59	106	tissues	Esophagus	Gastroesophageal Junction	M	50-59	UBERON_0004550	gastroesophageal sphincter
+RES00002546	Stomach, M, 50-59	96	tissues	Stomach		M	50-59	UBERON_0000945	stomach
+RES00002547	Adipose - Visceral (Omentum), M, 50-59	138	tissues	Adipose	Visceral (Omentum)	M	50-59	UBERON_0010414	omental fat pad
+RES00002548	Skin - Not Sun Exposed (Suprapubic), M, 50-59	143	tissues	Skin	Not Sun Exposed (Suprapubic)	M	50-59	UBERON_0036149	suprapubic skin
+RES00002549	Colon - Sigmoid, M, 50-59	78	tissues	Colon	Sigmoid	M	50-59	UBERON_0001159	sigmoid colon
+RES00002550	Small Intestine - Terminal Ileum, M, 50-59	42	tissues	Small Intestine	Terminal Ileum	M	50-59	UBERON_0001211	Peyer's patch
+RES00002551	Colon - Transverse, M, 50-59	99	tissues	Colon	Transverse	M	50-59	UBERON_0001157	transverse colon
+RES00002552	Prostate, M, 50-59	76	tissues	Prostate		M	50-59	UBERON_0002367	prostate gland
+RES00002553	Testis, M, 50-59	130	tissues	Testis		M	50-59	UBERON_0000473	testis
+RES00002554	Adipose - Subcutaneous, M, 50-59	170	tissues	Adipose	Subcutaneous	M	50-59	UBERON_0002190	subcutaneous adipose tissue
+RES00002555	Skin - Sun Exposed (Lower leg), M, 50-59	190	tissues	Skin	Sun Exposed (Lower leg)	M	50-59	UBERON_0004264	lower leg skin
+RES00002556	Muscle - Skeletal, M, 50-59	250	tissues	Muscle	Skeletal	M	50-59	UBERON_0011907	gastrocnemius medialis
+RES00002557	Nerve - Tibial, M, 50-59	155	tissues	Nerve	Tibial	M	50-59	UBERON_0001323	tibial nerve
+RES00002558	Whole Blood, M, 60-69	671	tissues	Whole Blood		M	60-69	UBERON_0013756	venous blood
+RES00002559	Brain - Frontal Cortex (BA9), M, 60-69	147	tissues	Brain	Frontal Cortex (BA9)	M	60-69	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002560	Skin - Sun Exposed (Lower leg), M, 60-69	174	tissues	Skin	Sun Exposed (Lower leg)	M	60-69	UBERON_0004264	lower leg skin
+RES00002561	Adipose - Subcutaneous, M, 60-69	162	tissues	Adipose	Subcutaneous	M	60-69	UBERON_0002190	subcutaneous adipose tissue
+RES00002562	Muscle - Skeletal, M, 60-69	253	tissues	Muscle	Skeletal	M	60-69	UBERON_0011907	gastrocnemius medialis
+RES00002563	Artery - Tibial, M, 60-69	149	tissues	Artery	Tibial	M	60-69	UBERON_0007610	tibial artery
+RES00002564	Nerve - Tibial, M, 60-69	155	tissues	Nerve	Tibial	M	60-69	UBERON_0001323	tibial nerve
+RES00002565	Heart - Atrial Appendage, M, 60-69	119	tissues	Heart	Atrial Appendage	M	60-69	UBERON_0006631	right atrium auricular region
+RES00002566	Heart - Left Ventricle, M, 60-69	155	tissues	Heart	Left Ventricle	M	60-69	UBERON_0006566	left ventricle myocardium
+RES00002567	Thyroid, M, 60-69	177	tissues	Thyroid		M	60-69	UBERON_0002046	thyroid gland
+RES00002568	Lung, M, 60-69	176	tissues	Lung		M	60-69	UBERON_0008952	upper lobe of left lung
+RES00002569	Spleen, M, 60-69	33	tissues	Spleen		M	60-69	UBERON_0002106	spleen
+RES00002570	Testis, M, 60-69	133	tissues	Testis		M	60-69	UBERON_0000473	testis
+RES00002571	Prostate, M, 60-69	81	tissues	Prostate		M	60-69	UBERON_0002367	prostate gland
+RES00002572	Skin - Not Sun Exposed (Suprapubic), M, 60-69	142	tissues	Skin	Not Sun Exposed (Suprapubic)	M	60-69	UBERON_0036149	suprapubic skin
+RES00002573	Minor Salivary Gland, M, 60-69	39	tissues	Minor Salivary Gland		M	60-69	UBERON_0006330	anterior lingual gland
+RES00002574	Pituitary, M, 60-69	110	tissues	Pituitary		M	60-69	UBERON_0000007	pituitary gland
+RES00002575	Brain - Cortex, M, 60-69	108	tissues	Brain	Cortex	M	60-69	UBERON_0001870	frontal cortex
+RES00002576	Brain - Cerebellum, M, 60-69	93	tissues	Brain	Cerebellum	M	60-69	UBERON_0002037	cerebellum
+RES00002577	Cells - Cultured fibroblasts, M, 60-69	109	primary cells	Cells	Cultured fibroblasts	M	60-69	EFO_0002009	fibroblast derived cell line
+RES00002578	Colon - Transverse, M, 60-69	66	tissues	Colon	Transverse	M	60-69	UBERON_0001157	transverse colon
+RES00002579	Adrenal Gland, M, 60-69	45	tissues	Adrenal Gland		M	60-69	UBERON_0002369	adrenal gland
+RES00002580	Artery - Aorta, M, 60-69	90	tissues	Artery	Aorta	M	60-69	UBERON_0001496	ascending aorta
+RES00002581	Esophagus - Gastroesophageal Junction, M, 60-69	60	tissues	Esophagus	Gastroesophageal Junction	M	60-69	UBERON_0004550	gastroesophageal sphincter
+RES00002582	Esophagus - Mucosa, M, 60-69	109	tissues	Esophagus	Mucosa	M	60-69	UBERON_0006920	esophagus squamous epithelium
+RES00002583	Esophagus - Muscularis, M, 60-69	99	tissues	Esophagus	Muscularis	M	60-69	UBERON_0004648	esophagus muscularis mucosa
+RES00002584	Stomach, M, 60-69	48	tissues	Stomach		M	60-69	UBERON_0000945	stomach
+RES00002585	Pancreas, M, 60-69	52	tissues	Pancreas		M	60-69	UBERON_0001150	body of pancreas
+RES00002586	Adipose - Visceral (Omentum), M, 60-69	120	tissues	Adipose	Visceral (Omentum)	M	60-69	UBERON_0010414	omental fat pad
+RES00002587	Small Intestine - Terminal Ileum, M, 60-69	23	tissues	Small Intestine	Terminal Ileum	M	60-69	UBERON_0001211	Peyer's patch
+RES00002588	Colon - Sigmoid, M, 60-69	84	tissues	Colon	Sigmoid	M	60-69	UBERON_0001159	sigmoid colon
+RES00002589	Breast - Mammary Tissue, M, 60-69	99	tissues	Breast	Mammary Tissue	M	60-69	UBERON_0008367	breast epithelium
+RES00002590	Cells - EBV-transformed lymphocytes, F, 60-69	21	primary cells	Cells	EBV-transformed lymphocytes	F	60-69	EFO_0000572	lymphoblast
+RES00002591	Cells - Cultured fibroblasts, F, 60-69	52	primary cells	Cells	Cultured fibroblasts	F	60-69	EFO_0002009	fibroblast derived cell line
+RES00002592	Lung, F, 60-69	90	tissues	Lung		F	60-69	UBERON_0008952	upper lobe of left lung
+RES00002593	Thyroid, F, 60-69	77	tissues	Thyroid		F	60-69	UBERON_0002046	thyroid gland
+RES00002594	Adrenal Gland, F, 60-69	37	tissues	Adrenal Gland		F	60-69	UBERON_0002369	adrenal gland
+RES00002595	Spleen, F, 60-69	25	tissues	Spleen		F	60-69	UBERON_0002106	spleen
+RES00002596	Pancreas, F, 60-69	35	tissues	Pancreas		F	60-69	UBERON_0001150	body of pancreas
+RES00002597	Heart - Left Ventricle, F, 60-69	72	tissues	Heart	Left Ventricle	F	60-69	UBERON_0006566	left ventricle myocardium
+RES00002598	Artery - Aorta, F, 60-69	46	tissues	Artery	Aorta	F	60-69	UBERON_0001496	ascending aorta
+RES00002599	Small Intestine - Terminal Ileum, F, 60-69	19	tissues	Small Intestine	Terminal Ileum	F	60-69	UBERON_0001211	Peyer's patch
+RES00002600	Colon - Sigmoid, F, 60-69	43	tissues	Colon	Sigmoid	F	60-69	UBERON_0001159	sigmoid colon
+RES00002601	Colon - Transverse, F, 60-69	38	tissues	Colon	Transverse	F	60-69	UBERON_0001157	transverse colon
+RES00002602	Esophagus - Muscularis, F, 60-69	48	tissues	Esophagus	Muscularis	F	60-69	UBERON_0004648	esophagus muscularis mucosa
+RES00002603	Esophagus - Mucosa, F, 60-69	65	tissues	Esophagus	Mucosa	F	60-69	UBERON_0006920	esophagus squamous epithelium
+RES00002604	Esophagus - Gastroesophageal Junction, F, 60-69	38	tissues	Esophagus	Gastroesophageal Junction	F	60-69	UBERON_0004550	gastroesophageal sphincter
+RES00002605	Stomach, F, 60-69	38	tissues	Stomach		F	60-69	UBERON_0000945	stomach
+RES00002606	Skin - Sun Exposed (Lower leg), F, 60-69	95	tissues	Skin	Sun Exposed (Lower leg)	F	60-69	UBERON_0004264	lower leg skin
+RES00002607	Pituitary, F, 60-69	35	tissues	Pituitary		F	60-69	UBERON_0000007	pituitary gland
+RES00002608	Brain - Cerebellum, F, 60-69	53	tissues	Brain	Cerebellum	F	60-69	UBERON_0002037	cerebellum
+RES00002609	Whole Blood, F, 50-59	333	tissues	Whole Blood		F	50-59	UBERON_0013756	venous blood
+RES00002610	Cells - Cultured fibroblasts, F, 50-59	57	primary cells	Cells	Cultured fibroblasts	F	50-59	EFO_0002009	fibroblast derived cell line
+RES00002611	Thyroid, F, 50-59	83	tissues	Thyroid		F	50-59	UBERON_0002046	thyroid gland
+RES00002612	Adipose - Visceral (Omentum), F, 50-59	53	tissues	Adipose	Visceral (Omentum)	F	50-59	UBERON_0010414	omental fat pad
+RES00002613	Esophagus - Muscularis, F, 50-59	50	tissues	Esophagus	Muscularis	F	50-59	UBERON_0004648	esophagus muscularis mucosa
+RES00002614	Esophagus - Gastroesophageal Junction, F, 50-59	42	tissues	Esophagus	Gastroesophageal Junction	F	50-59	UBERON_0004550	gastroesophageal sphincter
+RES00002615	Vagina, F, 50-59	52	tissues	Vagina		F	50-59	UBERON_0000996	vagina
+RES00002616	Uterus, F, 50-59	49	tissues	Uterus		F	50-59	UBERON_0000995	uterus
+RES00002617	Skin - Sun Exposed (Lower leg), F, 50-59	83	tissues	Skin	Sun Exposed (Lower leg)	F	50-59	UBERON_0004264	lower leg skin
+RES00002618	Muscle - Skeletal, F, 50-59	116	tissues	Muscle	Skeletal	F	50-59	UBERON_0011907	gastrocnemius medialis
+RES00002619	Pituitary, F, 50-59	30	tissues	Pituitary		F	50-59	UBERON_0000007	pituitary gland
+RES00002620	Cells - Cultured fibroblasts, M, 50-59	117	primary cells	Cells	Cultured fibroblasts	M	50-59	EFO_0002009	fibroblast derived cell line
+RES00002621	Artery - Aorta, M, 50-59	104	tissues	Artery	Aorta	M	50-59	UBERON_0001496	ascending aorta
+RES00002622	Heart - Left Ventricle, M, 50-59	168	tissues	Heart	Left Ventricle	M	50-59	UBERON_0006566	left ventricle myocardium
+RES00002623	Heart - Atrial Appendage, M, 50-59	115	tissues	Heart	Atrial Appendage	M	50-59	UBERON_0006631	right atrium auricular region
+RES00002624	Artery - Tibial, M, 50-59	180	tissues	Artery	Tibial	M	50-59	UBERON_0007610	tibial artery
+RES00002625	Pituitary, M, 50-59	61	tissues	Pituitary		M	50-59	UBERON_0000007	pituitary gland
+RES00002626	Brain - Cortex, M, 50-59	69	tissues	Brain	Cortex	M	50-59	UBERON_0001870	frontal cortex
+RES00002627	Breast - Mammary Tissue, M, 50-59	94	tissues	Breast	Mammary Tissue	M	50-59	UBERON_0008367	breast epithelium
+RES00002628	Artery - Coronary, M, 50-59	67	tissues	Artery	Coronary	M	50-59	UBERON_0001621	coronary artery
+RES00002629	Brain - Frontal Cortex (BA9), M, 50-59	105	tissues	Brain	Frontal Cortex (BA9)	M	50-59	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002630	Brain - Cerebellar Hemisphere, M, 50-59	61	tissues	Brain	Cerebellar Hemisphere	M	50-59	UBERON_0002037	cerebellum
+RES00002631	Brain - Caudate (basal ganglia), M, 50-59	68	tissues	Brain	Caudate (basal ganglia)	M	50-59	UBERON_0001873	caudate nucleus
+RES00002632	Brain - Nucleus accumbens (basal ganglia), M, 50-59	65	tissues	Brain	Nucleus accumbens (basal ganglia)	M	50-59	UBERON_0001882	nucleus accumbens
+RES00002633	Brain - Putamen (basal ganglia), M, 50-59	58	tissues	Brain	Putamen (basal ganglia)	M	50-59	UBERON_0001874	putamen
+RES00002634	Brain - Hypothalamus, M, 50-59	55	tissues	Brain	Hypothalamus	M	50-59	UBERON_0001898	hypothalamus
+RES00002635	Brain - Spinal cord (cervical c-1), M, 50-59	36	tissues	Brain	Spinal cord (cervical c-1)	M	50-59	UBERON_0006469	C1 segment of cervical spinal cord
+RES00002636	Liver, M, 50-59	65	tissues	Liver		M	50-59	UBERON_0001114	right lobe of liver
+RES00002637	Minor Salivary Gland, M, 50-59	43	tissues	Minor Salivary Gland		M	50-59	UBERON_0006330	anterior lingual gland
+RES00002638	Brain - Cerebellum, M, 50-59	66	tissues	Brain	Cerebellum	M	50-59	UBERON_0002037	cerebellum
+RES00002639	Whole Blood, M, 40-49	303	tissues	Whole Blood		M	40-49	UBERON_0013756	venous blood
+RES00002640	Cells - Cultured fibroblasts, M, 40-49	53	primary cells	Cells	Cultured fibroblasts	M	40-49	EFO_0002009	fibroblast derived cell line
+RES00002641	Brain - Frontal Cortex (BA9), M, 40-49	30	tissues	Brain	Frontal Cortex (BA9)	M	40-49	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002642	Brain - Hippocampus, M, 40-49	18	tissues	Brain	Hippocampus	M	40-49	UBERON_0001954	Ammon's horn
+RES00002643	Brain - Anterior cingulate cortex (BA24), M, 40-49	22	tissues	Brain	Anterior cingulate cortex (BA24)	M	40-49	UBERON_0009835	anterior cingulate cortex
+RES00002644	Brain - Caudate (basal ganglia), M, 40-49	20	tissues	Brain	Caudate (basal ganglia)	M	40-49	UBERON_0001873	caudate nucleus
+RES00002645	Brain - Nucleus accumbens (basal ganglia), M, 40-49	20	tissues	Brain	Nucleus accumbens (basal ganglia)	M	40-49	UBERON_0001882	nucleus accumbens
+RES00002646	Brain - Putamen (basal ganglia), M, 40-49	15	tissues	Brain	Putamen (basal ganglia)	M	40-49	UBERON_0001874	putamen
+RES00002647	Skin - Sun Exposed (Lower leg), M, 40-49	76	tissues	Skin	Sun Exposed (Lower leg)	M	40-49	UBERON_0004264	lower leg skin
+RES00002648	Adipose - Subcutaneous, M, 40-49	67	tissues	Adipose	Subcutaneous	M	40-49	UBERON_0002190	subcutaneous adipose tissue
+RES00002649	Nerve - Tibial, M, 40-49	69	tissues	Nerve	Tibial	M	40-49	UBERON_0001323	tibial nerve
+RES00002650	Artery - Tibial, M, 40-49	78	tissues	Artery	Tibial	M	40-49	UBERON_0007610	tibial artery
+RES00002651	Breast - Mammary Tissue, M, 40-49	37	tissues	Breast	Mammary Tissue	M	40-49	UBERON_0008367	breast epithelium
+RES00002652	Muscle - Skeletal, M, 40-49	100	tissues	Muscle	Skeletal	M	40-49	UBERON_0011907	gastrocnemius medialis
+RES00002653	Skin - Not Sun Exposed (Suprapubic), M, 40-49	56	tissues	Skin	Not Sun Exposed (Suprapubic)	M	40-49	UBERON_0036149	suprapubic skin
+RES00002654	Brain - Cerebellum, M, 40-49	22	tissues	Brain	Cerebellum	M	40-49	UBERON_0002037	cerebellum
+RES00002655	Brain - Cortex, M, 40-49	24	tissues	Brain	Cortex	M	40-49	UBERON_0001870	frontal cortex
+RES00002656	Pituitary, M, 40-49	21	tissues	Pituitary		M	40-49	UBERON_0000007	pituitary gland
+RES00002657	Nerve - Tibial, F, 60-69	74	tissues	Nerve	Tibial	F	60-69	UBERON_0001323	tibial nerve
+RES00002658	Brain - Cerebellar Hemisphere, M, 60-69	89	tissues	Brain	Cerebellar Hemisphere	M	60-69	UBERON_0002037	cerebellum
+RES00002659	Brain - Caudate (basal ganglia), M, 60-69	99	tissues	Brain	Caudate (basal ganglia)	M	60-69	UBERON_0001873	caudate nucleus
+RES00002660	Brain - Nucleus accumbens (basal ganglia), M, 60-69	92	tissues	Brain	Nucleus accumbens (basal ganglia)	M	60-69	UBERON_0001882	nucleus accumbens
+RES00002661	Brain - Putamen (basal ganglia), M, 60-69	83	tissues	Brain	Putamen (basal ganglia)	M	60-69	UBERON_0001874	putamen
+RES00002662	Brain - Hypothalamus, M, 60-69	85	tissues	Brain	Hypothalamus	M	60-69	UBERON_0001898	hypothalamus
+RES00002663	Liver, M, 60-69	61	tissues	Liver		M	60-69	UBERON_0001114	right lobe of liver
+RES00002664	Artery - Coronary, M, 60-69	47	tissues	Artery	Coronary	M	60-69	UBERON_0001621	coronary artery
+RES00002665	Brain - Substantia nigra, M, 50-59	32	tissues	Brain	Substantia nigra	M	50-59	UBERON_0002038	substantia nigra
+RES00002666	Brain - Anterior cingulate cortex (BA24), M, 50-59	38	tissues	Brain	Anterior cingulate cortex (BA24)	M	50-59	UBERON_0009835	anterior cingulate cortex
+RES00002667	Brain - Hippocampus, M, 60-69	87	tissues	Brain	Hippocampus	M	60-69	UBERON_0001954	Ammon's horn
+RES00002668	Cells - EBV-transformed lymphocytes, F, 20-29	10	primary cells	Cells	EBV-transformed lymphocytes	F	20-29	EFO_0000572	lymphoblast
+RES00002669	Whole Blood, F, 20-29	122	tissues	Whole Blood		F	20-29	UBERON_0013756	venous blood
+RES00002670	Thyroid, F, 20-29	24	tissues	Thyroid		F	20-29	UBERON_0002046	thyroid gland
+RES00002671	Artery - Aorta, F, 20-29	15	tissues	Artery	Aorta	F	20-29	UBERON_0001496	ascending aorta
+RES00002672	Adrenal Gland, F, 20-29	8	tissues	Adrenal Gland		F	20-29	UBERON_0002369	adrenal gland
+RES00002673	Heart - Atrial Appendage, F, 20-29	5	tissues	Heart	Atrial Appendage	F	20-29	UBERON_0006631	right atrium auricular region
+RES00002674	Artery - Coronary, F, 20-29	7	tissues	Artery	Coronary	F	20-29	UBERON_0001621	coronary artery
+RES00002675	Heart - Left Ventricle, F, 20-29	22	tissues	Heart	Left Ventricle	F	20-29	UBERON_0006566	left ventricle myocardium
+RES00002676	Esophagus - Muscularis, F, 20-29	23	tissues	Esophagus	Muscularis	F	20-29	UBERON_0004648	esophagus muscularis mucosa
+RES00002677	Esophagus - Mucosa, F, 20-29	23	tissues	Esophagus	Mucosa	F	20-29	UBERON_0006920	esophagus squamous epithelium
+RES00002678	Esophagus - Gastroesophageal Junction, F, 20-29	8	tissues	Esophagus	Gastroesophageal Junction	F	20-29	UBERON_0004550	gastroesophageal sphincter
+RES00002679	Stomach, F, 20-29	17	tissues	Stomach		F	20-29	UBERON_0000945	stomach
+RES00002680	Adipose - Visceral (Omentum), F, 20-29	16	tissues	Adipose	Visceral (Omentum)	F	20-29	UBERON_0010414	omental fat pad
+RES00002681	Skin - Not Sun Exposed (Suprapubic), F, 20-29	14	tissues	Skin	Not Sun Exposed (Suprapubic)	F	20-29	UBERON_0036149	suprapubic skin
+RES00002682	Breast - Mammary Tissue, F, 20-29	14	tissues	Breast	Mammary Tissue	F	20-29	UBERON_0008367	breast epithelium
+RES00002683	Colon - Transverse, F, 20-29	17	tissues	Colon	Transverse	F	20-29	UBERON_0001157	transverse colon
+RES00002684	Colon - Sigmoid, F, 20-29	13	tissues	Colon	Sigmoid	F	20-29	UBERON_0001159	sigmoid colon
+RES00002685	Ovary, F, 20-29	22	tissues	Ovary		F	20-29	UBERON_0000992	ovary
+RES00002686	Vagina, F, 20-29	18	tissues	Vagina		F	20-29	UBERON_0000996	vagina
+RES00002687	Uterus, F, 20-29	23	tissues	Uterus		F	20-29	UBERON_0000995	uterus
+RES00002688	Muscle - Skeletal, F, 20-29	35	tissues	Muscle	Skeletal	F	20-29	UBERON_0011907	gastrocnemius medialis
+RES00002689	Artery - Tibial, F, 20-29	27	tissues	Artery	Tibial	F	20-29	UBERON_0007610	tibial artery
+RES00002690	Adipose - Subcutaneous, F, 20-29	24	tissues	Adipose	Subcutaneous	F	20-29	UBERON_0002190	subcutaneous adipose tissue
+RES00002691	Skin - Sun Exposed (Lower leg), F, 20-29	29	tissues	Skin	Sun Exposed (Lower leg)	F	20-29	UBERON_0004264	lower leg skin
+RES00002692	Brain - Cerebellar Hemisphere, F, 60-69	35	tissues	Brain	Cerebellar Hemisphere	F	60-69	UBERON_0002037	cerebellum
+RES00002693	Brain - Substantia nigra, F, 60-69	24	tissues	Brain	Substantia nigra	F	60-69	UBERON_0002038	substantia nigra
+RES00002694	Brain - Hypothalamus, F, 60-69	38	tissues	Brain	Hypothalamus	F	60-69	UBERON_0001898	hypothalamus
+RES00002695	Brain - Spinal cord (cervical c-1), F, 60-69	37	tissues	Brain	Spinal cord (cervical c-1)	F	60-69	UBERON_0006469	C1 segment of cervical spinal cord
+RES00002696	Cells - EBV-transformed lymphocytes, M, 30-39	10	primary cells	Cells	EBV-transformed lymphocytes	M	30-39	EFO_0000572	lymphoblast
+RES00002697	Whole Blood, M, 30-39	183	tissues	Whole Blood		M	30-39	UBERON_0013756	venous blood
+RES00002698	Cells - Cultured fibroblasts, M, 30-39	24	primary cells	Cells	Cultured fibroblasts	M	30-39	EFO_0002009	fibroblast derived cell line
+RES00002699	Adrenal Gland, M, 30-39	16	tissues	Adrenal Gland		M	30-39	UBERON_0002369	adrenal gland
+RES00002700	Lung, M, 30-39	41	tissues	Lung		M	30-39	UBERON_0008952	upper lobe of left lung
+RES00002701	Spleen, M, 30-39	23	tissues	Spleen		M	30-39	UBERON_0002106	spleen
+RES00002702	Liver, M, 30-39	16	tissues	Liver		M	30-39	UBERON_0001114	right lobe of liver
+RES00002703	Thyroid, M, 30-39	42	tissues	Thyroid		M	30-39	UBERON_0002046	thyroid gland
+RES00002704	Esophagus - Mucosa, M, 30-39	42	tissues	Esophagus	Mucosa	M	30-39	UBERON_0006920	esophagus squamous epithelium
+RES00002705	Esophagus - Muscularis, M, 30-39	37	tissues	Esophagus	Muscularis	M	30-39	UBERON_0004648	esophagus muscularis mucosa
+RES00002706	Esophagus - Gastroesophageal Junction, M, 30-39	26	tissues	Esophagus	Gastroesophageal Junction	M	30-39	UBERON_0004550	gastroesophageal sphincter
+RES00002707	Pancreas, M, 30-39	27	tissues	Pancreas		M	30-39	UBERON_0001150	body of pancreas
+RES00002708	Adipose - Visceral (Omentum), M, 30-39	31	tissues	Adipose	Visceral (Omentum)	M	30-39	UBERON_0010414	omental fat pad
+RES00002709	Stomach, M, 30-39	26	tissues	Stomach		M	30-39	UBERON_0000945	stomach
+RES00002710	Small Intestine - Terminal Ileum, M, 30-39	13	tissues	Small Intestine	Terminal Ileum	M	30-39	UBERON_0001211	Peyer's patch
+RES00002711	Colon - Transverse, M, 30-39	33	tissues	Colon	Transverse	M	30-39	UBERON_0001157	transverse colon
+RES00002712	Colon - Sigmoid, M, 30-39	25	tissues	Colon	Sigmoid	M	30-39	UBERON_0001159	sigmoid colon
+RES00002713	Skin - Not Sun Exposed (Suprapubic), M, 30-39	38	tissues	Skin	Not Sun Exposed (Suprapubic)	M	30-39	UBERON_0036149	suprapubic skin
+RES00002714	Prostate, M, 30-39	28	tissues	Prostate		M	30-39	UBERON_0002367	prostate gland
+RES00002715	Breast - Mammary Tissue, M, 30-39	33	tissues	Breast	Mammary Tissue	M	30-39	UBERON_0008367	breast epithelium
+RES00002716	Testis, M, 30-39	35	tissues	Testis		M	30-39	UBERON_0000473	testis
+RES00002717	Minor Salivary Gland, M, 30-39	12	tissues	Minor Salivary Gland		M	30-39	UBERON_0006330	anterior lingual gland
+RES00002718	Muscle - Skeletal, M, 30-39	69	tissues	Muscle	Skeletal	M	30-39	UBERON_0011907	gastrocnemius medialis
+RES00002719	Artery - Tibial, M, 30-39	50	tissues	Artery	Tibial	M	30-39	UBERON_0007610	tibial artery
+RES00002720	Nerve - Tibial, M, 30-39	44	tissues	Nerve	Tibial	M	30-39	UBERON_0001323	tibial nerve
+RES00002721	Skin - Sun Exposed (Lower leg), M, 30-39	49	tissues	Skin	Sun Exposed (Lower leg)	M	30-39	UBERON_0004264	lower leg skin
+RES00002722	Adipose - Subcutaneous, M, 30-39	46	tissues	Adipose	Subcutaneous	M	30-39	UBERON_0002190	subcutaneous adipose tissue
+RES00002723	Brain - Substantia nigra, M, 60-69	64	tissues	Brain	Substantia nigra	M	60-69	UBERON_0002038	substantia nigra
+RES00002724	Kidney - Cortex, M, 60-69	31	tissues	Kidney	Cortex	M	60-69	UBERON_0001225	cortex of kidney
+RES00002725	Brain - Anterior cingulate cortex (BA24), M, 60-69	76	tissues	Brain	Anterior cingulate cortex (BA24)	M	60-69	UBERON_0009835	anterior cingulate cortex
+RES00002726	Brain - Hippocampus, F, 60-69	32	tissues	Brain	Hippocampus	F	60-69	UBERON_0001954	Ammon's horn
+RES00002727	Brain - Anterior cingulate cortex (BA24), F, 60-69	32	tissues	Brain	Anterior cingulate cortex (BA24)	F	60-69	UBERON_0009835	anterior cingulate cortex
+RES00002728	Brain - Caudate (basal ganglia), F, 60-69	42	tissues	Brain	Caudate (basal ganglia)	F	60-69	UBERON_0001873	caudate nucleus
+RES00002729	Brain - Nucleus accumbens (basal ganglia), F, 60-69	40	tissues	Brain	Nucleus accumbens (basal ganglia)	F	60-69	UBERON_0001882	nucleus accumbens
+RES00002730	Brain - Putamen (basal ganglia), F, 60-69	32	tissues	Brain	Putamen (basal ganglia)	F	60-69	UBERON_0001874	putamen
+RES00002731	Liver, F, 60-69	25	tissues	Liver		F	60-69	UBERON_0001114	right lobe of liver
+RES00002732	Cells - EBV-transformed lymphocytes, F, 50-59	21	primary cells	Cells	EBV-transformed lymphocytes	F	50-59	EFO_0000572	lymphoblast
+RES00002733	Lung, F, 50-59	74	tissues	Lung		F	50-59	UBERON_0008952	upper lobe of left lung
+RES00002734	Pancreas, F, 50-59	48	tissues	Pancreas		F	50-59	UBERON_0001150	body of pancreas
+RES00002735	Artery - Aorta, F, 50-59	52	tissues	Artery	Aorta	F	50-59	UBERON_0001496	ascending aorta
+RES00002736	Heart - Left Ventricle, F, 50-59	73	tissues	Heart	Left Ventricle	F	50-59	UBERON_0006566	left ventricle myocardium
+RES00002737	Artery - Coronary, F, 50-59	30	tissues	Artery	Coronary	F	50-59	UBERON_0001621	coronary artery
+RES00002738	Small Intestine - Terminal Ileum, F, 50-59	17	tissues	Small Intestine	Terminal Ileum	F	50-59	UBERON_0001211	Peyer's patch
+RES00002739	Colon - Transverse, F, 50-59	46	tissues	Colon	Transverse	F	50-59	UBERON_0001157	transverse colon
+RES00002740	Colon - Sigmoid, F, 50-59	37	tissues	Colon	Sigmoid	F	50-59	UBERON_0001159	sigmoid colon
+RES00002741	Esophagus - Mucosa, F, 50-59	62	tissues	Esophagus	Mucosa	F	50-59	UBERON_0006920	esophagus squamous epithelium
+RES00002742	Stomach, F, 50-59	41	tissues	Stomach		F	50-59	UBERON_0000945	stomach
+RES00002743	Adrenal Gland, F, 50-59	33	tissues	Adrenal Gland		F	50-59	UBERON_0002369	adrenal gland
+RES00002744	Ovary, F, 50-59	62	tissues	Ovary		F	50-59	UBERON_0000992	ovary
+RES00002745	Breast - Mammary Tissue, F, 50-59	51	tissues	Breast	Mammary Tissue	F	50-59	UBERON_0008367	breast epithelium
+RES00002746	Artery - Tibial, F, 50-59	80	tissues	Artery	Tibial	F	50-59	UBERON_0007610	tibial artery
+RES00002747	Adipose - Subcutaneous, F, 50-59	81	tissues	Adipose	Subcutaneous	F	50-59	UBERON_0002190	subcutaneous adipose tissue
+RES00002748	Whole Blood, F, 40-49	224	tissues	Whole Blood		F	40-49	UBERON_0013756	venous blood
+RES00002749	Cells - Cultured fibroblasts, F, 40-49	41	primary cells	Cells	Cultured fibroblasts	F	40-49	EFO_0002009	fibroblast derived cell line
+RES00002750	Skin - Sun Exposed (Lower leg), F, 40-49	59	tissues	Skin	Sun Exposed (Lower leg)	F	40-49	UBERON_0004264	lower leg skin
+RES00002751	Adipose - Subcutaneous, F, 40-49	55	tissues	Adipose	Subcutaneous	F	40-49	UBERON_0002190	subcutaneous adipose tissue
+RES00002752	Nerve - Tibial, F, 40-49	52	tissues	Nerve	Tibial	F	40-49	UBERON_0001323	tibial nerve
+RES00002753	Artery - Tibial, F, 40-49	57	tissues	Artery	Tibial	F	40-49	UBERON_0007610	tibial artery
+RES00002754	Skin - Not Sun Exposed (Suprapubic), F, 40-49	41	tissues	Skin	Not Sun Exposed (Suprapubic)	F	40-49	UBERON_0036149	suprapubic skin
+RES00002755	Lung, F, 40-49	55	tissues	Lung		F	40-49	UBERON_0008952	upper lobe of left lung
+RES00002756	Esophagus - Mucosa, F, 40-49	43	tissues	Esophagus	Mucosa	F	40-49	UBERON_0006920	esophagus squamous epithelium
+RES00002757	Pancreas, F, 40-49	30	tissues	Pancreas		F	40-49	UBERON_0001150	body of pancreas
+RES00002758	Colon - Transverse, F, 40-49	38	tissues	Colon	Transverse	F	40-49	UBERON_0001157	transverse colon
+RES00002759	Breast - Mammary Tissue, F, 40-49	44	tissues	Breast	Mammary Tissue	F	40-49	UBERON_0008367	breast epithelium
+RES00002760	Heart - Atrial Appendage, F, 40-49	26	tissues	Heart	Atrial Appendage	F	40-49	UBERON_0006631	right atrium auricular region
+RES00002761	Thyroid, F, 40-49	64	tissues	Thyroid		F	40-49	UBERON_0002046	thyroid gland
+RES00002762	Artery - Aorta, M, 30-39	26	tissues	Artery	Aorta	M	30-39	UBERON_0001496	ascending aorta
+RES00002763	Heart - Atrial Appendage, M, 30-39	11	tissues	Heart	Atrial Appendage	M	30-39	UBERON_0006631	right atrium auricular region
+RES00002764	Heart - Left Ventricle, M, 30-39	37	tissues	Heart	Left Ventricle	M	30-39	UBERON_0006566	left ventricle myocardium
+RES00002765	Whole Blood, M, 20-29	189	tissues	Whole Blood		M	20-29	UBERON_0013756	venous blood
+RES00002766	Cells - Cultured fibroblasts, M, 20-29	31	primary cells	Cells	Cultured fibroblasts	M	20-29	EFO_0002009	fibroblast derived cell line
+RES00002767	Thyroid, M, 20-29	43	tissues	Thyroid		M	20-29	UBERON_0002046	thyroid gland
+RES00002768	Adrenal Gland, M, 20-29	14	tissues	Adrenal Gland		M	20-29	UBERON_0002369	adrenal gland
+RES00002769	Lung, M, 20-29	35	tissues	Lung		M	20-29	UBERON_0008952	upper lobe of left lung
+RES00002770	Spleen, M, 20-29	15	tissues	Spleen		M	20-29	UBERON_0002106	spleen
+RES00002771	Pancreas, M, 20-29	17	tissues	Pancreas		M	20-29	UBERON_0001150	body of pancreas
+RES00002772	Skin - Not Sun Exposed (Suprapubic), M, 20-29	36	tissues	Skin	Not Sun Exposed (Suprapubic)	M	20-29	UBERON_0036149	suprapubic skin
+RES00002773	Prostate, M, 20-29	31	tissues	Prostate		M	20-29	UBERON_0002367	prostate gland
+RES00002774	Breast - Mammary Tissue, M, 20-29	27	tissues	Breast	Mammary Tissue	M	20-29	UBERON_0008367	breast epithelium
+RES00002775	Testis, M, 20-29	38	tissues	Testis		M	20-29	UBERON_0000473	testis
+RES00002776	Esophagus - Mucosa, M, 20-29	39	tissues	Esophagus	Mucosa	M	20-29	UBERON_0006920	esophagus squamous epithelium
+RES00002777	Esophagus - Muscularis, M, 20-29	42	tissues	Esophagus	Muscularis	M	20-29	UBERON_0004648	esophagus muscularis mucosa
+RES00002778	Stomach, M, 20-29	28	tissues	Stomach		M	20-29	UBERON_0000945	stomach
+RES00002779	Colon - Transverse, M, 20-29	27	tissues	Colon	Transverse	M	20-29	UBERON_0001157	transverse colon
+RES00002780	Small Intestine - Terminal Ileum, M, 20-29	19	tissues	Small Intestine	Terminal Ileum	M	20-29	UBERON_0001211	Peyer's patch
+RES00002781	Nerve - Tibial, M, 20-29	45	tissues	Nerve	Tibial	M	20-29	UBERON_0001323	tibial nerve
+RES00002782	Muscle - Skeletal, M, 20-29	59	tissues	Muscle	Skeletal	M	20-29	UBERON_0011907	gastrocnemius medialis
+RES00002783	Skin - Sun Exposed (Lower leg), M, 20-29	48	tissues	Skin	Sun Exposed (Lower leg)	M	20-29	UBERON_0004264	lower leg skin
+RES00002784	Brain - Amygdala, M, 50-59	42	tissues	Brain	Amygdala	M	50-59	UBERON_0001876	amygdala
+RES00002785	Testis, M, 40-49	58	tissues	Testis		M	40-49	UBERON_0000473	testis
+RES00002786	Heart - Atrial Appendage, M, 40-49	39	tissues	Heart	Atrial Appendage	M	40-49	UBERON_0006631	right atrium auricular region
+RES00002787	Heart - Left Ventricle, M, 40-49	71	tissues	Heart	Left Ventricle	M	40-49	UBERON_0006566	left ventricle myocardium
+RES00002788	Lung, M, 40-49	104	tissues	Lung		M	40-49	UBERON_0008952	upper lobe of left lung
+RES00002789	Kidney - Cortex, M, 40-49	8	tissues	Kidney	Cortex	M	40-49	UBERON_0001225	cortex of kidney
+RES00002790	Esophagus - Muscularis, M, 40-49	56	tissues	Esophagus	Muscularis	M	40-49	UBERON_0004648	esophagus muscularis mucosa
+RES00002791	Esophagus - Gastroesophageal Junction, M, 40-49	41	tissues	Esophagus	Gastroesophageal Junction	M	40-49	UBERON_0004550	gastroesophageal sphincter
+RES00002792	Colon - Transverse, M, 40-49	41	tissues	Colon	Transverse	M	40-49	UBERON_0001157	transverse colon
+RES00002793	Thyroid, M, 40-49	76	tissues	Thyroid		M	40-49	UBERON_0002046	thyroid gland
+RES00002794	Prostate, M, 40-49	39	tissues	Prostate		M	40-49	UBERON_0002367	prostate gland
+RES00002795	Cells - EBV-transformed lymphocytes, M, 60-69	28	primary cells	Cells	EBV-transformed lymphocytes	M	60-69	EFO_0000572	lymphoblast
+RES00002796	Brain - Amygdala, M, 60-69	55	tissues	Brain	Amygdala	M	60-69	UBERON_0001876	amygdala
+RES00002797	Brain - Spinal cord (cervical c-1), M, 60-69	51	tissues	Brain	Spinal cord (cervical c-1)	M	60-69	UBERON_0006469	C1 segment of cervical spinal cord
+RES00002798	Whole Blood, F, 30-39	68	tissues	Whole Blood		F	30-39	UBERON_0013756	venous blood
+RES00002799	Cells - Cultured fibroblasts, F, 30-39	15	primary cells	Cells	Cultured fibroblasts	F	30-39	EFO_0002009	fibroblast derived cell line
+RES00002800	Thyroid, F, 30-39	17	tissues	Thyroid		F	30-39	UBERON_0002046	thyroid gland
+RES00002801	Lung, F, 30-39	22	tissues	Lung		F	30-39	UBERON_0008952	upper lobe of left lung
+RES00002802	Artery - Aorta, F, 30-39	14	tissues	Artery	Aorta	F	30-39	UBERON_0001496	ascending aorta
+RES00002803	Heart - Atrial Appendage, F, 30-39	8	tissues	Heart	Atrial Appendage	F	30-39	UBERON_0006631	right atrium auricular region
+RES00002804	Adipose - Visceral (Omentum), F, 30-39	14	tissues	Adipose	Visceral (Omentum)	F	30-39	UBERON_0010414	omental fat pad
+RES00002805	Esophagus - Mucosa, F, 30-39	17	tissues	Esophagus	Mucosa	F	30-39	UBERON_0006920	esophagus squamous epithelium
+RES00002806	Esophagus - Muscularis, F, 30-39	18	tissues	Esophagus	Muscularis	F	30-39	UBERON_0004648	esophagus muscularis mucosa
+RES00002807	Esophagus - Gastroesophageal Junction, F, 30-39	9	tissues	Esophagus	Gastroesophageal Junction	F	30-39	UBERON_0004550	gastroesophageal sphincter
+RES00002808	Colon - Transverse, F, 30-39	16	tissues	Colon	Transverse	F	30-39	UBERON_0001157	transverse colon
+RES00002809	Spleen, F, 30-39	9	tissues	Spleen		F	30-39	UBERON_0002106	spleen
+RES00002810	Colon - Sigmoid, F, 30-39	14	tissues	Colon	Sigmoid	F	30-39	UBERON_0001159	sigmoid colon
+RES00002811	Ovary, F, 30-39	15	tissues	Ovary		F	30-39	UBERON_0000992	ovary
+RES00002812	Uterus, F, 30-39	20	tissues	Uterus		F	30-39	UBERON_0000995	uterus
+RES00002813	Breast - Mammary Tissue, F, 30-39	17	tissues	Breast	Mammary Tissue	F	30-39	UBERON_0008367	breast epithelium
+RES00002814	Minor Salivary Gland, F, 30-39	4	tissues	Minor Salivary Gland		F	30-39	UBERON_0006330	anterior lingual gland
+RES00002815	Vagina, F, 30-39	13	tissues	Vagina		F	30-39	UBERON_0000996	vagina
+RES00002816	Skin - Not Sun Exposed (Suprapubic), F, 30-39	14	tissues	Skin	Not Sun Exposed (Suprapubic)	F	30-39	UBERON_0036149	suprapubic skin
+RES00002817	Skin - Sun Exposed (Lower leg), F, 30-39	17	tissues	Skin	Sun Exposed (Lower leg)	F	30-39	UBERON_0004264	lower leg skin
+RES00002818	Adipose - Subcutaneous, F, 30-39	19	tissues	Adipose	Subcutaneous	F	30-39	UBERON_0002190	subcutaneous adipose tissue
+RES00002819	Muscle - Skeletal, F, 30-39	26	tissues	Muscle	Skeletal	F	30-39	UBERON_0011907	gastrocnemius medialis
+RES00002820	Nerve - Tibial, F, 30-39	18	tissues	Nerve	Tibial	F	30-39	UBERON_0001323	tibial nerve
+RES00002821	Artery - Tibial, F, 30-39	15	tissues	Artery	Tibial	F	30-39	UBERON_0007610	tibial artery
+RES00002822	Artery - Aorta, M, 20-29	24	tissues	Artery	Aorta	M	20-29	UBERON_0001496	ascending aorta
+RES00002823	Adipose - Visceral (Omentum), M, 20-29	30	tissues	Adipose	Visceral (Omentum)	M	20-29	UBERON_0010414	omental fat pad
+RES00002824	Esophagus - Gastroesophageal Junction, M, 20-29	26	tissues	Esophagus	Gastroesophageal Junction	M	20-29	UBERON_0004550	gastroesophageal sphincter
+RES00002825	Minor Salivary Gland, M, 20-29	11	tissues	Minor Salivary Gland		M	20-29	UBERON_0006330	anterior lingual gland
+RES00002826	Colon - Sigmoid, M, 20-29	26	tissues	Colon	Sigmoid	M	20-29	UBERON_0001159	sigmoid colon
+RES00002827	Adipose - Subcutaneous, M, 20-29	40	tissues	Adipose	Subcutaneous	M	20-29	UBERON_0002190	subcutaneous adipose tissue
+RES00002828	Kidney - Cortex, M, 50-59	27	tissues	Kidney	Cortex	M	50-59	UBERON_0001225	cortex of kidney
+RES00002829	Cells - EBV-transformed lymphocytes, M, 20-29	13	primary cells	Cells	EBV-transformed lymphocytes	M	20-29	EFO_0000572	lymphoblast
+RES00002830	Heart - Left Ventricle, M, 20-29	22	tissues	Heart	Left Ventricle	M	20-29	UBERON_0006566	left ventricle myocardium
+RES00002831	Heart - Atrial Appendage, M, 20-29	10	tissues	Heart	Atrial Appendage	M	20-29	UBERON_0006631	right atrium auricular region
+RES00002832	Artery - Coronary, M, 20-29	9	tissues	Artery	Coronary	M	20-29	UBERON_0001621	coronary artery
+RES00002833	Liver, M, 20-29	4	tissues	Liver		M	20-29	UBERON_0001114	right lobe of liver
+RES00002834	Artery - Tibial, M, 20-29	43	tissues	Artery	Tibial	M	20-29	UBERON_0007610	tibial artery
+RES00002835	Brain - Amygdala, F, 60-69	30	tissues	Brain	Amygdala	F	60-69	UBERON_0001876	amygdala
+RES00002836	Kidney - Cortex, F, 60-69	9	tissues	Kidney	Cortex	F	60-69	UBERON_0001225	cortex of kidney
+RES00002837	Brain - Hippocampus, F, 40-49	9	tissues	Brain	Hippocampus	F	40-49	UBERON_0001954	Ammon's horn
+RES00002838	Brain - Substantia nigra, F, 40-49	6	tissues	Brain	Substantia nigra	F	40-49	UBERON_0002038	substantia nigra
+RES00002839	Brain - Anterior cingulate cortex (BA24), F, 40-49	8	tissues	Brain	Anterior cingulate cortex (BA24)	F	40-49	UBERON_0009835	anterior cingulate cortex
+RES00002840	Brain - Caudate (basal ganglia), F, 40-49	11	tissues	Brain	Caudate (basal ganglia)	F	40-49	UBERON_0001873	caudate nucleus
+RES00002841	Muscle - Skeletal, F, 40-49	80	tissues	Muscle	Skeletal	F	40-49	UBERON_0011907	gastrocnemius medialis
+RES00002842	Cells - EBV-transformed lymphocytes, F, 40-49	16	primary cells	Cells	EBV-transformed lymphocytes	F	40-49	EFO_0000572	lymphoblast
+RES00002843	Spleen, F, 40-49	21	tissues	Spleen		F	40-49	UBERON_0002106	spleen
+RES00002844	Stomach, F, 40-49	30	tissues	Stomach		F	40-49	UBERON_0000945	stomach
+RES00002845	Esophagus - Muscularis, F, 40-49	50	tissues	Esophagus	Muscularis	F	40-49	UBERON_0004648	esophagus muscularis mucosa
+RES00002846	Vagina, F, 40-49	42	tissues	Vagina		F	40-49	UBERON_0000996	vagina
+RES00002847	Esophagus - Gastroesophageal Junction, F, 40-49	33	tissues	Esophagus	Gastroesophageal Junction	F	40-49	UBERON_0004550	gastroesophageal sphincter
+RES00002848	Ovary, F, 40-49	44	tissues	Ovary		F	40-49	UBERON_0000992	ovary
+RES00002849	Adipose - Visceral (Omentum), F, 40-49	41	tissues	Adipose	Visceral (Omentum)	F	40-49	UBERON_0010414	omental fat pad
+RES00002850	Colon - Sigmoid, F, 40-49	26	tissues	Colon	Sigmoid	F	40-49	UBERON_0001159	sigmoid colon
+RES00002851	Small Intestine - Terminal Ileum, F, 40-49	15	tissues	Small Intestine	Terminal Ileum	F	40-49	UBERON_0001211	Peyer's patch
+RES00002852	Adrenal Gland, F, 40-49	22	tissues	Adrenal Gland		F	40-49	UBERON_0002369	adrenal gland
+RES00002853	Brain - Frontal Cortex (BA9), M, 30-39	7	tissues	Brain	Frontal Cortex (BA9)	M	30-39	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002854	Brain - Cerebellar Hemisphere, M, 30-39	4	tissues	Brain	Cerebellar Hemisphere	M	30-39	UBERON_0002037	cerebellum
+RES00002855	Brain - Hypothalamus, M, 30-39	3	tissues	Brain	Hypothalamus	M	30-39	UBERON_0001898	hypothalamus
+RES00002856	Brain - Spinal cord (cervical c-1), M, 30-39	1	tissues	Brain	Spinal cord (cervical c-1)	M	30-39	UBERON_0006469	C1 segment of cervical spinal cord
+RES00002857	Artery - Coronary, M, 30-39	8	tissues	Artery	Coronary	M	30-39	UBERON_0001621	coronary artery
+RES00002858	Brain - Cerebellum, M, 30-39	8	tissues	Brain	Cerebellum	M	30-39	UBERON_0002037	cerebellum
+RES00002859	Brain - Cortex, M, 30-39	8	tissues	Brain	Cortex	M	30-39	UBERON_0001870	frontal cortex
+RES00002860	Pituitary, M, 30-39	6	tissues	Pituitary		M	30-39	UBERON_0000007	pituitary gland
+RES00002861	Brain - Hippocampus, F, 50-59	21	tissues	Brain	Hippocampus	F	50-59	UBERON_0001954	Ammon's horn
+RES00002862	Brain - Anterior cingulate cortex (BA24), F, 50-59	14	tissues	Brain	Anterior cingulate cortex (BA24)	F	50-59	UBERON_0009835	anterior cingulate cortex
+RES00002863	Brain - Amygdala, F, 50-59	13	tissues	Brain	Amygdala	F	50-59	UBERON_0001876	amygdala
+RES00002864	Brain - Spinal cord (cervical c-1), F, 50-59	18	tissues	Brain	Spinal cord (cervical c-1)	F	50-59	UBERON_0006469	C1 segment of cervical spinal cord
+RES00002865	Heart - Atrial Appendage, F, 50-59	51	tissues	Heart	Atrial Appendage	F	50-59	UBERON_0006631	right atrium auricular region
+RES00002866	Liver, F, 50-59	24	tissues	Liver		F	50-59	UBERON_0001114	right lobe of liver
+RES00002867	Nerve - Tibial, F, 50-59	71	tissues	Nerve	Tibial	F	50-59	UBERON_0001323	tibial nerve
+RES00002868	Brain - Cerebellum, F, 50-59	22	tissues	Brain	Cerebellum	F	50-59	UBERON_0002037	cerebellum
+RES00002869	Brain - Frontal Cortex (BA9), M, 20-29	8	tissues	Brain	Frontal Cortex (BA9)	M	20-29	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002870	Brain - Cerebellar Hemisphere, M, 20-29	7	tissues	Brain	Cerebellar Hemisphere	M	20-29	UBERON_0002037	cerebellum
+RES00002871	Brain - Spinal cord (cervical c-1), M, 20-29	4	tissues	Brain	Spinal cord (cervical c-1)	M	20-29	UBERON_0006469	C1 segment of cervical spinal cord
+RES00002872	Brain - Cerebellum, M, 20-29	6	tissues	Brain	Cerebellum	M	20-29	UBERON_0002037	cerebellum
+RES00002873	Brain - Cortex, M, 20-29	5	tissues	Brain	Cortex	M	20-29	UBERON_0001870	frontal cortex
+RES00002874	Pituitary, M, 20-29	5	tissues	Pituitary		M	20-29	UBERON_0000007	pituitary gland
+RES00002875	Adipose - Visceral (Omentum), M, 40-49	49	tissues	Adipose	Visceral (Omentum)	M	40-49	UBERON_0010414	omental fat pad
+RES00002876	Brain - Frontal Cortex (BA9), F, 50-59	36	tissues	Brain	Frontal Cortex (BA9)	F	50-59	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002877	Brain - Substantia nigra, F, 50-59	13	tissues	Brain	Substantia nigra	F	50-59	UBERON_0002038	substantia nigra
+RES00002878	Brain - Caudate (basal ganglia), F, 50-59	19	tissues	Brain	Caudate (basal ganglia)	F	50-59	UBERON_0001873	caudate nucleus
+RES00002879	Brain - Nucleus accumbens (basal ganglia), F, 50-59	21	tissues	Brain	Nucleus accumbens (basal ganglia)	F	50-59	UBERON_0001882	nucleus accumbens
+RES00002880	Skin - Not Sun Exposed (Suprapubic), F, 50-59	59	tissues	Skin	Not Sun Exposed (Suprapubic)	F	50-59	UBERON_0036149	suprapubic skin
+RES00002881	Brain - Cortex, F, 50-59	27	tissues	Brain	Cortex	F	50-59	UBERON_0001870	frontal cortex
+RES00002882	Brain - Hippocampus, M, 20-29	5	tissues	Brain	Hippocampus	M	20-29	UBERON_0001954	Ammon's horn
+RES00002883	Brain - Nucleus accumbens (basal ganglia), M, 20-29	7	tissues	Brain	Nucleus accumbens (basal ganglia)	M	20-29	UBERON_0001882	nucleus accumbens
+RES00002884	Brain - Putamen (basal ganglia), M, 20-29	5	tissues	Brain	Putamen (basal ganglia)	M	20-29	UBERON_0001874	putamen
+RES00002885	Whole Blood, M, 70-79	61	tissues	Whole Blood		M	70-79	UBERON_0013756	venous blood
+RES00002886	Cells - Cultured fibroblasts, M, 70-79	7	primary cells	Cells	Cultured fibroblasts	M	70-79	EFO_0002009	fibroblast derived cell line
+RES00002887	Brain - Frontal Cortex (BA9), M, 70-79	17	tissues	Brain	Frontal Cortex (BA9)	M	70-79	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002888	Brain - Cerebellar Hemisphere, M, 70-79	13	tissues	Brain	Cerebellar Hemisphere	M	70-79	UBERON_0002037	cerebellum
+RES00002889	Brain - Hippocampus, M, 70-79	9	tissues	Brain	Hippocampus	M	70-79	UBERON_0001954	Ammon's horn
+RES00002890	Brain - Substantia nigra, M, 70-79	4	tissues	Brain	Substantia nigra	M	70-79	UBERON_0002038	substantia nigra
+RES00002891	Brain - Anterior cingulate cortex (BA24), M, 70-79	11	tissues	Brain	Anterior cingulate cortex (BA24)	M	70-79	UBERON_0009835	anterior cingulate cortex
+RES00002892	Brain - Amygdala, M, 70-79	8	tissues	Brain	Amygdala	M	70-79	UBERON_0001876	amygdala
+RES00002893	Brain - Caudate (basal ganglia), M, 70-79	12	tissues	Brain	Caudate (basal ganglia)	M	70-79	UBERON_0001873	caudate nucleus
+RES00002894	Brain - Nucleus accumbens (basal ganglia), M, 70-79	12	tissues	Brain	Nucleus accumbens (basal ganglia)	M	70-79	UBERON_0001882	nucleus accumbens
+RES00002895	Brain - Putamen (basal ganglia), M, 70-79	7	tissues	Brain	Putamen (basal ganglia)	M	70-79	UBERON_0001874	putamen
+RES00002896	Nerve - Tibial, M, 70-79	17	tissues	Nerve	Tibial	M	70-79	UBERON_0001323	tibial nerve
+RES00002897	Muscle - Skeletal, M, 70-79	24	tissues	Muscle	Skeletal	M	70-79	UBERON_0011907	gastrocnemius medialis
+RES00002898	Adipose - Visceral (Omentum), M, 70-79	15	tissues	Adipose	Visceral (Omentum)	M	70-79	UBERON_0010414	omental fat pad
+RES00002899	Skin - Not Sun Exposed (Suprapubic), M, 70-79	17	tissues	Skin	Not Sun Exposed (Suprapubic)	M	70-79	UBERON_0036149	suprapubic skin
+RES00002900	Pituitary, M, 70-79	16	tissues	Pituitary		M	70-79	UBERON_0000007	pituitary gland
+RES00002901	Brain - Cortex, M, 70-79	12	tissues	Brain	Cortex	M	70-79	UBERON_0001870	frontal cortex
+RES00002902	Kidney - Cortex, F, 50-59	6	tissues	Kidney	Cortex	F	50-59	UBERON_0001225	cortex of kidney
+RES00002903	Spleen, F, 50-59	28	tissues	Spleen		F	50-59	UBERON_0002106	spleen
+RES00002904	Brain - Hippocampus, M, 50-59	50	tissues	Brain	Hippocampus	M	50-59	UBERON_0001954	Ammon's horn
+RES00002905	Artery - Aorta, F, 40-49	28	tissues	Artery	Aorta	F	40-49	UBERON_0001496	ascending aorta
+RES00002906	Heart - Left Ventricle, F, 40-49	36	tissues	Heart	Left Ventricle	F	40-49	UBERON_0006566	left ventricle myocardium
+RES00002907	Artery - Coronary, F, 40-49	22	tissues	Artery	Coronary	F	40-49	UBERON_0001621	coronary artery
+RES00002908	Uterus, F, 40-49	36	tissues	Uterus		F	40-49	UBERON_0000995	uterus
+RES00002909	Cells - EBV-transformed lymphocytes, M, 50-59	41	primary cells	Cells	EBV-transformed lymphocytes	M	50-59	EFO_0000572	lymphoblast
+RES00002910	Cells - EBV-transformed lymphocytes, M, 40-49	26	primary cells	Cells	EBV-transformed lymphocytes	M	40-49	EFO_0000572	lymphoblast
+RES00002911	Spleen, M, 40-49	31	tissues	Spleen		M	40-49	UBERON_0002106	spleen
+RES00002912	Artery - Aorta, M, 40-49	42	tissues	Artery	Aorta	M	40-49	UBERON_0001496	ascending aorta
+RES00002913	Pancreas, M, 40-49	44	tissues	Pancreas		M	40-49	UBERON_0001150	body of pancreas
+RES00002914	Adrenal Gland, M, 40-49	29	tissues	Adrenal Gland		M	40-49	UBERON_0002369	adrenal gland
+RES00002915	Minor Salivary Gland, M, 40-49	21	tissues	Minor Salivary Gland		M	40-49	UBERON_0006330	anterior lingual gland
+RES00002916	Esophagus - Mucosa, M, 40-49	68	tissues	Esophagus	Mucosa	M	40-49	UBERON_0006920	esophagus squamous epithelium
+RES00002917	Brain - Frontal Cortex (BA9), F, 40-49	10	tissues	Brain	Frontal Cortex (BA9)	F	40-49	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002918	Brain - Cerebellar Hemisphere, F, 40-49	9	tissues	Brain	Cerebellar Hemisphere	F	40-49	UBERON_0002037	cerebellum
+RES00002919	Brain - Nucleus accumbens (basal ganglia), F, 40-49	8	tissues	Brain	Nucleus accumbens (basal ganglia)	F	40-49	UBERON_0001882	nucleus accumbens
+RES00002920	Brain - Putamen (basal ganglia), F, 40-49	6	tissues	Brain	Putamen (basal ganglia)	F	40-49	UBERON_0001874	putamen
+RES00002921	Brain - Hypothalamus, F, 40-49	6	tissues	Brain	Hypothalamus	F	40-49	UBERON_0001898	hypothalamus
+RES00002922	Brain - Cerebellum, F, 40-49	8	tissues	Brain	Cerebellum	F	40-49	UBERON_0002037	cerebellum
+RES00002923	Brain - Cortex, F, 40-49	11	tissues	Brain	Cortex	F	40-49	UBERON_0001870	frontal cortex
+RES00002924	Pituitary, F, 40-49	7	tissues	Pituitary		F	40-49	UBERON_0000007	pituitary gland
+RES00002925	Brain - Cerebellar Hemisphere, F, 50-59	18	tissues	Brain	Cerebellar Hemisphere	F	50-59	UBERON_0002037	cerebellum
+RES00002926	Brain - Putamen (basal ganglia), F, 50-59	17	tissues	Brain	Putamen (basal ganglia)	F	50-59	UBERON_0001874	putamen
+RES00002927	Brain - Hypothalamus, F, 50-59	16	tissues	Brain	Hypothalamus	F	50-59	UBERON_0001898	hypothalamus
+RES00002928	Stomach, M, 40-49	38	tissues	Stomach		M	40-49	UBERON_0000945	stomach
+RES00002929	Colon - Sigmoid, M, 40-49	30	tissues	Colon	Sigmoid	M	40-49	UBERON_0001159	sigmoid colon
+RES00002930	Cells - Cultured fibroblasts, F, 20-29	15	primary cells	Cells	Cultured fibroblasts	F	20-29	EFO_0002009	fibroblast derived cell line
+RES00002931	Lung, F, 20-29	25	tissues	Lung		F	20-29	UBERON_0008952	upper lobe of left lung
+RES00002932	Small Intestine - Terminal Ileum, F, 20-29	9	tissues	Small Intestine	Terminal Ileum	F	20-29	UBERON_0001211	Peyer's patch
+RES00002933	Nerve - Tibial, F, 20-29	15	tissues	Nerve	Tibial	F	20-29	UBERON_0001323	tibial nerve
+RES00002934	Pancreas, F, 30-39	5	tissues	Pancreas		F	30-39	UBERON_0001150	body of pancreas
+RES00002935	Adrenal Gland, F, 30-39	5	tissues	Adrenal Gland		F	30-39	UBERON_0002369	adrenal gland
+RES00002936	Kidney - Cortex, F, 30-39	2	tissues	Kidney	Cortex	F	30-39	UBERON_0001225	cortex of kidney
+RES00002937	Artery - Coronary, F, 30-39	5	tissues	Artery	Coronary	F	30-39	UBERON_0001621	coronary artery
+RES00002938	Heart - Left Ventricle, F, 30-39	15	tissues	Heart	Left Ventricle	F	30-39	UBERON_0006566	left ventricle myocardium
+RES00002939	Stomach, F, 30-39	13	tissues	Stomach		F	30-39	UBERON_0000945	stomach
+RES00002940	Small Intestine - Terminal Ileum, F, 30-39	9	tissues	Small Intestine	Terminal Ileum	F	30-39	UBERON_0001211	Peyer's patch
+RES00002941	Artery - Coronary, M, 40-49	19	tissues	Artery	Coronary	M	40-49	UBERON_0001621	coronary artery
+RES00002942	Liver, M, 40-49	28	tissues	Liver		M	40-49	UBERON_0001114	right lobe of liver
+RES00002943	Small Intestine - Terminal Ileum, M, 40-49	23	tissues	Small Intestine	Terminal Ileum	M	40-49	UBERON_0001211	Peyer's patch
+RES00002944	Pancreas, F, 20-29	13	tissues	Pancreas		F	20-29	UBERON_0001150	body of pancreas
+RES00002945	Brain - Spinal cord (cervical c-1), F, 40-49	10	tissues	Brain	Spinal cord (cervical c-1)	F	40-49	UBERON_0006469	C1 segment of cervical spinal cord
+RES00002946	Brain - Hypothalamus, M, 70-79	9	tissues	Brain	Hypothalamus	M	70-79	UBERON_0001898	hypothalamus
+RES00002947	Skin - Sun Exposed (Lower leg), M, 70-79	20	tissues	Skin	Sun Exposed (Lower leg)	M	70-79	UBERON_0004264	lower leg skin
+RES00002948	Adipose - Subcutaneous, M, 70-79	14	tissues	Adipose	Subcutaneous	M	70-79	UBERON_0002190	subcutaneous adipose tissue
+RES00002949	Thyroid, M, 70-79	16	tissues	Thyroid		M	70-79	UBERON_0002046	thyroid gland
+RES00002950	Brain - Spinal cord (cervical c-1), M, 70-79	10	tissues	Brain	Spinal cord (cervical c-1)	M	70-79	UBERON_0006469	C1 segment of cervical spinal cord
+RES00002951	Artery - Tibial, M, 70-79	15	tissues	Artery	Tibial	M	70-79	UBERON_0007610	tibial artery
+RES00002952	Breast - Mammary Tissue, M, 70-79	12	tissues	Breast	Mammary Tissue	M	70-79	UBERON_0008367	breast epithelium
+RES00002953	Lung, M, 70-79	22	tissues	Lung		M	70-79	UBERON_0008952	upper lobe of left lung
+RES00002954	Heart - Atrial Appendage, M, 70-79	12	tissues	Heart	Atrial Appendage	M	70-79	UBERON_0006631	right atrium auricular region
+RES00002955	Heart - Left Ventricle, M, 70-79	13	tissues	Heart	Left Ventricle	M	70-79	UBERON_0006566	left ventricle myocardium
+RES00002956	Esophagus - Gastroesophageal Junction, M, 70-79	9	tissues	Esophagus	Gastroesophageal Junction	M	70-79	UBERON_0004550	gastroesophageal sphincter
+RES00002957	Stomach, M, 70-79	5	tissues	Stomach		M	70-79	UBERON_0000945	stomach
+RES00002958	Testis, M, 70-79	12	tissues	Testis		M	70-79	UBERON_0000473	testis
+RES00002959	Brain - Cerebellar Hemisphere, M, 40-49	15	tissues	Brain	Cerebellar Hemisphere	M	40-49	UBERON_0002037	cerebellum
+RES00002960	Brain - Substantia nigra, M, 40-49	10	tissues	Brain	Substantia nigra	M	40-49	UBERON_0002038	substantia nigra
+RES00002961	Brain - Amygdala, M, 40-49	10	tissues	Brain	Amygdala	M	40-49	UBERON_0001876	amygdala
+RES00002962	Brain - Hypothalamus, M, 40-49	13	tissues	Brain	Hypothalamus	M	40-49	UBERON_0001898	hypothalamus
+RES00002963	Brain - Spinal cord (cervical c-1), M, 40-49	9	tissues	Brain	Spinal cord (cervical c-1)	M	40-49	UBERON_0006469	C1 segment of cervical spinal cord
+RES00002964	Brain - Cerebellum, M, 70-79	11	tissues	Brain	Cerebellum	M	70-79	UBERON_0002037	cerebellum
+RES00002965	Minor Salivary Gland, F, 40-49	12	tissues	Minor Salivary Gland		F	40-49	UBERON_0006330	anterior lingual gland
+RES00002966	Colon - Sigmoid, M, 70-79	8	tissues	Colon	Sigmoid	M	70-79	UBERON_0001159	sigmoid colon
+RES00002967	Spleen, F, 20-29	9	tissues	Spleen		F	20-29	UBERON_0002106	spleen
+RES00002968	Minor Salivary Gland, F, 20-29	3	tissues	Minor Salivary Gland		F	20-29	UBERON_0006330	anterior lingual gland
+RES00002969	Kidney - Cortex, M, 30-39	7	tissues	Kidney	Cortex	M	30-39	UBERON_0001225	cortex of kidney
+RES00002970	Esophagus - Mucosa, M, 70-79	11	tissues	Esophagus	Mucosa	M	70-79	UBERON_0006920	esophagus squamous epithelium
+RES00002971	Esophagus - Muscularis, M, 70-79	5	tissues	Esophagus	Muscularis	M	70-79	UBERON_0004648	esophagus muscularis mucosa
+RES00002972	Adrenal Gland, M, 70-79	5	tissues	Adrenal Gland		M	70-79	UBERON_0002369	adrenal gland
+RES00002973	Prostate, M, 70-79	7	tissues	Prostate		M	70-79	UBERON_0002367	prostate gland
+RES00002974	Small Intestine - Terminal Ileum, M, 70-79	3	tissues	Small Intestine	Terminal Ileum	M	70-79	UBERON_0001211	Peyer's patch
+RES00002975	Colon - Transverse, M, 70-79	9	tissues	Colon	Transverse	M	70-79	UBERON_0001157	transverse colon
+RES00002976	Liver, F, 40-49	15	tissues	Liver		F	40-49	UBERON_0001114	right lobe of liver
+RES00002977	Artery - Coronary, M, 70-79	5	tissues	Artery	Coronary	M	70-79	UBERON_0001621	coronary artery
+RES00002978	Artery - Aorta, M, 70-79	6	tissues	Artery	Aorta	M	70-79	UBERON_0001496	ascending aorta
+RES00002979	Liver, M, 70-79	4	tissues	Liver		M	70-79	UBERON_0001114	right lobe of liver
+RES00002980	Whole Blood, F, 70-79	28	tissues	Whole Blood		F	70-79	UBERON_0013756	venous blood
+RES00002981	Brain - Frontal Cortex (BA9), F, 70-79	7	tissues	Brain	Frontal Cortex (BA9)	F	70-79	UBERON_0009834	dorsolateral prefrontal cortex
+RES00002982	Brain - Cerebellar Hemisphere, F, 70-79	7	tissues	Brain	Cerebellar Hemisphere	F	70-79	UBERON_0002037	cerebellum
+RES00002983	Brain - Hippocampus, F, 70-79	5	tissues	Brain	Hippocampus	F	70-79	UBERON_0001954	Ammon's horn
+RES00002984	Brain - Anterior cingulate cortex (BA24), F, 70-79	4	tissues	Brain	Anterior cingulate cortex (BA24)	F	70-79	UBERON_0009835	anterior cingulate cortex
+RES00002985	Brain - Caudate (basal ganglia), F, 70-79	6	tissues	Brain	Caudate (basal ganglia)	F	70-79	UBERON_0001873	caudate nucleus
+RES00002986	Brain - Hypothalamus, F, 70-79	4	tissues	Brain	Hypothalamus	F	70-79	UBERON_0001898	hypothalamus
+RES00002987	Skin - Sun Exposed (Lower leg), F, 70-79	9	tissues	Skin	Sun Exposed (Lower leg)	F	70-79	UBERON_0004264	lower leg skin
+RES00002988	Adipose - Subcutaneous, F, 70-79	8	tissues	Adipose	Subcutaneous	F	70-79	UBERON_0002190	subcutaneous adipose tissue
+RES00002989	Nerve - Tibial, F, 70-79	7	tissues	Nerve	Tibial	F	70-79	UBERON_0001323	tibial nerve
+RES00002990	Muscle - Skeletal, F, 70-79	13	tissues	Muscle	Skeletal	F	70-79	UBERON_0011907	gastrocnemius medialis
+RES00002991	Breast - Mammary Tissue, F, 70-79	6	tissues	Breast	Mammary Tissue	F	70-79	UBERON_0008367	breast epithelium
+RES00002992	Lung, F, 70-79	5	tissues	Lung		F	70-79	UBERON_0008952	upper lobe of left lung
+RES00002993	Skin - Not Sun Exposed (Suprapubic), F, 70-79	8	tissues	Skin	Not Sun Exposed (Suprapubic)	F	70-79	UBERON_0036149	suprapubic skin
+RES00002994	Brain - Cerebellum, F, 70-79	4	tissues	Brain	Cerebellum	F	70-79	UBERON_0002037	cerebellum
+RES00002995	Pituitary, F, 70-79	4	tissues	Pituitary		F	70-79	UBERON_0000007	pituitary gland
+RES00002996	Adrenal Gland, F, 70-79	2	tissues	Adrenal Gland		F	70-79	UBERON_0002369	adrenal gland
+RES00002997	Thyroid, F, 70-79	7	tissues	Thyroid		F	70-79	UBERON_0002046	thyroid gland
+RES00002998	Spleen, F, 70-79	1	tissues	Spleen		F	70-79	UBERON_0002106	spleen
+RES00002999	Artery - Aorta, F, 70-79	3	tissues	Artery	Aorta	F	70-79	UBERON_0001496	ascending aorta
+RES00003000	Heart - Atrial Appendage, F, 70-79	5	tissues	Heart	Atrial Appendage	F	70-79	UBERON_0006631	right atrium auricular region
+RES00003001	Heart - Left Ventricle, F, 70-79	5	tissues	Heart	Left Ventricle	F	70-79	UBERON_0006566	left ventricle myocardium
+RES00003002	Adipose - Visceral (Omentum), F, 70-79	4	tissues	Adipose	Visceral (Omentum)	F	70-79	UBERON_0010414	omental fat pad
+RES00003003	Pancreas, F, 70-79	3	tissues	Pancreas		F	70-79	UBERON_0001150	body of pancreas
+RES00003004	Esophagus - Muscularis, F, 70-79	5	tissues	Esophagus	Muscularis	F	70-79	UBERON_0004648	esophagus muscularis mucosa
+RES00003005	Esophagus - Gastroesophageal Junction, F, 70-79	3	tissues	Esophagus	Gastroesophageal Junction	F	70-79	UBERON_0004550	gastroesophageal sphincter
+RES00003006	Esophagus - Mucosa, F, 70-79	6	tissues	Esophagus	Mucosa	F	70-79	UBERON_0006920	esophagus squamous epithelium
+RES00003007	Small Intestine - Terminal Ileum, F, 70-79	1	tissues	Small Intestine	Terminal Ileum	F	70-79	UBERON_0001211	Peyer's patch
+RES00003008	Colon - Transverse, F, 70-79	2	tissues	Colon	Transverse	F	70-79	UBERON_0001157	transverse colon
+RES00003009	Colon - Sigmoid, F, 70-79	5	tissues	Colon	Sigmoid	F	70-79	UBERON_0001159	sigmoid colon
+RES00003010	Artery - Tibial, F, 70-79	5	tissues	Artery	Tibial	F	70-79	UBERON_0007610	tibial artery
+RES00003011	Cells - Cultured fibroblasts, F, 70-79	6	primary cells	Cells	Cultured fibroblasts	F	70-79	EFO_0002009	fibroblast derived cell line
+RES00003012	Brain - Substantia nigra, F, 70-79	1	tissues	Brain	Substantia nigra	F	70-79	UBERON_0002038	substantia nigra
+RES00003013	Brain - Amygdala, F, 70-79	2	tissues	Brain	Amygdala	F	70-79	UBERON_0001876	amygdala
+RES00003014	Brain - Nucleus accumbens (basal ganglia), F, 70-79	3	tissues	Brain	Nucleus accumbens (basal ganglia)	F	70-79	UBERON_0001882	nucleus accumbens
+RES00003015	Brain - Putamen (basal ganglia), F, 70-79	2	tissues	Brain	Putamen (basal ganglia)	F	70-79	UBERON_0001874	putamen
+RES00003016	Brain - Spinal cord (cervical c-1), F, 70-79	2	tissues	Brain	Spinal cord (cervical c-1)	F	70-79	UBERON_0006469	C1 segment of cervical spinal cord
+RES00003017	Brain - Cortex, F, 70-79	6	tissues	Brain	Cortex	F	70-79	UBERON_0001870	frontal cortex
+RES00003018	Brain - Frontal Cortex (BA9), F, 20-29	2	tissues	Brain	Frontal Cortex (BA9)	F	20-29	UBERON_0009834	dorsolateral prefrontal cortex
+RES00003019	Brain - Cerebellar Hemisphere, F, 20-29	3	tissues	Brain	Cerebellar Hemisphere	F	20-29	UBERON_0002037	cerebellum
+RES00003020	Brain - Hippocampus, F, 20-29	1	tissues	Brain	Hippocampus	F	20-29	UBERON_0001954	Ammon's horn
+RES00003021	Brain - Substantia nigra, F, 20-29	2	tissues	Brain	Substantia nigra	F	20-29	UBERON_0002038	substantia nigra
+RES00003022	Brain - Anterior cingulate cortex (BA24), F, 20-29	3	tissues	Brain	Anterior cingulate cortex (BA24)	F	20-29	UBERON_0009835	anterior cingulate cortex
+RES00003023	Brain - Amygdala, F, 20-29	2	tissues	Brain	Amygdala	F	20-29	UBERON_0001876	amygdala
+RES00003024	Brain - Caudate (basal ganglia), F, 20-29	3	tissues	Brain	Caudate (basal ganglia)	F	20-29	UBERON_0001873	caudate nucleus
+RES00003025	Brain - Nucleus accumbens (basal ganglia), F, 20-29	3	tissues	Brain	Nucleus accumbens (basal ganglia)	F	20-29	UBERON_0001882	nucleus accumbens
+RES00003026	Brain - Putamen (basal ganglia), F, 20-29	1	tissues	Brain	Putamen (basal ganglia)	F	20-29	UBERON_0001874	putamen
+RES00003027	Brain - Hypothalamus, F, 20-29	1	tissues	Brain	Hypothalamus	F	20-29	UBERON_0001898	hypothalamus
+RES00003028	Brain - Spinal cord (cervical c-1), F, 20-29	1	tissues	Brain	Spinal cord (cervical c-1)	F	20-29	UBERON_0006469	C1 segment of cervical spinal cord
+RES00003029	Liver, F, 20-29	4	tissues	Liver		F	20-29	UBERON_0001114	right lobe of liver
+RES00003030	Brain - Cerebellum, F, 20-29	2	tissues	Brain	Cerebellum	F	20-29	UBERON_0002037	cerebellum
+RES00003031	Brain - Cortex, F, 20-29	4	tissues	Brain	Cortex	F	20-29	UBERON_0001870	frontal cortex
+RES00003032	Pituitary, F, 20-29	4	tissues	Pituitary		F	20-29	UBERON_0000007	pituitary gland
+RES00003033	Brain - Amygdala, F, 40-49	6	tissues	Brain	Amygdala	F	40-49	UBERON_0001876	amygdala
+RES00003034	Ovary, F, 70-79	4	tissues	Ovary		F	70-79	UBERON_0000992	ovary
+RES00003035	Vagina, F, 70-79	6	tissues	Vagina		F	70-79	UBERON_0000996	vagina
+RES00003036	Spleen, M, 70-79	3	tissues	Spleen		M	70-79	UBERON_0002106	spleen
+RES00003037	Brain - Hippocampus, M, 30-39	4	tissues	Brain	Hippocampus	M	30-39	UBERON_0001954	Ammon's horn
+RES00003038	Brain - Anterior cingulate cortex (BA24), M, 30-39	3	tissues	Brain	Anterior cingulate cortex (BA24)	M	30-39	UBERON_0009835	anterior cingulate cortex
+RES00003039	Brain - Amygdala, M, 30-39	3	tissues	Brain	Amygdala	M	30-39	UBERON_0001876	amygdala
+RES00003040	Brain - Caudate (basal ganglia), M, 30-39	5	tissues	Brain	Caudate (basal ganglia)	M	30-39	UBERON_0001873	caudate nucleus
+RES00003041	Brain - Nucleus accumbens (basal ganglia), M, 30-39	4	tissues	Brain	Nucleus accumbens (basal ganglia)	M	30-39	UBERON_0001882	nucleus accumbens
+RES00003042	Brain - Putamen (basal ganglia), M, 30-39	4	tissues	Brain	Putamen (basal ganglia)	M	30-39	UBERON_0001874	putamen
+RES00003043	Kidney - Cortex, M, 70-79	4	tissues	Kidney	Cortex	M	70-79	UBERON_0001225	cortex of kidney
+RES00003044	Artery - Coronary, F, 70-79	1	tissues	Artery	Coronary	F	70-79	UBERON_0001621	coronary artery
+RES00003045	Brain - Frontal Cortex (BA9), F, 30-39	2	tissues	Brain	Frontal Cortex (BA9)	F	30-39	UBERON_0009834	dorsolateral prefrontal cortex
+RES00003046	Brain - Cerebellar Hemisphere, F, 30-39	2	tissues	Brain	Cerebellar Hemisphere	F	30-39	UBERON_0002037	cerebellum
+RES00003047	Brain - Hippocampus, F, 30-39	2	tissues	Brain	Hippocampus	F	30-39	UBERON_0001954	Ammon's horn
+RES00003048	Brain - Substantia nigra, F, 30-39	2	tissues	Brain	Substantia nigra	F	30-39	UBERON_0002038	substantia nigra
+RES00003049	Brain - Amygdala, F, 30-39	2	tissues	Brain	Amygdala	F	30-39	UBERON_0001876	amygdala
+RES00003050	Brain - Caudate (basal ganglia), F, 30-39	2	tissues	Brain	Caudate (basal ganglia)	F	30-39	UBERON_0001873	caudate nucleus
+RES00003051	Brain - Nucleus accumbens (basal ganglia), F, 30-39	2	tissues	Brain	Nucleus accumbens (basal ganglia)	F	30-39	UBERON_0001882	nucleus accumbens
+RES00003052	Brain - Putamen (basal ganglia), F, 30-39	2	tissues	Brain	Putamen (basal ganglia)	F	30-39	UBERON_0001874	putamen
+RES00003053	Brain - Hypothalamus, F, 30-39	2	tissues	Brain	Hypothalamus	F	30-39	UBERON_0001898	hypothalamus
+RES00003054	Brain - Cerebellum, F, 30-39	3	tissues	Brain	Cerebellum	F	30-39	UBERON_0002037	cerebellum
+RES00003055	Brain - Cortex, F, 30-39	2	tissues	Brain	Cortex	F	30-39	UBERON_0001870	frontal cortex
+RES00003056	Pituitary, F, 30-39	2	tissues	Pituitary		F	30-39	UBERON_0000007	pituitary gland
+RES00003057	Minor Salivary Gland, M, 70-79	2	tissues	Minor Salivary Gland		M	70-79	UBERON_0006330	anterior lingual gland
+RES00003058	Minor Salivary Gland, F, 50-59	11	tissues	Minor Salivary Gland		F	50-59	UBERON_0006330	anterior lingual gland
+RES00003059	Cells - EBV-transformed lymphocytes, F, 70-79	2	primary cells	Cells	EBV-transformed lymphocytes	F	70-79	EFO_0000572	lymphoblast
+RES00003060	Liver, F, 70-79	2	tissues	Liver		F	70-79	UBERON_0001114	right lobe of liver
+RES00003061	Pancreas, M, 70-79	5	tissues	Pancreas		M	70-79	UBERON_0001150	body of pancreas
+RES00003062	Cells - EBV-transformed lymphocytes, M, 70-79	2	primary cells	Cells	EBV-transformed lymphocytes	M	70-79	EFO_0000572	lymphoblast
+RES00003063	Brain - Substantia nigra, M, 30-39	3	tissues	Brain	Substantia nigra	M	30-39	UBERON_0002038	substantia nigra
+RES00003064	Uterus, F, 70-79	1	tissues	Uterus		F	70-79	UBERON_0000995	uterus
+RES00003065	Stomach, F, 70-79	1	tissues	Stomach		F	70-79	UBERON_0000945	stomach
+RES00003066	Kidney - Cortex, F, 40-49	3	tissues	Kidney	Cortex	F	40-49	UBERON_0001225	cortex of kidney
+RES00003067	Kidney - Cortex, M, 20-29	2	tissues	Kidney	Cortex	M	20-29	UBERON_0001225	cortex of kidney
+RES00003068	Liver, F, 30-39	3	tissues	Liver		F	30-39	UBERON_0001114	right lobe of liver
+RES00003069	Cervix - Ectocervix, F, 60-69	2	tissues	Cervix	Ectocervix	F	60-69	UBERON_0012249	ectocervix
+RES00003070	Fallopian Tube, F, 50-59	3	tissues	Fallopian Tube		F	50-59	UBERON_0003889	fallopian tube
+RES00003071	Cervix - Endocervix, F, 60-69	2	tissues	Cervix	Endocervix	F	60-69	UBERON_0000458	endocervix
+RES00003072	Bladder, M, 60-69	2	tissues	Bladder		M	60-69	UBERON_0001255	urinary bladder
+RES00003073	Bladder, M, 40-49	4	tissues	Bladder		M	40-49	UBERON_0001255	urinary bladder
+RES00003074	Cervix - Ectocervix, F, 40-49	4	tissues	Cervix	Ectocervix	F	40-49	UBERON_0012249	ectocervix
+RES00003075	Cervix - Endocervix, F, 40-49	5	tissues	Cervix	Endocervix	F	40-49	UBERON_0000458	endocervix
+RES00003076	Cervix - Endocervix, F, 50-59	2	tissues	Cervix	Endocervix	F	50-59	UBERON_0000458	endocervix
+RES00003077	Brain - Anterior cingulate cortex (BA24), F, 30-39	1	tissues	Brain	Anterior cingulate cortex (BA24)	F	30-39	UBERON_0009835	anterior cingulate cortex
+RES00003078	Brain - Spinal cord (cervical c-1), F, 30-39	3	tissues	Brain	Spinal cord (cervical c-1)	F	30-39	UBERON_0006469	C1 segment of cervical spinal cord
+RES00003079	Bladder, M, 50-59	5	tissues	Bladder		M	50-59	UBERON_0001255	urinary bladder
+RES00003080	Brain - Substantia nigra, M, 20-29	3	tissues	Brain	Substantia nigra	M	20-29	UBERON_0002038	substantia nigra
+RES00003081	Brain - Amygdala, M, 20-29	4	tissues	Brain	Amygdala	M	20-29	UBERON_0001876	amygdala
+RES00003082	Brain - Caudate (basal ganglia), M, 20-29	4	tissues	Brain	Caudate (basal ganglia)	M	20-29	UBERON_0001873	caudate nucleus
+RES00003083	Brain - Hypothalamus, M, 20-29	4	tissues	Brain	Hypothalamus	M	20-29	UBERON_0001898	hypothalamus
+RES00003084	Kidney - Medulla, M, 20-29	2	tissues	Kidney	Medulla	M	20-29	UBERON_0001293	outer medulla of kidney
+RES00003085	Kidney - Medulla, F, 50-59	1	tissues	Kidney	Medulla	F	50-59	UBERON_0001293	outer medulla of kidney
+RES00003086	Bladder, F, 50-59	2	tissues	Bladder		F	50-59	UBERON_0001255	urinary bladder
+RES00003087	Cervix - Ectocervix, F, 50-59	1	tissues	Cervix	Ectocervix	F	50-59	UBERON_0012249	ectocervix
+RES00003088	Bladder, M, 30-39	1	tissues	Bladder		M	30-39	UBERON_0001255	urinary bladder
+RES00003089	Fallopian Tube, F, 40-49	3	tissues	Fallopian Tube		F	40-49	UBERON_0003889	fallopian tube
+RES00003090	Bladder, M, 20-29	2	tissues	Bladder		M	20-29	UBERON_0001255	urinary bladder
+RES00003091	Bladder, F, 40-49	3	tissues	Bladder		F	40-49	UBERON_0001255	urinary bladder
+RES00003092	Fallopian Tube, F, 20-29	1	tissues	Fallopian Tube		F	20-29	UBERON_0003889	fallopian tube
+RES00003093	Cervix - Ectocervix, F, 20-29	1	tissues	Cervix	Ectocervix	F	20-29	UBERON_0012249	ectocervix
+RES00003094	Cervix - Endocervix, F, 20-29	1	tissues	Cervix	Endocervix	F	20-29	UBERON_0000458	endocervix
+RES00003095	Bladder, F, 20-29	1	tissues	Bladder		F	20-29	UBERON_0001255	urinary bladder
+RES00003096	Kidney - Medulla, M, 50-59	1	tissues	Kidney	Medulla	M	50-59	UBERON_0001293	outer medulla of kidney
+RES00003097	Fallopian Tube, F, 60-69	1	tissues	Fallopian Tube		F	60-69	UBERON_0003889	fallopian tube
+RES00003098	Cells - EBV-transformed lymphocytes, F, 30-39	2	primary cells	Cells	EBV-transformed lymphocytes	F	30-39	EFO_0000572	lymphoblast
+RES00003099	Fallopian Tube, F, 30-39	1	tissues	Fallopian Tube		F	30-39	UBERON_0003889	fallopian tube
+RES00003100	Bladder, F, 30-39	1	tissues	Bladder		F	30-39	UBERON_0001255	urinary bladder
+RES00003101	Cervix - Ectocervix, F, 30-39	1	tissues	Cervix	Ectocervix	F	30-39	UBERON_0012249	ectocervix
+RES00003102	Kidney - Cortex, F, 20-29	1	tissues	Kidney	Cortex	F	20-29	UBERON_0001225	cortex of kidney
+RES00003103	Brain - Anterior cingulate cortex (BA24), M, 20-29	1	tissues	Brain	Anterior cingulate cortex (BA24)	M	20-29	UBERON_0009835	anterior cingulate cortex
+RES00003104	Cells - Leukemia cell line (CML), F, 50-59	217	primary cells	Cells	Leukemia cell line (CML)	F	50-59		
