@@ -1,0 +1,584 @@
+RefEx_Sample_ID	Description	#_of_samples	category
+RES00002522	Whole Blood, F, 60-69	347	tissues
+RES00002523	Brain - Frontal Cortex (BA9), F, 60-69	54	tissues
+RES00002524	Adipose - Subcutaneous, F, 60-69	77	tissues
+RES00002525	Muscle - Skeletal, F, 60-69	107	tissues
+RES00002526	Artery - Tibial, F, 60-69	71	tissues
+RES00002527	Artery - Coronary, F, 60-69	33	tissues
+RES00002528	Heart - Atrial Appendage, F, 60-69	51	tissues
+RES00002529	Adipose - Visceral (Omentum), F, 60-69	53	tissues
+RES00002530	Ovary, F, 60-69	48	tissues
+RES00002531	Uterus, F, 60-69	37	tissues
+RES00002532	Vagina, F, 60-69	42	tissues
+RES00002533	Breast - Mammary Tissue, F, 60-69	46	tissues
+RES00002534	Skin - Not Sun Exposed (Suprapubic), F, 60-69	70	tissues
+RES00002535	Minor Salivary Gland, F, 60-69	23	tissues
+RES00002536	Brain - Cortex, F, 60-69	49	tissues
+RES00002537	Whole Blood, M, 50-59	759	tissues
+RES00002538	Adrenal Gland, M, 50-59	59	tissues
+RES00002539	Thyroid, M, 50-59	186	tissues
+RES00002540	Lung, M, 50-59	218	tissues
+RES00002541	Spleen, M, 50-59	62	tissues
+RES00002542	Pancreas, M, 50-59	81	tissues
+RES00002543	Esophagus - Muscularis, M, 50-59	126	tissues
+RES00002544	Esophagus - Mucosa, M, 50-59	137	tissues
+RES00002545	Esophagus - Gastroesophageal Junction, M, 50-59	106	tissues
+RES00002546	Stomach, M, 50-59	96	tissues
+RES00002547	Adipose - Visceral (Omentum), M, 50-59	138	tissues
+RES00002548	Skin - Not Sun Exposed (Suprapubic), M, 50-59	143	tissues
+RES00002549	Colon - Sigmoid, M, 50-59	78	tissues
+RES00002550	Small Intestine - Terminal Ileum, M, 50-59	42	tissues
+RES00002551	Colon - Transverse, M, 50-59	99	tissues
+RES00002552	Prostate, M, 50-59	76	tissues
+RES00002553	Testis, M, 50-59	130	tissues
+RES00002554	Adipose - Subcutaneous, M, 50-59	170	tissues
+RES00002555	Skin - Sun Exposed (Lower leg), M, 50-59	190	tissues
+RES00002556	Muscle - Skeletal, M, 50-59	250	tissues
+RES00002557	Nerve - Tibial, M, 50-59	155	tissues
+RES00002558	Whole Blood, M, 60-69	671	tissues
+RES00002559	Brain - Frontal Cortex (BA9), M, 60-69	147	tissues
+RES00002560	Skin - Sun Exposed (Lower leg), M, 60-69	174	tissues
+RES00002561	Adipose - Subcutaneous, M, 60-69	162	tissues
+RES00002562	Muscle - Skeletal, M, 60-69	253	tissues
+RES00002563	Artery - Tibial, M, 60-69	149	tissues
+RES00002564	Nerve - Tibial, M, 60-69	155	tissues
+RES00002565	Heart - Atrial Appendage, M, 60-69	119	tissues
+RES00002566	Heart - Left Ventricle, M, 60-69	155	tissues
+RES00002567	Thyroid, M, 60-69	177	tissues
+RES00002568	Lung, M, 60-69	176	tissues
+RES00002569	Spleen, M, 60-69	33	tissues
+RES00002570	Testis, M, 60-69	133	tissues
+RES00002571	Prostate, M, 60-69	81	tissues
+RES00002572	Skin - Not Sun Exposed (Suprapubic), M, 60-69	142	tissues
+RES00002573	Minor Salivary Gland, M, 60-69	39	tissues
+RES00002574	Pituitary, M, 60-69	110	tissues
+RES00002575	Brain - Cortex, M, 60-69	108	tissues
+RES00002576	Brain - Cerebellum, M, 60-69	93	tissues
+RES00002577	Cells - Cultured fibroblasts, M, 60-69	109	primary cells
+RES00002578	Colon - Transverse, M, 60-69	66	tissues
+RES00002579	Adrenal Gland, M, 60-69	45	tissues
+RES00002580	Artery - Aorta, M, 60-69	90	tissues
+RES00002581	Esophagus - Gastroesophageal Junction, M, 60-69	60	tissues
+RES00002582	Esophagus - Mucosa, M, 60-69	109	tissues
+RES00002583	Esophagus - Muscularis, M, 60-69	99	tissues
+RES00002584	Stomach, M, 60-69	48	tissues
+RES00002585	Pancreas, M, 60-69	52	tissues
+RES00002586	Adipose - Visceral (Omentum), M, 60-69	120	tissues
+RES00002587	Small Intestine - Terminal Ileum, M, 60-69	23	tissues
+RES00002588	Colon - Sigmoid, M, 60-69	84	tissues
+RES00002589	Breast - Mammary Tissue, M, 60-69	99	tissues
+RES00002590	Cells - EBV-transformed lymphocytes, F, 60-69	21	primary cells
+RES00002591	Cells - Cultured fibroblasts, F, 60-69	52	primary cells
+RES00002592	Lung, F, 60-69	90	tissues
+RES00002593	Thyroid, F, 60-69	77	tissues
+RES00002594	Adrenal Gland, F, 60-69	37	tissues
+RES00002595	Spleen, F, 60-69	25	tissues
+RES00002596	Pancreas, F, 60-69	35	tissues
+RES00002597	Heart - Left Ventricle, F, 60-69	72	tissues
+RES00002598	Artery - Aorta, F, 60-69	46	tissues
+RES00002599	Small Intestine - Terminal Ileum, F, 60-69	19	tissues
+RES00002600	Colon - Sigmoid, F, 60-69	43	tissues
+RES00002601	Colon - Transverse, F, 60-69	38	tissues
+RES00002602	Esophagus - Muscularis, F, 60-69	48	tissues
+RES00002603	Esophagus - Mucosa, F, 60-69	65	tissues
+RES00002604	Esophagus - Gastroesophageal Junction, F, 60-69	38	tissues
+RES00002605	Stomach, F, 60-69	38	tissues
+RES00002606	Skin - Sun Exposed (Lower leg), F, 60-69	95	tissues
+RES00002607	Pituitary, F, 60-69	35	tissues
+RES00002608	Brain - Cerebellum, F, 60-69	53	tissues
+RES00002609	Whole Blood, F, 50-59	333	tissues
+RES00002610	Cells - Cultured fibroblasts, F, 50-59	57	primary cells
+RES00002611	Thyroid, F, 50-59	83	tissues
+RES00002612	Adipose - Visceral (Omentum), F, 50-59	53	tissues
+RES00002613	Esophagus - Muscularis, F, 50-59	50	tissues
+RES00002614	Esophagus - Gastroesophageal Junction, F, 50-59	42	tissues
+RES00002615	Vagina, F, 50-59	52	tissues
+RES00002616	Uterus, F, 50-59	49	tissues
+RES00002617	Skin - Sun Exposed (Lower leg), F, 50-59	83	tissues
+RES00002618	Muscle - Skeletal, F, 50-59	116	tissues
+RES00002619	Pituitary, F, 50-59	30	tissues
+RES00002620	Cells - Cultured fibroblasts, M, 50-59	117	primary cells
+RES00002621	Artery - Aorta, M, 50-59	104	tissues
+RES00002622	Heart - Left Ventricle, M, 50-59	168	tissues
+RES00002623	Heart - Atrial Appendage, M, 50-59	115	tissues
+RES00002624	Artery - Tibial, M, 50-59	180	tissues
+RES00002625	Pituitary, M, 50-59	61	tissues
+RES00002626	Brain - Cortex, M, 50-59	69	tissues
+RES00002627	Breast - Mammary Tissue, M, 50-59	94	tissues
+RES00002628	Artery - Coronary, M, 50-59	67	tissues
+RES00002629	Brain - Frontal Cortex (BA9), M, 50-59	105	tissues
+RES00002630	Brain - Cerebellar Hemisphere, M, 50-59	61	tissues
+RES00002631	Brain - Caudate (basal ganglia), M, 50-59	68	tissues
+RES00002632	Brain - Nucleus accumbens (basal ganglia), M, 50-59	65	tissues
+RES00002633	Brain - Putamen (basal ganglia), M, 50-59	58	tissues
+RES00002634	Brain - Hypothalamus, M, 50-59	55	tissues
+RES00002635	Brain - Spinal cord (cervical c-1), M, 50-59	36	tissues
+RES00002636	Liver, M, 50-59	65	tissues
+RES00002637	Minor Salivary Gland, M, 50-59	43	tissues
+RES00002638	Brain - Cerebellum, M, 50-59	66	tissues
+RES00002639	Whole Blood, M, 40-49	303	tissues
+RES00002640	Cells - Cultured fibroblasts, M, 40-49	53	primary cells
+RES00002641	Brain - Frontal Cortex (BA9), M, 40-49	30	tissues
+RES00002642	Brain - Hippocampus, M, 40-49	18	tissues
+RES00002643	Brain - Anterior cingulate cortex (BA24), M, 40-49	22	tissues
+RES00002644	Brain - Caudate (basal ganglia), M, 40-49	20	tissues
+RES00002645	Brain - Nucleus accumbens (basal ganglia), M, 40-49	20	tissues
+RES00002646	Brain - Putamen (basal ganglia), M, 40-49	15	tissues
+RES00002647	Skin - Sun Exposed (Lower leg), M, 40-49	76	tissues
+RES00002648	Adipose - Subcutaneous, M, 40-49	67	tissues
+RES00002649	Nerve - Tibial, M, 40-49	69	tissues
+RES00002650	Artery - Tibial, M, 40-49	78	tissues
+RES00002651	Breast - Mammary Tissue, M, 40-49	37	tissues
+RES00002652	Muscle - Skeletal, M, 40-49	100	tissues
+RES00002653	Skin - Not Sun Exposed (Suprapubic), M, 40-49	56	tissues
+RES00002654	Brain - Cerebellum, M, 40-49	22	tissues
+RES00002655	Brain - Cortex, M, 40-49	24	tissues
+RES00002656	Pituitary, M, 40-49	21	tissues
+RES00002657	Nerve - Tibial, F, 60-69	74	tissues
+RES00002658	Brain - Cerebellar Hemisphere, M, 60-69	89	tissues
+RES00002659	Brain - Caudate (basal ganglia), M, 60-69	99	tissues
+RES00002660	Brain - Nucleus accumbens (basal ganglia), M, 60-69	92	tissues
+RES00002661	Brain - Putamen (basal ganglia), M, 60-69	83	tissues
+RES00002662	Brain - Hypothalamus, M, 60-69	85	tissues
+RES00002663	Liver, M, 60-69	61	tissues
+RES00002664	Artery - Coronary, M, 60-69	47	tissues
+RES00002665	Brain - Substantia nigra, M, 50-59	32	tissues
+RES00002666	Brain - Anterior cingulate cortex (BA24), M, 50-59	38	tissues
+RES00002667	Brain - Hippocampus, M, 60-69	87	tissues
+RES00002668	Cells - EBV-transformed lymphocytes, F, 20-29	10	primary cells
+RES00002669	Whole Blood, F, 20-29	122	tissues
+RES00002670	Thyroid, F, 20-29	24	tissues
+RES00002671	Artery - Aorta, F, 20-29	15	tissues
+RES00002672	Adrenal Gland, F, 20-29	8	tissues
+RES00002673	Heart - Atrial Appendage, F, 20-29	5	tissues
+RES00002674	Artery - Coronary, F, 20-29	7	tissues
+RES00002675	Heart - Left Ventricle, F, 20-29	22	tissues
+RES00002676	Esophagus - Muscularis, F, 20-29	23	tissues
+RES00002677	Esophagus - Mucosa, F, 20-29	23	tissues
+RES00002678	Esophagus - Gastroesophageal Junction, F, 20-29	8	tissues
+RES00002679	Stomach, F, 20-29	17	tissues
+RES00002680	Adipose - Visceral (Omentum), F, 20-29	16	tissues
+RES00002681	Skin - Not Sun Exposed (Suprapubic), F, 20-29	14	tissues
+RES00002682	Breast - Mammary Tissue, F, 20-29	14	tissues
+RES00002683	Colon - Transverse, F, 20-29	17	tissues
+RES00002684	Colon - Sigmoid, F, 20-29	13	tissues
+RES00002685	Ovary, F, 20-29	22	tissues
+RES00002686	Vagina, F, 20-29	18	tissues
+RES00002687	Uterus, F, 20-29	23	tissues
+RES00002688	Muscle - Skeletal, F, 20-29	35	tissues
+RES00002689	Artery - Tibial, F, 20-29	27	tissues
+RES00002690	Adipose - Subcutaneous, F, 20-29	24	tissues
+RES00002691	Skin - Sun Exposed (Lower leg), F, 20-29	29	tissues
+RES00002692	Brain - Cerebellar Hemisphere, F, 60-69	35	tissues
+RES00002693	Brain - Substantia nigra, F, 60-69	24	tissues
+RES00002694	Brain - Hypothalamus, F, 60-69	38	tissues
+RES00002695	Brain - Spinal cord (cervical c-1), F, 60-69	37	tissues
+RES00002696	Cells - EBV-transformed lymphocytes, M, 30-39	10	primary cells
+RES00002697	Whole Blood, M, 30-39	183	tissues
+RES00002698	Cells - Cultured fibroblasts, M, 30-39	24	primary cells
+RES00002699	Adrenal Gland, M, 30-39	16	tissues
+RES00002700	Lung, M, 30-39	41	tissues
+RES00002701	Spleen, M, 30-39	23	tissues
+RES00002702	Liver, M, 30-39	16	tissues
+RES00002703	Thyroid, M, 30-39	42	tissues
+RES00002704	Esophagus - Mucosa, M, 30-39	42	tissues
+RES00002705	Esophagus - Muscularis, M, 30-39	37	tissues
+RES00002706	Esophagus - Gastroesophageal Junction, M, 30-39	26	tissues
+RES00002707	Pancreas, M, 30-39	27	tissues
+RES00002708	Adipose - Visceral (Omentum), M, 30-39	31	tissues
+RES00002709	Stomach, M, 30-39	26	tissues
+RES00002710	Small Intestine - Terminal Ileum, M, 30-39	13	tissues
+RES00002711	Colon - Transverse, M, 30-39	33	tissues
+RES00002712	Colon - Sigmoid, M, 30-39	25	tissues
+RES00002713	Skin - Not Sun Exposed (Suprapubic), M, 30-39	38	tissues
+RES00002714	Prostate, M, 30-39	28	tissues
+RES00002715	Breast - Mammary Tissue, M, 30-39	33	tissues
+RES00002716	Testis, M, 30-39	35	tissues
+RES00002717	Minor Salivary Gland, M, 30-39	12	tissues
+RES00002718	Muscle - Skeletal, M, 30-39	69	tissues
+RES00002719	Artery - Tibial, M, 30-39	50	tissues
+RES00002720	Nerve - Tibial, M, 30-39	44	tissues
+RES00002721	Skin - Sun Exposed (Lower leg), M, 30-39	49	tissues
+RES00002722	Adipose - Subcutaneous, M, 30-39	46	tissues
+RES00002723	Brain - Substantia nigra, M, 60-69	64	tissues
+RES00002724	Kidney - Cortex, M, 60-69	31	tissues
+RES00002725	Brain - Anterior cingulate cortex (BA24), M, 60-69	76	tissues
+RES00002726	Brain - Hippocampus, F, 60-69	32	tissues
+RES00002727	Brain - Anterior cingulate cortex (BA24), F, 60-69	32	tissues
+RES00002728	Brain - Caudate (basal ganglia), F, 60-69	42	tissues
+RES00002729	Brain - Nucleus accumbens (basal ganglia), F, 60-69	40	tissues
+RES00002730	Brain - Putamen (basal ganglia), F, 60-69	32	tissues
+RES00002731	Liver, F, 60-69	25	tissues
+RES00002732	Cells - EBV-transformed lymphocytes, F, 50-59	21	primary cells
+RES00002733	Lung, F, 50-59	74	tissues
+RES00002734	Pancreas, F, 50-59	48	tissues
+RES00002735	Artery - Aorta, F, 50-59	52	tissues
+RES00002736	Heart - Left Ventricle, F, 50-59	73	tissues
+RES00002737	Artery - Coronary, F, 50-59	30	tissues
+RES00002738	Small Intestine - Terminal Ileum, F, 50-59	17	tissues
+RES00002739	Colon - Transverse, F, 50-59	46	tissues
+RES00002740	Colon - Sigmoid, F, 50-59	37	tissues
+RES00002741	Esophagus - Mucosa, F, 50-59	62	tissues
+RES00002742	Stomach, F, 50-59	41	tissues
+RES00002743	Adrenal Gland, F, 50-59	33	tissues
+RES00002744	Ovary, F, 50-59	62	tissues
+RES00002745	Breast - Mammary Tissue, F, 50-59	51	tissues
+RES00002746	Artery - Tibial, F, 50-59	80	tissues
+RES00002747	Adipose - Subcutaneous, F, 50-59	81	tissues
+RES00002748	Whole Blood, F, 40-49	224	tissues
+RES00002749	Cells - Cultured fibroblasts, F, 40-49	41	primary cells
+RES00002750	Skin - Sun Exposed (Lower leg), F, 40-49	59	tissues
+RES00002751	Adipose - Subcutaneous, F, 40-49	55	tissues
+RES00002752	Nerve - Tibial, F, 40-49	52	tissues
+RES00002753	Artery - Tibial, F, 40-49	57	tissues
+RES00002754	Skin - Not Sun Exposed (Suprapubic), F, 40-49	41	tissues
+RES00002755	Lung, F, 40-49	55	tissues
+RES00002756	Esophagus - Mucosa, F, 40-49	43	tissues
+RES00002757	Pancreas, F, 40-49	30	tissues
+RES00002758	Colon - Transverse, F, 40-49	38	tissues
+RES00002759	Breast - Mammary Tissue, F, 40-49	44	tissues
+RES00002760	Heart - Atrial Appendage, F, 40-49	26	tissues
+RES00002761	Thyroid, F, 40-49	64	tissues
+RES00002762	Artery - Aorta, M, 30-39	26	tissues
+RES00002763	Heart - Atrial Appendage, M, 30-39	11	tissues
+RES00002764	Heart - Left Ventricle, M, 30-39	37	tissues
+RES00002765	Whole Blood, M, 20-29	189	tissues
+RES00002766	Cells - Cultured fibroblasts, M, 20-29	31	primary cells
+RES00002767	Thyroid, M, 20-29	43	tissues
+RES00002768	Adrenal Gland, M, 20-29	14	tissues
+RES00002769	Lung, M, 20-29	35	tissues
+RES00002770	Spleen, M, 20-29	15	tissues
+RES00002771	Pancreas, M, 20-29	17	tissues
+RES00002772	Skin - Not Sun Exposed (Suprapubic), M, 20-29	36	tissues
+RES00002773	Prostate, M, 20-29	31	tissues
+RES00002774	Breast - Mammary Tissue, M, 20-29	27	tissues
+RES00002775	Testis, M, 20-29	38	tissues
+RES00002776	Esophagus - Mucosa, M, 20-29	39	tissues
+RES00002777	Esophagus - Muscularis, M, 20-29	42	tissues
+RES00002778	Stomach, M, 20-29	28	tissues
+RES00002779	Colon - Transverse, M, 20-29	27	tissues
+RES00002780	Small Intestine - Terminal Ileum, M, 20-29	19	tissues
+RES00002781	Nerve - Tibial, M, 20-29	45	tissues
+RES00002782	Muscle - Skeletal, M, 20-29	59	tissues
+RES00002783	Skin - Sun Exposed (Lower leg), M, 20-29	48	tissues
+RES00002784	Brain - Amygdala, M, 50-59	42	tissues
+RES00002785	Testis, M, 40-49	58	tissues
+RES00002786	Heart - Atrial Appendage, M, 40-49	39	tissues
+RES00002787	Heart - Left Ventricle, M, 40-49	71	tissues
+RES00002788	Lung, M, 40-49	104	tissues
+RES00002789	Kidney - Cortex, M, 40-49	8	tissues
+RES00002790	Esophagus - Muscularis, M, 40-49	56	tissues
+RES00002791	Esophagus - Gastroesophageal Junction, M, 40-49	41	tissues
+RES00002792	Colon - Transverse, M, 40-49	41	tissues
+RES00002793	Thyroid, M, 40-49	76	tissues
+RES00002794	Prostate, M, 40-49	39	tissues
+RES00002795	Cells - EBV-transformed lymphocytes, M, 60-69	28	primary cells
+RES00002796	Brain - Amygdala, M, 60-69	55	tissues
+RES00002797	Brain - Spinal cord (cervical c-1), M, 60-69	51	tissues
+RES00002798	Whole Blood, F, 30-39	68	tissues
+RES00002799	Cells - Cultured fibroblasts, F, 30-39	15	primary cells
+RES00002800	Thyroid, F, 30-39	17	tissues
+RES00002801	Lung, F, 30-39	22	tissues
+RES00002802	Artery - Aorta, F, 30-39	14	tissues
+RES00002803	Heart - Atrial Appendage, F, 30-39	8	tissues
+RES00002804	Adipose - Visceral (Omentum), F, 30-39	14	tissues
+RES00002805	Esophagus - Mucosa, F, 30-39	17	tissues
+RES00002806	Esophagus - Muscularis, F, 30-39	18	tissues
+RES00002807	Esophagus - Gastroesophageal Junction, F, 30-39	9	tissues
+RES00002808	Colon - Transverse, F, 30-39	16	tissues
+RES00002809	Spleen, F, 30-39	9	tissues
+RES00002810	Colon - Sigmoid, F, 30-39	14	tissues
+RES00002811	Ovary, F, 30-39	15	tissues
+RES00002812	Uterus, F, 30-39	20	tissues
+RES00002813	Breast - Mammary Tissue, F, 30-39	17	tissues
+RES00002814	Minor Salivary Gland, F, 30-39	4	tissues
+RES00002815	Vagina, F, 30-39	13	tissues
+RES00002816	Skin - Not Sun Exposed (Suprapubic), F, 30-39	14	tissues
+RES00002817	Skin - Sun Exposed (Lower leg), F, 30-39	17	tissues
+RES00002818	Adipose - Subcutaneous, F, 30-39	19	tissues
+RES00002819	Muscle - Skeletal, F, 30-39	26	tissues
+RES00002820	Nerve - Tibial, F, 30-39	18	tissues
+RES00002821	Artery - Tibial, F, 30-39	15	tissues
+RES00002822	Artery - Aorta, M, 20-29	24	tissues
+RES00002823	Adipose - Visceral (Omentum), M, 20-29	30	tissues
+RES00002824	Esophagus - Gastroesophageal Junction, M, 20-29	26	tissues
+RES00002825	Minor Salivary Gland, M, 20-29	11	tissues
+RES00002826	Colon - Sigmoid, M, 20-29	26	tissues
+RES00002827	Adipose - Subcutaneous, M, 20-29	40	tissues
+RES00002828	Kidney - Cortex, M, 50-59	27	tissues
+RES00002829	Cells - EBV-transformed lymphocytes, M, 20-29	13	primary cells
+RES00002830	Heart - Left Ventricle, M, 20-29	22	tissues
+RES00002831	Heart - Atrial Appendage, M, 20-29	10	tissues
+RES00002832	Artery - Coronary, M, 20-29	9	tissues
+RES00002833	Liver, M, 20-29	4	tissues
+RES00002834	Artery - Tibial, M, 20-29	43	tissues
+RES00002835	Brain - Amygdala, F, 60-69	30	tissues
+RES00002836	Kidney - Cortex, F, 60-69	9	tissues
+RES00002837	Brain - Hippocampus, F, 40-49	9	tissues
+RES00002838	Brain - Substantia nigra, F, 40-49	6	tissues
+RES00002839	Brain - Anterior cingulate cortex (BA24), F, 40-49	8	tissues
+RES00002840	Brain - Caudate (basal ganglia), F, 40-49	11	tissues
+RES00002841	Muscle - Skeletal, F, 40-49	80	tissues
+RES00002842	Cells - EBV-transformed lymphocytes, F, 40-49	16	primary cells
+RES00002843	Spleen, F, 40-49	21	tissues
+RES00002844	Stomach, F, 40-49	30	tissues
+RES00002845	Esophagus - Muscularis, F, 40-49	50	tissues
+RES00002846	Vagina, F, 40-49	42	tissues
+RES00002847	Esophagus - Gastroesophageal Junction, F, 40-49	33	tissues
+RES00002848	Ovary, F, 40-49	44	tissues
+RES00002849	Adipose - Visceral (Omentum), F, 40-49	41	tissues
+RES00002850	Colon - Sigmoid, F, 40-49	26	tissues
+RES00002851	Small Intestine - Terminal Ileum, F, 40-49	15	tissues
+RES00002852	Adrenal Gland, F, 40-49	22	tissues
+RES00002853	Brain - Frontal Cortex (BA9), M, 30-39	7	tissues
+RES00002854	Brain - Cerebellar Hemisphere, M, 30-39	4	tissues
+RES00002855	Brain - Hypothalamus, M, 30-39	3	tissues
+RES00002856	Brain - Spinal cord (cervical c-1), M, 30-39	1	tissues
+RES00002857	Artery - Coronary, M, 30-39	8	tissues
+RES00002858	Brain - Cerebellum, M, 30-39	8	tissues
+RES00002859	Brain - Cortex, M, 30-39	8	tissues
+RES00002860	Pituitary, M, 30-39	6	tissues
+RES00002861	Brain - Hippocampus, F, 50-59	21	tissues
+RES00002862	Brain - Anterior cingulate cortex (BA24), F, 50-59	14	tissues
+RES00002863	Brain - Amygdala, F, 50-59	13	tissues
+RES00002864	Brain - Spinal cord (cervical c-1), F, 50-59	18	tissues
+RES00002865	Heart - Atrial Appendage, F, 50-59	51	tissues
+RES00002866	Liver, F, 50-59	24	tissues
+RES00002867	Nerve - Tibial, F, 50-59	71	tissues
+RES00002868	Brain - Cerebellum, F, 50-59	22	tissues
+RES00002869	Brain - Frontal Cortex (BA9), M, 20-29	8	tissues
+RES00002870	Brain - Cerebellar Hemisphere, M, 20-29	7	tissues
+RES00002871	Brain - Spinal cord (cervical c-1), M, 20-29	4	tissues
+RES00002872	Brain - Cerebellum, M, 20-29	6	tissues
+RES00002873	Brain - Cortex, M, 20-29	5	tissues
+RES00002874	Pituitary, M, 20-29	5	tissues
+RES00002875	Adipose - Visceral (Omentum), M, 40-49	49	tissues
+RES00002876	Brain - Frontal Cortex (BA9), F, 50-59	36	tissues
+RES00002877	Brain - Substantia nigra, F, 50-59	13	tissues
+RES00002878	Brain - Caudate (basal ganglia), F, 50-59	19	tissues
+RES00002879	Brain - Nucleus accumbens (basal ganglia), F, 50-59	21	tissues
+RES00002880	Skin - Not Sun Exposed (Suprapubic), F, 50-59	59	tissues
+RES00002881	Brain - Cortex, F, 50-59	27	tissues
+RES00002882	Brain - Hippocampus, M, 20-29	5	tissues
+RES00002883	Brain - Nucleus accumbens (basal ganglia), M, 20-29	7	tissues
+RES00002884	Brain - Putamen (basal ganglia), M, 20-29	5	tissues
+RES00002885	Whole Blood, M, 70-79	61	tissues
+RES00002886	Cells - Cultured fibroblasts, M, 70-79	7	primary cells
+RES00002887	Brain - Frontal Cortex (BA9), M, 70-79	17	tissues
+RES00002888	Brain - Cerebellar Hemisphere, M, 70-79	13	tissues
+RES00002889	Brain - Hippocampus, M, 70-79	9	tissues
+RES00002890	Brain - Substantia nigra, M, 70-79	4	tissues
+RES00002891	Brain - Anterior cingulate cortex (BA24), M, 70-79	11	tissues
+RES00002892	Brain - Amygdala, M, 70-79	8	tissues
+RES00002893	Brain - Caudate (basal ganglia), M, 70-79	12	tissues
+RES00002894	Brain - Nucleus accumbens (basal ganglia), M, 70-79	12	tissues
+RES00002895	Brain - Putamen (basal ganglia), M, 70-79	7	tissues
+RES00002896	Nerve - Tibial, M, 70-79	17	tissues
+RES00002897	Muscle - Skeletal, M, 70-79	24	tissues
+RES00002898	Adipose - Visceral (Omentum), M, 70-79	15	tissues
+RES00002899	Skin - Not Sun Exposed (Suprapubic), M, 70-79	17	tissues
+RES00002900	Pituitary, M, 70-79	16	tissues
+RES00002901	Brain - Cortex, M, 70-79	12	tissues
+RES00002902	Kidney - Cortex, F, 50-59	6	tissues
+RES00002903	Spleen, F, 50-59	28	tissues
+RES00002904	Brain - Hippocampus, M, 50-59	50	tissues
+RES00002905	Artery - Aorta, F, 40-49	28	tissues
+RES00002906	Heart - Left Ventricle, F, 40-49	36	tissues
+RES00002907	Artery - Coronary, F, 40-49	22	tissues
+RES00002908	Uterus, F, 40-49	36	tissues
+RES00002909	Cells - EBV-transformed lymphocytes, M, 50-59	41	primary cells
+RES00002910	Cells - EBV-transformed lymphocytes, M, 40-49	26	primary cells
+RES00002911	Spleen, M, 40-49	31	tissues
+RES00002912	Artery - Aorta, M, 40-49	42	tissues
+RES00002913	Pancreas, M, 40-49	44	tissues
+RES00002914	Adrenal Gland, M, 40-49	29	tissues
+RES00002915	Minor Salivary Gland, M, 40-49	21	tissues
+RES00002916	Esophagus - Mucosa, M, 40-49	68	tissues
+RES00002917	Brain - Frontal Cortex (BA9), F, 40-49	10	tissues
+RES00002918	Brain - Cerebellar Hemisphere, F, 40-49	9	tissues
+RES00002919	Brain - Nucleus accumbens (basal ganglia), F, 40-49	8	tissues
+RES00002920	Brain - Putamen (basal ganglia), F, 40-49	6	tissues
+RES00002921	Brain - Hypothalamus, F, 40-49	6	tissues
+RES00002922	Brain - Cerebellum, F, 40-49	8	tissues
+RES00002923	Brain - Cortex, F, 40-49	11	tissues
+RES00002924	Pituitary, F, 40-49	7	tissues
+RES00002925	Brain - Cerebellar Hemisphere, F, 50-59	18	tissues
+RES00002926	Brain - Putamen (basal ganglia), F, 50-59	17	tissues
+RES00002927	Brain - Hypothalamus, F, 50-59	16	tissues
+RES00002928	Stomach, M, 40-49	38	tissues
+RES00002929	Colon - Sigmoid, M, 40-49	30	tissues
+RES00002930	Cells - Cultured fibroblasts, F, 20-29	15	primary cells
+RES00002931	Lung, F, 20-29	25	tissues
+RES00002932	Small Intestine - Terminal Ileum, F, 20-29	9	tissues
+RES00002933	Nerve - Tibial, F, 20-29	15	tissues
+RES00002934	Pancreas, F, 30-39	5	tissues
+RES00002935	Adrenal Gland, F, 30-39	5	tissues
+RES00002936	Kidney - Cortex, F, 30-39	2	tissues
+RES00002937	Artery - Coronary, F, 30-39	5	tissues
+RES00002938	Heart - Left Ventricle, F, 30-39	15	tissues
+RES00002939	Stomach, F, 30-39	13	tissues
+RES00002940	Small Intestine - Terminal Ileum, F, 30-39	9	tissues
+RES00002941	Artery - Coronary, M, 40-49	19	tissues
+RES00002942	Liver, M, 40-49	28	tissues
+RES00002943	Small Intestine - Terminal Ileum, M, 40-49	23	tissues
+RES00002944	Pancreas, F, 20-29	13	tissues
+RES00002945	Brain - Spinal cord (cervical c-1), F, 40-49	10	tissues
+RES00002946	Brain - Hypothalamus, M, 70-79	9	tissues
+RES00002947	Skin - Sun Exposed (Lower leg), M, 70-79	20	tissues
+RES00002948	Adipose - Subcutaneous, M, 70-79	14	tissues
+RES00002949	Thyroid, M, 70-79	16	tissues
+RES00002950	Brain - Spinal cord (cervical c-1), M, 70-79	10	tissues
+RES00002951	Artery - Tibial, M, 70-79	15	tissues
+RES00002952	Breast - Mammary Tissue, M, 70-79	12	tissues
+RES00002953	Lung, M, 70-79	22	tissues
+RES00002954	Heart - Atrial Appendage, M, 70-79	12	tissues
+RES00002955	Heart - Left Ventricle, M, 70-79	13	tissues
+RES00002956	Esophagus - Gastroesophageal Junction, M, 70-79	9	tissues
+RES00002957	Stomach, M, 70-79	5	tissues
+RES00002958	Testis, M, 70-79	12	tissues
+RES00002959	Brain - Cerebellar Hemisphere, M, 40-49	15	tissues
+RES00002960	Brain - Substantia nigra, M, 40-49	10	tissues
+RES00002961	Brain - Amygdala, M, 40-49	10	tissues
+RES00002962	Brain - Hypothalamus, M, 40-49	13	tissues
+RES00002963	Brain - Spinal cord (cervical c-1), M, 40-49	9	tissues
+RES00002964	Brain - Cerebellum, M, 70-79	11	tissues
+RES00002965	Minor Salivary Gland, F, 40-49	12	tissues
+RES00002966	Colon - Sigmoid, M, 70-79	8	tissues
+RES00002967	Spleen, F, 20-29	9	tissues
+RES00002968	Minor Salivary Gland, F, 20-29	3	tissues
+RES00002969	Kidney - Cortex, M, 30-39	7	tissues
+RES00002970	Esophagus - Mucosa, M, 70-79	11	tissues
+RES00002971	Esophagus - Muscularis, M, 70-79	5	tissues
+RES00002972	Adrenal Gland, M, 70-79	5	tissues
+RES00002973	Prostate, M, 70-79	7	tissues
+RES00002974	Small Intestine - Terminal Ileum, M, 70-79	3	tissues
+RES00002975	Colon - Transverse, M, 70-79	9	tissues
+RES00002976	Liver, F, 40-49	15	tissues
+RES00002977	Artery - Coronary, M, 70-79	5	tissues
+RES00002978	Artery - Aorta, M, 70-79	6	tissues
+RES00002979	Liver, M, 70-79	4	tissues
+RES00002980	Whole Blood, F, 70-79	28	tissues
+RES00002981	Brain - Frontal Cortex (BA9), F, 70-79	7	tissues
+RES00002982	Brain - Cerebellar Hemisphere, F, 70-79	7	tissues
+RES00002983	Brain - Hippocampus, F, 70-79	5	tissues
+RES00002984	Brain - Anterior cingulate cortex (BA24), F, 70-79	4	tissues
+RES00002985	Brain - Caudate (basal ganglia), F, 70-79	6	tissues
+RES00002986	Brain - Hypothalamus, F, 70-79	4	tissues
+RES00002987	Skin - Sun Exposed (Lower leg), F, 70-79	9	tissues
+RES00002988	Adipose - Subcutaneous, F, 70-79	8	tissues
+RES00002989	Nerve - Tibial, F, 70-79	7	tissues
+RES00002990	Muscle - Skeletal, F, 70-79	13	tissues
+RES00002991	Breast - Mammary Tissue, F, 70-79	6	tissues
+RES00002992	Lung, F, 70-79	5	tissues
+RES00002993	Skin - Not Sun Exposed (Suprapubic), F, 70-79	8	tissues
+RES00002994	Brain - Cerebellum, F, 70-79	4	tissues
+RES00002995	Pituitary, F, 70-79	4	tissues
+RES00002996	Adrenal Gland, F, 70-79	2	tissues
+RES00002997	Thyroid, F, 70-79	7	tissues
+RES00002998	Spleen, F, 70-79	1	tissues
+RES00002999	Artery - Aorta, F, 70-79	3	tissues
+RES00003000	Heart - Atrial Appendage, F, 70-79	5	tissues
+RES00003001	Heart - Left Ventricle, F, 70-79	5	tissues
+RES00003002	Adipose - Visceral (Omentum), F, 70-79	4	tissues
+RES00003003	Pancreas, F, 70-79	3	tissues
+RES00003004	Esophagus - Muscularis, F, 70-79	5	tissues
+RES00003005	Esophagus - Gastroesophageal Junction, F, 70-79	3	tissues
+RES00003006	Esophagus - Mucosa, F, 70-79	6	tissues
+RES00003007	Small Intestine - Terminal Ileum, F, 70-79	1	tissues
+RES00003008	Colon - Transverse, F, 70-79	2	tissues
+RES00003009	Colon - Sigmoid, F, 70-79	5	tissues
+RES00003010	Artery - Tibial, F, 70-79	5	tissues
+RES00003011	Cells - Cultured fibroblasts, F, 70-79	6	primary cells
+RES00003012	Brain - Substantia nigra, F, 70-79	1	tissues
+RES00003013	Brain - Amygdala, F, 70-79	2	tissues
+RES00003014	Brain - Nucleus accumbens (basal ganglia), F, 70-79	3	tissues
+RES00003015	Brain - Putamen (basal ganglia), F, 70-79	2	tissues
+RES00003016	Brain - Spinal cord (cervical c-1), F, 70-79	2	tissues
+RES00003017	Brain - Cortex, F, 70-79	6	tissues
+RES00003018	Brain - Frontal Cortex (BA9), F, 20-29	2	tissues
+RES00003019	Brain - Cerebellar Hemisphere, F, 20-29	3	tissues
+RES00003020	Brain - Hippocampus, F, 20-29	1	tissues
+RES00003021	Brain - Substantia nigra, F, 20-29	2	tissues
+RES00003022	Brain - Anterior cingulate cortex (BA24), F, 20-29	3	tissues
+RES00003023	Brain - Amygdala, F, 20-29	2	tissues
+RES00003024	Brain - Caudate (basal ganglia), F, 20-29	3	tissues
+RES00003025	Brain - Nucleus accumbens (basal ganglia), F, 20-29	3	tissues
+RES00003026	Brain - Putamen (basal ganglia), F, 20-29	1	tissues
+RES00003027	Brain - Hypothalamus, F, 20-29	1	tissues
+RES00003028	Brain - Spinal cord (cervical c-1), F, 20-29	1	tissues
+RES00003029	Liver, F, 20-29	4	tissues
+RES00003030	Brain - Cerebellum, F, 20-29	2	tissues
+RES00003031	Brain - Cortex, F, 20-29	4	tissues
+RES00003032	Pituitary, F, 20-29	4	tissues
+RES00003033	Brain - Amygdala, F, 40-49	6	tissues
+RES00003034	Ovary, F, 70-79	4	tissues
+RES00003035	Vagina, F, 70-79	6	tissues
+RES00003036	Spleen, M, 70-79	3	tissues
+RES00003037	Brain - Hippocampus, M, 30-39	4	tissues
+RES00003038	Brain - Anterior cingulate cortex (BA24), M, 30-39	3	tissues
+RES00003039	Brain - Amygdala, M, 30-39	3	tissues
+RES00003040	Brain - Caudate (basal ganglia), M, 30-39	5	tissues
+RES00003041	Brain - Nucleus accumbens (basal ganglia), M, 30-39	4	tissues
+RES00003042	Brain - Putamen (basal ganglia), M, 30-39	4	tissues
+RES00003043	Kidney - Cortex, M, 70-79	4	tissues
+RES00003044	Artery - Coronary, F, 70-79	1	tissues
+RES00003045	Brain - Frontal Cortex (BA9), F, 30-39	2	tissues
+RES00003046	Brain - Cerebellar Hemisphere, F, 30-39	2	tissues
+RES00003047	Brain - Hippocampus, F, 30-39	2	tissues
+RES00003048	Brain - Substantia nigra, F, 30-39	2	tissues
+RES00003049	Brain - Amygdala, F, 30-39	2	tissues
+RES00003050	Brain - Caudate (basal ganglia), F, 30-39	2	tissues
+RES00003051	Brain - Nucleus accumbens (basal ganglia), F, 30-39	2	tissues
+RES00003052	Brain - Putamen (basal ganglia), F, 30-39	2	tissues
+RES00003053	Brain - Hypothalamus, F, 30-39	2	tissues
+RES00003054	Brain - Cerebellum, F, 30-39	3	tissues
+RES00003055	Brain - Cortex, F, 30-39	2	tissues
+RES00003056	Pituitary, F, 30-39	2	tissues
+RES00003057	Minor Salivary Gland, M, 70-79	2	tissues
+RES00003058	Minor Salivary Gland, F, 50-59	11	tissues
+RES00003059	Cells - EBV-transformed lymphocytes, F, 70-79	2	primary cells
+RES00003060	Liver, F, 70-79	2	tissues
+RES00003061	Pancreas, M, 70-79	5	tissues
+RES00003062	Cells - EBV-transformed lymphocytes, M, 70-79	2	primary cells
+RES00003063	Brain - Substantia nigra, M, 30-39	3	tissues
+RES00003064	Uterus, F, 70-79	1	tissues
+RES00003065	Stomach, F, 70-79	1	tissues
+RES00003066	Kidney - Cortex, F, 40-49	3	tissues
+RES00003067	Kidney - Cortex, M, 20-29	2	tissues
+RES00003068	Liver, F, 30-39	3	tissues
+RES00003069	Cervix - Ectocervix, F, 60-69	2	tissues
+RES00003070	Fallopian Tube, F, 50-59	3	tissues
+RES00003071	Cervix - Endocervix, F, 60-69	2	tissues
+RES00003072	Bladder, M, 60-69	2	tissues
+RES00003073	Bladder, M, 40-49	4	tissues
+RES00003074	Cervix - Ectocervix, F, 40-49	4	tissues
+RES00003075	Cervix - Endocervix, F, 40-49	5	tissues
+RES00003076	Cervix - Endocervix, F, 50-59	2	tissues
+RES00003077	Brain - Anterior cingulate cortex (BA24), F, 30-39	1	tissues
+RES00003078	Brain - Spinal cord (cervical c-1), F, 30-39	3	tissues
+RES00003079	Bladder, M, 50-59	5	tissues
+RES00003080	Brain - Substantia nigra, M, 20-29	3	tissues
+RES00003081	Brain - Amygdala, M, 20-29	4	tissues
+RES00003082	Brain - Caudate (basal ganglia), M, 20-29	4	tissues
+RES00003083	Brain - Hypothalamus, M, 20-29	4	tissues
+RES00003084	Kidney - Medulla, M, 20-29	2	tissues
+RES00003085	Kidney - Medulla, F, 50-59	1	tissues
+RES00003086	Bladder, F, 50-59	2	tissues
+RES00003087	Cervix - Ectocervix, F, 50-59	1	tissues
+RES00003088	Bladder, M, 30-39	1	tissues
+RES00003089	Fallopian Tube, F, 40-49	3	tissues
+RES00003090	Bladder, M, 20-29	2	tissues
+RES00003091	Bladder, F, 40-49	3	tissues
+RES00003092	Fallopian Tube, F, 20-29	1	tissues
+RES00003093	Cervix - Ectocervix, F, 20-29	1	tissues
+RES00003094	Cervix - Endocervix, F, 20-29	1	tissues
+RES00003095	Bladder, F, 20-29	1	tissues
+RES00003096	Kidney - Medulla, M, 50-59	1	tissues
+RES00003097	Fallopian Tube, F, 60-69	1	tissues
+RES00003098	Cells - EBV-transformed lymphocytes, F, 30-39	2	primary cells
+RES00003099	Fallopian Tube, F, 30-39	1	tissues
+RES00003100	Bladder, F, 30-39	1	tissues
+RES00003101	Cervix - Ectocervix, F, 30-39	1	tissues
+RES00003102	Kidney - Cortex, F, 20-29	1	tissues
+RES00003103	Brain - Anterior cingulate cortex (BA24), M, 20-29	1	tissues
+RES00003104	Cells - Leukemia cell line (CML), F, 50-59	217	primary cells
