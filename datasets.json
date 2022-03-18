@@ -1,0 +1,66 @@
+[
+  {
+    "dataset": "fantom5_human",
+    "sample_filter": [
+      {
+        "column": "Sample type category",
+        "label": "Sample type",
+        "note": "FANTOM5",
+        "ontology": false
+      },
+      {
+        "column": "Experiment category",
+        "label": "Experiment",
+        "note": "FANTOM5",
+        "ontology": false
+      },
+      {
+        "column": "UBERON label",
+        "label": "Tissue",
+        "note": "UBERON",
+        "ontology": true
+      },
+      {
+        "column": "CL label",
+        "label": "Cell type",
+        "note": "Cell Ontology",
+        "ontology": true
+      },
+      {
+        "column": "NCIT label",
+        "label": "Disease",
+        "note": "NCI Thesaurus",
+        "ontology": true
+      }
+    ]
+  },
+  {
+    "dataset": "gtex_v8",
+    "sample_filter": [
+      {
+        "column": "Tissue",
+        "label": "Tissue",
+        "note": "",
+        "ontology": false
+      },
+      {
+        "column": "Sub-region",
+        "label": "Sub-region",
+        "note": "",
+        "ontology": false
+      },
+      {
+        "column": "Sex",
+        "label": "Sex",
+        "note": "",
+        "ontology": false
+      },
+      {
+        "column": "Age",
+        "label": "Age",
+        "note": "",
+        "ontology": false
+      }
+    ]
+  }
+]
